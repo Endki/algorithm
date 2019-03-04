@@ -25,19 +25,19 @@ public class B3460 {
 		NN=input.nextInt();
 		int converter[]=new int[99];
 		
-		for(int j=0;;) {
-			converter[j]=NN%2;
+		for(int j=0;;) {                 
+			converter[j]=NN%2;          // mod 2 
 			j+=1;
 			NN=NN/2;
-			if(NN==0) {
+			if(NN==0) {                 // 나눈값이 0되면 break
 				break;
 			}else {
 				converter[j]=1;
 			}
 		}
 		for(int j=0;j<99;j++) {
-		if(converter[j]==1) {
-		System.out.println(j);
+		if(converter[j]==1) {    // 1인것만 출력
+		System.out.println(j);   
 		}
 		}
 	}
