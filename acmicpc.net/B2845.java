@@ -16,10 +16,10 @@ public class B2845 {
 		L=input.nextInt();
 		P=input.nextInt();
 		
-		sum=L*P;
+		sum=L*P;                  // 실 측정값 계산
 		for(int i=0;i<5;i++) {
 		S=input.nextInt();
-		arr[i]=S-sum;
+		arr[i]=S-sum;             
 		}
 		
 		for(int i=0;i<5;i++) {
