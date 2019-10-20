@@ -13,7 +13,7 @@
 |:----:|:-----------------------------------------------------------:|:---------------------------:|:----:|:---------------------------------------------------:|:---------------------------:|
 |  1   | [파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845) | [java](acmicpc.net/B2845.java) |  2   |   [이진수](https://www.acmicpc.net/problem/3460)    | [java](acmicpc.net/B3460.java) |
 |  3   | [싱기한 네자리 숫자](https://www.acmicpc.net/problem/6679)  | [java](acmicpc.net/B6679.java) |  4   | [디지털 루트](https://www.acmicpc.net/problem/6378) | [java](acmicpc.net/B6378.java) |
-|  5   |     [IBM 빼기 1](https://www.acmicpc.net/problem/6321)      | [cpp](acmicpc.net/B6321.java) |      |                                                     |                             |
+|  5   |     [IBM 빼기 1](https://www.acmicpc.net/problem/6321)      | [java](acmicpc.net/B6321.java) |      |                                                     |                             |
 
 구현
 ----
