@@ -21,7 +21,7 @@
 | 번호 | 문제                                                            | 코드                         | 번호 | 문제                                                             | 코드                         |
 |:----:|:---------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
 |  1   |          [J박스](https://www.acmicpc.net/problem/5354)          | [java](acmicpc.net/B5354.java)  |  2   |           [곱셈](https://www.acmicpc.net/problem/2588)           | [java](acmicpc.net/B2588.java)  |
-|  3   |      [인공지능 시계](https://www.acmicpc.net/problem/2530)      | [cpp](acmicpc.net/2530.cpp)  |  4   |        [오븐 시계](https://www.acmicpc.net/problem/2525)         | [cpp](acmicpc.net/2525.cpp)  |
+|  3   |      [인공지능 시계](https://www.acmicpc.net/problem/2530)      | [java](acmicpc.net/B2530.java)  |  4   |        [오븐 시계](https://www.acmicpc.net/problem/2525)         | [java](acmicpc.net/B2525.java)  |
 |  5   |       [최소공배수](https://www.acmicpc.net/problem/13241)       | [cpp](acmicpc.net/13241.cpp) |  6   | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)  | [cpp](acmicpc.net/15894.cpp) |
 |  7   |     [카드 합체 놀이](https://www.acmicpc.net/problem/15903)     | [cpp](acmicpc.net/15903.cpp) |  8   | [UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904) | [cpp](acmicpc.net/15904.cpp) |
 |  9   | [CTP공국으로 이민 가자](https://www.acmicpc.net/problem/12778)  | [cpp](acmicpc.net/12778.cpp) |  10  |      [X보다 작은 수](https://www.acmicpc.net/problem/10871)      | [cpp](acmicpc.net/10871.cpp) |
