@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 /*191016*/
 
-public class Main {
+public class B6378 {
 
 	public static void main(String[] args) throws IOException {
 
@@ -24,7 +24,7 @@ public class Main {
             }
 			output.append(digital_root(input) + "\n");
 		}
-		
+
 		System.out.println(output.toString());
 
 	}
