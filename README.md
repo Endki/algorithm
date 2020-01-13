@@ -24,7 +24,7 @@
 |  3   |      [인공지능 시계](https://www.acmicpc.net/problem/2530)      | [java](acmicpc.net/B2530.java)  |  4   |        [오븐 시계](https://www.acmicpc.net/problem/2525)         | [java](acmicpc.net/B2525.java)  |
 |  5   |       [최소공배수](https://www.acmicpc.net/problem/13241)       | [java](acmicpc.net/B13241.java) |  6   | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)  | [java](acmicpc.net/B15894.java) |
 |  7   |     [카드 합체 놀이](https://www.acmicpc.net/problem/15903)     | [java](acmicpc.net/B15903.java) |  8   | [UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904) | [java](acmicpc.net/B15904.java) |
-|  9   | [CTP공국으로 이민 가자](https://www.acmicpc.net/problem/12778)  | [java](acmicpc.net/B12778.java) |  10  |      [X보다 작은 수](https://www.acmicpc.net/problem/10871)      |  [cpp](acmicpc.net/10871.cpp)   |
+|  9   | [CTP공국으로 이민 가자](https://www.acmicpc.net/problem/12778)  | [java](acmicpc.net/B12778.java) |  10  |      [X보다 작은 수](https://www.acmicpc.net/problem/10871)      | [java](acmicpc.net/B10871.java) |
 |  11  |        [팩토리얼](https://www.acmicpc.net/problem/10872)        |  [cpp](acmicpc.net/10872.cpp)   |  12  | [0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886) |  [cpp](acmicpc.net/10886.cpp)   |
 |  13  |    [내 학점을 구해줘](https://www.acmicpc.net/problem/10984)    |  [cpp](acmicpc.net/10984.cpp)   |  14  |        [평균 점수](https://www.acmicpc.net/problem/10039)        |  [cpp](acmicpc.net/10039.cpp)   |
 |  15  |    [Mini Fantasy War](https://www.acmicpc.net/problem/12790)    |  [cpp](acmicpc.net/12790.cpp)   |  16  |         [10부제](https://www.acmicpc.net/problem/10797)          |  [cpp](acmicpc.net/10797.cpp)   |
