@@ -1,4 +1,3 @@
-package jaja;
 
 import java.util.Scanner;
 
