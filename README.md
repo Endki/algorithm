@@ -27,8 +27,8 @@
 |  9   | [CTP공국으로 이민 가자](https://www.acmicpc.net/problem/12778)  | [java](acmicpc.net/B12778.java) |  10  |      [X보다 작은 수](https://www.acmicpc.net/problem/10871)      | [java](acmicpc.net/B10871.java) |
 |  11  |        [팩토리얼](https://www.acmicpc.net/problem/10872)        | [java](acmicpc.net/B10872.java) |  12  | [0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886) | [java](acmicpc.net/B10886.java) |
 |  13  |    [내 학점을 구해줘](https://www.acmicpc.net/problem/10984)    |  [java](acmicpc.net/B10984.java)   |  14  |        [평균 점수](https://www.acmicpc.net/problem/10039)        |  [java](acmicpc.net/B10039.java)   |
-|  15  |    [Mini Fantasy War](https://www.acmicpc.net/problem/12790)    |  [cpp](acmicpc.net/12790.cpp)   |  16  |         [10부제](https://www.acmicpc.net/problem/10797)          |  [cpp](acmicpc.net/10797.cpp)   |
-|  17  |          [BABBA](https://www.acmicpc.net/problem/9625)          |   [cpp](acmicpc.net/9625.cpp)   |  18  |        [수도요금](https://www.acmicpc.net/problem/10707)         |  [cpp](acmicpc.net/10707.cpp)   |
+|  15  |    [Mini Fantasy War](https://www.acmicpc.net/problem/12790)    |  [java](acmicpc.net/B12790.java)   |  16  |         [10부제](https://www.acmicpc.net/problem/10797)          |  [java](acmicpc.net/B10797.java)   |
+|  17  |          [BABBA](https://www.acmicpc.net/problem/9625)          |   [java](acmicpc.net/B9625.java)   |  18  |        [수도요금](https://www.acmicpc.net/problem/10707)         |  [java](acmicpc.net/B10707.java)   |
 |  19  |          [투표](https://www.acmicpc.net/problem/10040)          |  [cpp](acmicpc.net/10040.cpp)   |  20  |        [세로읽기](https://www.acmicpc.net/problem/10798)         |  [cpp](acmicpc.net/10798.cpp)   |
 |  21  |         [공약수](https://www.acmicpc.net/problem/5618)          |   [cpp](acmicpc.net/5618.cpp)   |  22  |          [올림픽](https://www.acmicpc.net/problem/8979)          |   [cpp](acmicpc.net/8979.cpp)   |
 |  23  | [직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320)  |   [cpp](acmicpc.net/8320.cpp)   |  24  |         [상근날드](https://www.acmicpc.net/problem/5543)         |   [cpp](acmicpc.net/5543.cpp)   |
