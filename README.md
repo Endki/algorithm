@@ -29,8 +29,8 @@
 |  13  |    [내 학점을 구해줘](https://www.acmicpc.net/problem/10984)    |  [java](acmicpc.net/B10984.java)   |  14  |        [평균 점수](https://www.acmicpc.net/problem/10039)        |  [java](acmicpc.net/B10039.java)   |
 |  15  |    [Mini Fantasy War](https://www.acmicpc.net/problem/12790)    |  [java](acmicpc.net/B12790.java)   |  16  |         [10부제](https://www.acmicpc.net/problem/10797)          |  [java](acmicpc.net/B10797.java)   |
 |  17  |          [BABBA](https://www.acmicpc.net/problem/9625)          |   [java](acmicpc.net/B9625.java)   |  18  |        [수도요금](https://www.acmicpc.net/problem/10707)         |  [java](acmicpc.net/B10707.java)   |
-|  19  |          [투표](https://www.acmicpc.net/problem/10040)          |  [cpp](acmicpc.net/10040.cpp)   |  20  |        [세로읽기](https://www.acmicpc.net/problem/10798)         |  [cpp](acmicpc.net/10798.cpp)   |
-|  21  |         [공약수](https://www.acmicpc.net/problem/5618)          |   [cpp](acmicpc.net/5618.cpp)   |  22  |          [올림픽](https://www.acmicpc.net/problem/8979)          |   [cpp](acmicpc.net/8979.cpp)   |
+|  19  |          [투표](https://www.acmicpc.net/problem/10040)          |  [java](acmicpc.net/B10040.java)   |  20  |        [세로읽기](https://www.acmicpc.net/problem/10798)         |  [java](acmicpc.net/B10798.java)   |
+|  21  |         [공약수](https://www.acmicpc.net/problem/5618)          |   [java](acmicpc.net/B5618.java)   |  22  |          [올림픽](https://www.acmicpc.net/problem/8979)          |   [cpp](acmicpc.net/8979.cpp)   |
 |  23  | [직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320)  |   [cpp](acmicpc.net/8320.cpp)   |  24  |         [상근날드](https://www.acmicpc.net/problem/5543)         |   [cpp](acmicpc.net/5543.cpp)   |
 |  25  |         [결혼식](https://www.acmicpc.net/problem/5567)          |   [cpp](acmicpc.net/5567.cpp)   |  26  |          [영수증](https://www.acmicpc.net/problem/5565)          |   [cpp](acmicpc.net/5565.cpp)   |
 |  27  |        [방학 숙제](https://www.acmicpc.net/problem/5532)        |   [cpp](acmicpc.net/5532.cpp)   |  28  |     [과제 안 내신 분](https://www.acmicpc.net/problem/5597)      |   [cpp](acmicpc.net/5597.cpp)   |
