@@ -30,9 +30,9 @@
 |  15  |    [Mini Fantasy War](https://www.acmicpc.net/problem/12790)    |  [java](acmicpc.net/B12790.java)   |  16  |         [10부제](https://www.acmicpc.net/problem/10797)          |  [java](acmicpc.net/B10797.java)   |
 |  17  |          [BABBA](https://www.acmicpc.net/problem/9625)          |   [java](acmicpc.net/B9625.java)   |  18  |        [수도요금](https://www.acmicpc.net/problem/10707)         |  [java](acmicpc.net/B10707.java)   |
 |  19  |          [투표](https://www.acmicpc.net/problem/10040)          |  [java](acmicpc.net/B10040.java)   |  20  |        [세로읽기](https://www.acmicpc.net/problem/10798)         |  [java](acmicpc.net/B10798.java)   |
-|  21  |         [공약수](https://www.acmicpc.net/problem/5618)          |   [java](acmicpc.net/B5618.java)   |  22  |          [올림픽](https://www.acmicpc.net/problem/8979)          |   [cpp](acmicpc.net/8979.cpp)   |
-|  23  | [직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320)  |   [cpp](acmicpc.net/8320.cpp)   |  24  |         [상근날드](https://www.acmicpc.net/problem/5543)         |   [cpp](acmicpc.net/5543.cpp)   |
-|  25  |         [결혼식](https://www.acmicpc.net/problem/5567)          |   [cpp](acmicpc.net/5567.cpp)   |  26  |          [영수증](https://www.acmicpc.net/problem/5565)          |   [cpp](acmicpc.net/5565.cpp)   |
+|  21  |         [공약수](https://www.acmicpc.net/problem/5618)          |   [java](acmicpc.net/B5618.java)   |  22  |          [올림픽](https://www.acmicpc.net/problem/8979)          |   [java](acmicpc.net/B8979.java)   |
+|  23  | [직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320)  |   [java](acmicpc.net/B8320.java)   |  24  |         [상근날드](https://www.acmicpc.net/problem/5543)         |   [java](acmicpc.net/B5543.java)   |
+|  25  |         [결혼식](https://www.acmicpc.net/problem/5567)          |   [java](acmicpc.net/B5567.java)   |  26  |          [영수증](https://www.acmicpc.net/problem/5565)          |   [java](acmicpc.net/B5565.java)   |
 |  27  |        [방학 숙제](https://www.acmicpc.net/problem/5532)        |   [cpp](acmicpc.net/5532.cpp)   |  28  |     [과제 안 내신 분](https://www.acmicpc.net/problem/5597)      |   [cpp](acmicpc.net/5597.cpp)   |
 |  29  |     [심부름 가는 길](https://www.acmicpc.net/problem/5554)      |   [cpp](acmicpc.net/5554.cpp)   |  30  |        [시험 점수](https://www.acmicpc.net/problem/5596)         |   [cpp](acmicpc.net/5596.cpp)   |
 |  31  |        [콘테스트](https://www.acmicpc.net/problem/5576)         |   [cpp](acmicpc.net/5576.cpp)   |  32  |        [시험 성적](https://www.acmicpc.net/problem/9498)         |   [cpp](acmicpc.net/9498.cpp)   |

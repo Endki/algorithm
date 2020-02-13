@@ -14,7 +14,7 @@ public class B5565 {
 		}
 		
 		System.out.println(k-sum);
-
+		
 	}
 
 }
