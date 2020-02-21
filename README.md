@@ -38,7 +38,7 @@
 |  31  |        [콘테스트](https://www.acmicpc.net/problem/5576)         |   [java](acmicpc.net/B5576.java)   |  32  |        [시험 성적](https://www.acmicpc.net/problem/9498)         |   [java](acmicpc.net/B9498.java)   |
 |  33  |   [에라토스테네스의 채](https://www.acmicpc.net/problem/2960)   |   [java](acmicpc.net/B2960.java)   |  34  |       [앵그리 창영](https://www.acmicpc.net/problem/3034)        |   [java](acmicpc.net/B3034.java)   |
 |  35  | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) |   [java](acmicpc.net/B3040.java)   |  36  |           [TGN](https://www.acmicpc.net/problem/5063)            |   [java](acmicpc.net/B5063.java)   |
-|  37  |       [택시 기하학](https://www.acmicpc.net/problem/3053)       |   [cpp](acmicpc.net/3053.cpp)   |  38  |      [베르트랑 공준](https://www.acmicpc.net/problem/4948)       |   [cpp](acmicpc.net/4948.cpp)   |
+|  37  |       [택시 기하학](https://www.acmicpc.net/problem/3053)       |   [java](acmicpc.net/B3053.java)   |  38  |      [베르트랑 공준](https://www.acmicpc.net/problem/4948)       |   [java](acmicpc.net/B4948.java)   |
 |  39  |       [직각삼각형](https://www.acmicpc.net/problem/4153)        |   [cpp](acmicpc.net/4153.cpp)   |  40  |           [소음](https://www.acmicpc.net/problem/2935)           |   [cpp](acmicpc.net/2935.cpp)   |
 |  41  |        [알람 시계](https://www.acmicpc.net/problem/2884)        |   [cpp](acmicpc.net/2884.cpp)   |  42  |          [윷놀이](https://www.acmicpc.net/problem/2490)          |   [cpp](acmicpc.net/2490.cpp)   |
 |  43  |       [슈퍼 마리오](https://www.acmicpc.net/problem/2851)       |   [cpp](acmicpc.net/2851.cpp)   |  44  |       [숫자의 개수](https://www.acmicpc.net/problem/2577)        |   [cpp](acmicpc.net/2577.cpp)   |
