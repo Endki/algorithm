@@ -6,8 +6,20 @@ public class B2884 {
 		Scanner input=new Scanner(System.in);
 		
 		int h=input.nextInt();
+		int m=input.nextInt();
 		
-
+		int min=h*60+m-45;
+		
+		h=min/60;
+		m=min%60;
+		
+		
+		if(m<0) {
+			h=23;
+			m+=60;
+		}
+		
+		System.out.println(h+" "+m);
 	}
 
 }
