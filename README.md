@@ -40,9 +40,9 @@
 |  35  | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) |   [java](acmicpc.net/B3040.java)   |  36  |           [TGN](https://www.acmicpc.net/problem/5063)            |   [java](acmicpc.net/B5063.java)   |
 |  37  |       [택시 기하학](https://www.acmicpc.net/problem/3053)       |   [java](acmicpc.net/B3053.java)   |  38  |      [베르트랑 공준](https://www.acmicpc.net/problem/4948)       |   [java](acmicpc.net/B4948.java)   |
 |  39  |       [직각삼각형](https://www.acmicpc.net/problem/4153)        |   [java](acmicpc.net/B4153.java)   |  40  |           [소음](https://www.acmicpc.net/problem/2935)           |   [java](acmicpc.net/B2935.java)   |
-|  41  |        [알람 시계](https://www.acmicpc.net/problem/2884)        |   [java](acmicpc.net/B2884.java)   |  42  |          [윷놀이](https://www.acmicpc.net/problem/2490)          |   [cpp](acmicpc.net/2490.cpp)   |
-|  43  |       [슈퍼 마리오](https://www.acmicpc.net/problem/2851)       |   [cpp](acmicpc.net/2851.cpp)   |  44  |       [숫자의 개수](https://www.acmicpc.net/problem/2577)        |   [cpp](acmicpc.net/2577.cpp)   |
-|  45  |        [점수 계산](https://www.acmicpc.net/problem/2822)        |   [cpp](acmicpc.net/2822.cpp)   |  46  |           [터렛](https://www.acmicpc.net/problem/1002)           |   [cpp](acmicpc.net/1002.cpp)   |
+|  41  |        [알람 시계](https://www.acmicpc.net/problem/2884)        |   [java](acmicpc.net/B2884.java)   |  42  |          [윷놀이](https://www.acmicpc.net/problem/2490)          |   [java](acmicpc.net/B2490.java)   |
+|  43  |       [슈퍼 마리오](https://www.acmicpc.net/problem/2851)       |   [java](acmicpc.net/B2851.java)   |  44  |       [숫자의 개수](https://www.acmicpc.net/problem/2577)        |   [java](acmicpc.net/B2577.java)   |
+|  45  |        [점수 계산](https://www.acmicpc.net/problem/2822)        |   [java](acmicpc.net/B2822.java)   |  46  |           [터렛](https://www.acmicpc.net/problem/1002)           |   [cpp](acmicpc.net/1002.cpp)   |
 |  47  |        [삼각 김밥](https://www.acmicpc.net/problem/2783)        |   [cpp](acmicpc.net/2783.cpp)   |  48  |          [블랙잭](https://www.acmicpc.net/problem/2798)          |   [cpp](acmicpc.net/2798.cpp)   |
 |  49  |    [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)    |   [cpp](acmicpc.net/1676.cpp)   |  50  |          [색종이](https://www.acmicpc.net/problem/2563)          |   [cpp](acmicpc.net/2563.cpp)   |
 |  51  |         [2007년](https://www.acmicpc.net/problem/1924)          |   [cpp](acmicpc.net/1924.cpp)   |  52  |        [농구 경기](https://www.acmicpc.net/problem/1159)         |   [cpp](acmicpc.net/1159.cpp)   |
