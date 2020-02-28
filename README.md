@@ -44,9 +44,9 @@
 |  43  |       [슈퍼 마리오](https://www.acmicpc.net/problem/2851)       |   [java](acmicpc.net/B2851.java)   |  44  |       [숫자의 개수](https://www.acmicpc.net/problem/2577)        |   [java](acmicpc.net/B2577.java)   |
 |  45  |        [점수 계산](https://www.acmicpc.net/problem/2822)        |   [java](acmicpc.net/B2822.java)   |  46  |           [터렛](https://www.acmicpc.net/problem/1002)           |   [java](acmicpc.net/B1002.java)   |
 |  47  |        [삼각 김밥](https://www.acmicpc.net/problem/2783)        |   [java](acmicpc.net/B2783.java)   |  48  |          [블랙잭](https://www.acmicpc.net/problem/2798)          |   [java](acmicpc.net/B2798.java)   |
-|  49  |    [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)    |   [cpp](acmicpc.net/1676.cpp)   |  50  |          [색종이](https://www.acmicpc.net/problem/2563)          |   [java](acmicpc.net/B2563.java)   |
-|  51  |         [2007년](https://www.acmicpc.net/problem/1924)          |   [cpp](acmicpc.net/1924.cpp)   |  52  |        [농구 경기](https://www.acmicpc.net/problem/1159)         |   [cpp](acmicpc.net/1159.cpp)   |
-|  53  |         [폭죽쇼](https://www.acmicpc.net/problem/1773)          |   [cpp](acmicpc.net/1773.cpp)   |  54  |         [분산처리](https://www.acmicpc.net/problem/1009)         |   [cpp](acmicpc.net/1009.cpp)   |
+|  49  |    [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)    |   [java](acmicpc.net/B1676.java)   |  50  |          [색종이](https://www.acmicpc.net/problem/2563)          |   [java](acmicpc.net/B2563.java)   |
+|  51  |         [2007년](https://www.acmicpc.net/problem/1924)          |   [java](acmicpc.net/B1924.java)   |  52  |        [농구 경기](https://www.acmicpc.net/problem/1159)         |   [java](acmicpc.net/B1159.java)   |
+|  53  |         [폭죽쇼](https://www.acmicpc.net/problem/1773)          |   [java](acmicpc.net/B1773.java)   |  54  |         [분산처리](https://www.acmicpc.net/problem/1009)         |   [cpp](acmicpc.net/1009.cpp)   |
 |  55  |       [기상캐스터](https://www.acmicpc.net/problem/10709)       |  [cpp](acmicpc.net/10709.cpp)   |  56  |           [한수](https://www.acmicpc.net/problem/1065)           |   [cpp](acmicpc.net/1065.cpp)   |
 |  57  |          [벌집](https://www.acmicpc.net/problem/2292)           |   [cpp](acmicpc.net/2292.cpp)   |  58  |      [차이를 최대로](https://www.acmicpc.net/problem/10819)      |  [cpp](acmicpc.net/10819.cpp)   |
 |  59  |         [나머지](https://www.acmicpc.net/problem/3052)          |   [cpp](acmicpc.net/3052.cpp)   |  60  |          [컵홀더](https://www.acmicpc.net/problem/2810)          |   [cpp](acmicpc.net/2810.cpp)   |
