@@ -46,7 +46,7 @@
 |  47  |        [삼각 김밥](https://www.acmicpc.net/problem/2783)        |   [java](acmicpc.net/B2783.java)   |  48  |          [블랙잭](https://www.acmicpc.net/problem/2798)          |   [java](acmicpc.net/B2798.java)   |
 |  49  |    [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)    |   [java](acmicpc.net/B1676.java)   |  50  |          [색종이](https://www.acmicpc.net/problem/2563)          |   [java](acmicpc.net/B2563.java)   |
 |  51  |         [2007년](https://www.acmicpc.net/problem/1924)          |   [java](acmicpc.net/B1924.java)   |  52  |        [농구 경기](https://www.acmicpc.net/problem/1159)         |   [java](acmicpc.net/B1159.java)   |
-|  53  |         [폭죽쇼](https://www.acmicpc.net/problem/1773)          |   [java](acmicpc.net/B1773.java)   |  54  |         [분산처리](https://www.acmicpc.net/problem/1009)         |   [cpp](acmicpc.net/1009.cpp)   |
+|  53  |         [폭죽쇼](https://www.acmicpc.net/problem/1773)          |   [java](acmicpc.net/B1773.java)   |  54  |         [분산처리](https://www.acmicpc.net/problem/1009)         |   [java](acmicpc.net/B1009.java)   |
 |  55  |       [기상캐스터](https://www.acmicpc.net/problem/10709)       |  [cpp](acmicpc.net/10709.cpp)   |  56  |           [한수](https://www.acmicpc.net/problem/1065)           |   [cpp](acmicpc.net/1065.cpp)   |
 |  57  |          [벌집](https://www.acmicpc.net/problem/2292)           |   [cpp](acmicpc.net/2292.cpp)   |  58  |      [차이를 최대로](https://www.acmicpc.net/problem/10819)      |  [cpp](acmicpc.net/10819.cpp)   |
 |  59  |         [나머지](https://www.acmicpc.net/problem/3052)          |   [cpp](acmicpc.net/3052.cpp)   |  60  |          [컵홀더](https://www.acmicpc.net/problem/2810)          |   [cpp](acmicpc.net/2810.cpp)   |
