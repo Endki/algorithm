@@ -51,7 +51,7 @@
 |  57  |          [벌집](https://www.acmicpc.net/problem/2292)           |   [java](acmicpc.net/B2292.java)   |  58  |      [차이를 최대로](https://www.acmicpc.net/problem/10819)      |  [java](acmicpc.net/B10819.java)   |
 |  59  |         [나머지](https://www.acmicpc.net/problem/3052)          |   [java](acmicpc.net/B3052.java)   |  60  |          [컵홀더](https://www.acmicpc.net/problem/2810)          |   [java](acmicpc.net/B2810.java)   |
 |  ★61★  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       |   [java](acmicpc.net/B9324.java)   |  62  |    [게임을 만든 동준이](https://www.acmicpc.net/problem/2847)    |   [java](acmicpc.net/B2847.java)   |
-|  63  |          [개미](https://www.acmicpc.net/problem/4307)           |   [cpp](acmicpc.net/4307.cpp)   |  64  |       [약수 구하기](https://www.acmicpc.net/problem/2501)        |   [cpp](acmicpc.net/2501.cpp)   |
+|  63  |          [개미](https://www.acmicpc.net/problem/4307)           |   [java](acmicpc.net/B4307.java)   |  64  |       [약수 구하기](https://www.acmicpc.net/problem/2501)        |   [java](acmicpc.net/B2501.java)   |
 |  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    |   [cpp](acmicpc.net/2804.cpp)   |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         |  [cpp](acmicpc.net/10250.cpp)   |
 |  67  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       |  [cpp](acmicpc.net/11509.cpp)   |  68  |         [분수찾기](https://www.acmicpc.net/problem/1193)         |   [cpp](acmicpc.net/1193.cpp)   |
 |  69  |          [POT](https://www.acmicpc.net/problem/11772)           |  [cpp](acmicpc.net/11772.cpp)   |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        |   [cpp](acmicpc.net/1212.cpp)   |
