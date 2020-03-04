@@ -32,7 +32,7 @@
 |  19  |          [투표](https://www.acmicpc.net/problem/10040)          |  [java](acmicpc.net/B10040.java)   |  20  |        [세로읽기](https://www.acmicpc.net/problem/10798)         |  [java](acmicpc.net/B10798.java)   |
 |  21  |         [공약수](https://www.acmicpc.net/problem/5618)          |   [java](acmicpc.net/B5618.java)   |  22  |          [올림픽](https://www.acmicpc.net/problem/8979)          |   [java](acmicpc.net/B8979.java)   |
 |  23  | [직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320)  |   [java](acmicpc.net/B8320.java)   |  24  |         [상근날드](https://www.acmicpc.net/problem/5543)         |   [java](acmicpc.net/B5543.java)   |
-|  25  |         [결혼식](https://www.acmicpc.net/problem/5567)          |   [java](acmicpc.net/B5567.java)   |  26  |          [영수증](https://www.acmicpc.net/problem/5565)          |   [java](acmicpc.net/B5565.java)   |
+| ★25★  |         [결혼식](https://www.acmicpc.net/problem/5567)          |   [java](acmicpc.net/B5567.java)   |  26  |          [영수증](https://www.acmicpc.net/problem/5565)          |   [java](acmicpc.net/B5565.java)   |
 |  27  |        [방학 숙제](https://www.acmicpc.net/problem/5532)        |   [java](acmicpc.net/B5532.java)   |  28  |     [과제 안 내신 분](https://www.acmicpc.net/problem/5597)      |   [java](acmicpc.net/B5597.java)   |
 |  29  |     [심부름 가는 길](https://www.acmicpc.net/problem/5554)      |   [java](acmicpc.net/B5554.java)   |  30  |        [시험 점수](https://www.acmicpc.net/problem/5596)         |   [java](acmicpc.net/B5596.java)   |
 |  31  |        [콘테스트](https://www.acmicpc.net/problem/5576)         |   [java](acmicpc.net/B5576.java)   |  32  |        [시험 성적](https://www.acmicpc.net/problem/9498)         |   [java](acmicpc.net/B9498.java)   |
@@ -50,7 +50,7 @@
 |  55  |       [기상캐스터](https://www.acmicpc.net/problem/10709)       |  [java](acmicpc.net/B10709.java)   |  56  |           [한수](https://www.acmicpc.net/problem/1065)           |   [java](acmicpc.net/B1065.java)   |
 |  57  |          [벌집](https://www.acmicpc.net/problem/2292)           |   [java](acmicpc.net/B2292.java)   |  58  |      [차이를 최대로](https://www.acmicpc.net/problem/10819)      |  [java](acmicpc.net/B10819.java)   |
 |  59  |         [나머지](https://www.acmicpc.net/problem/3052)          |   [java](acmicpc.net/B3052.java)   |  60  |          [컵홀더](https://www.acmicpc.net/problem/2810)          |   [java](acmicpc.net/B2810.java)   |
-|  61  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       |   [cpp](acmicpc.net/9324.cpp)   |  62  |    [게임을 만든 동준이](https://www.acmicpc.net/problem/2847)    |   [cpp](acmicpc.net/2847.cpp)   |
+|  ★61★  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       |   [java](acmicpc.net/B9324.java)   |  62  |    [게임을 만든 동준이](https://www.acmicpc.net/problem/2847)    |   [java](acmicpc.net/B2847.java)   |
 |  63  |          [개미](https://www.acmicpc.net/problem/4307)           |   [cpp](acmicpc.net/4307.cpp)   |  64  |       [약수 구하기](https://www.acmicpc.net/problem/2501)        |   [cpp](acmicpc.net/2501.cpp)   |
 |  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    |   [cpp](acmicpc.net/2804.cpp)   |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         |  [cpp](acmicpc.net/10250.cpp)   |
 |  67  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       |  [cpp](acmicpc.net/11509.cpp)   |  68  |         [분수찾기](https://www.acmicpc.net/problem/1193)         |   [cpp](acmicpc.net/1193.cpp)   |
