@@ -53,8 +53,8 @@
 |  ★61★  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       |   [java](acmicpc.net/B9324.java)   |  62  |    [게임을 만든 동준이](https://www.acmicpc.net/problem/2847)    |   [java](acmicpc.net/B2847.java)   |
 |  63  |          [개미](https://www.acmicpc.net/problem/4307)           |   [java](acmicpc.net/B4307.java)   |  64  |       [약수 구하기](https://www.acmicpc.net/problem/2501)        |   [java](acmicpc.net/B2501.java)   |
 |  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    |   [java](acmicpc.net/B2804.java)   |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         |  [cpp](acmicpc.net/B10250.java)   |
-|  67  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       |  [cpp](acmicpc.net/11509.cpp)   |  68  |         [분수찾기](https://www.acmicpc.net/problem/1193)         |   [cpp](acmicpc.net/1193.cpp)   |
-|  69  |          [POT](https://www.acmicpc.net/problem/11772)           |  [cpp](acmicpc.net/11772.cpp)   |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        |   [cpp](acmicpc.net/1212.cpp)   |
+|  67  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       |  [java](acmicpc.net/B11509.java)   |  68  |         [분수찾기](https://www.acmicpc.net/problem/1193)         |   [java](acmicpc.net/B1193.java)   |
+|  69  |          [POT](https://www.acmicpc.net/problem/11772)           |  [java](acmicpc.net/B11772.java)   |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        |   [java](acmicpc.net/B1212.java)   |
 |  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          |   [cpp](acmicpc.net/9613.cpp)   |  72  |        [셀프 넘버](https://www.acmicpc.net/problem/4673)         |   [cpp](acmicpc.net/4673.cpp)   |
 |  73  |         [유니크](https://www.acmicpc.net/problem/5533)          |   [cpp](acmicpc.net/5533.cpp)   |  74  |     [크리스마스 파티](https://www.acmicpc.net/problem/10708)     |  [cpp](acmicpc.net/10708.cpp)   |
 |  75  |    [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    |   [cpp](acmicpc.net/2775.cpp)   |  76  |         [Starman](https://www.acmicpc.net/problem/12791)         |  [cpp](acmicpc.net/12791.cpp)   |
