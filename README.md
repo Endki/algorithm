@@ -90,7 +90,7 @@
 
 | 번호 | 문제                                                           | 코드                         | 번호 | 문제                                                | 코드                         |
 |:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------:|:----------------------------:|
-|  1   |      [Hello World](https://www.acmicpc.net/problem/2557)       | [cpp](acmicpc.net/2557.cpp)  |  2   |    [N찍기](https://www.acmicpc.net/problem/2741)    | [cpp](acmicpc.net/2741.cpp)  |
+|  1   |      [Hello World](https://www.acmicpc.net/problem/2557)       | [java](acmicpc.net/B2557.java)  |  2   |    [N찍기](https://www.acmicpc.net/problem/2741)    | [cpp](acmicpc.net/2741.cpp)  |
 |  3   |       [별찍기 - 1](https://www.acmicpc.net/problem/2438)       | [cpp](acmicpc.net/2438.cpp)  |  4   | [별찍기 - 2](https://www.acmicpc.net/problem/2439)  | [cpp](acmicpc.net/2439.cpp)  |
 |  5   |       [별찍기 - 3](https://www.acmicpc.net/problem/2440)       | [cpp](acmicpc.net/2440.cpp)  |  6   |   [구구단](https://www.acmicpc.net/problem/2739)    | [cpp](acmicpc.net/2739.cpp)  |
 |  7   |         [기찍 N](https://www.acmicpc.net/problem/2742)         | [cpp](acmicpc.net/2742.cpp)  |  8   |     [개](https://www.acmicpc.net/problem/10172)     | [cpp](acmicpc.net/10172.cpp) |
@@ -118,7 +118,7 @@
 
 | 번호 | 문제                                                           | 코드                         | 번호 | 문제                                                            | 코드                         |
 |:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------------:|:----------------------------:|
-|  1   |          [A+B](https://www.acmicpc.net/problem/1000)           | [cpp](acmicpc.net/1000.cpp)  |  2   |           [A-B](https://www.acmicpc.net/problem/1001)           | [cpp](acmicpc.net/1001.cpp)  |
+|  1   |          [A+B](https://www.acmicpc.net/problem/1000)           | [java](acmicpc.net/B1000.java)  |  2   |           [A-B](https://www.acmicpc.net/problem/1001)           | [cpp](acmicpc.net/1001.cpp)  |
 |  3   |         [A+B-7](https://www.acmicpc.net/problem/11021)         | [cpp](acmicpc.net/11021.cpp) |  4   |         [A+B-8](https://www.acmicpc.net/problem/11022)          | [cpp](acmicpc.net/11022.cpp) |
 |  5   | [아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) | [cpp](acmicpc.net/9550.cpp)  |  6   |         [나누기](https://www.acmicpc.net/problem/1075)          | [cpp](acmicpc.net/1075.cpp)  |
 |  7   |       [이게 분수?](https://www.acmicpc.net/problem/2863)       | [cpp](acmicpc.net/2863.cpp)  |  8   |           [A/B](https://www.acmicpc.net/problem/1008)           | [cpp](acmicpc.net/1008.cpp)  |
@@ -207,7 +207,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 
 | 번호 | 문제                                                             | 코드                         | 번호 | 문제                                                      | 코드                         |
 |:----:|:----------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------:|:----------------------------:|
-|  1   |        [DFS와 BFS](https://www.acmicpc.net/problem/1260)         | [cpp](acmicpc.net/1260.cpp)  |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)  | [cpp](acmicpc.net/2667.cpp)  |
+|  1   |        [DFS와 BFS](https://www.acmicpc.net/problem/1260)         | [java](acmicpc.net/B1260.java)  |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)  | [cpp](acmicpc.net/2667.cpp)  |
 |  3   |         [바이러스](https://www.acmicpc.net/problem/2606)         | [cpp](acmicpc.net/2606.cpp)  |  4   |    [경로 찾기](https://www.acmicpc.net/problem/11403)     | [cpp](acmicpc.net/11403.cpp) |
 |  5   |        [스타트링크](https://www.acmicpc.net/problem/5014)        | [cpp](acmicpc.net/5014.cpp)  |  6   |    [유기농 배추](https://www.acmicpc.net/problem/1012)    | [cpp](acmicpc.net/1012.cpp)  |
 |  7   |       [영역 구하기](https://www.acmicpc.net/problem/2583)        | [cpp](acmicpc.net/2583.cpp)  |  8   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [cpp](acmicpc.net/11724.cpp) |
