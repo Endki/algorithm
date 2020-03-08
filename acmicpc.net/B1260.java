@@ -7,7 +7,7 @@ public class B1260 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
-		Queue<Integer> queue=new LinkedList<>();
+		Queue<Integer> queue = new LinkedList<>();
 		int n = input.nextInt();
 		int m = input.nextInt();
 		int v = input.nextInt();
@@ -16,10 +16,10 @@ public class B1260 {
 		int[][] arr = new int[n + 1][n + 1];
 		boolean[] visit = new boolean[n + 1];
 
-		for(int i=1;i<=n;i++) {
+		for (int i = 1; i <= n; i++) {
 			arr[i][i] = 1;
 		}
-		
+
 		for (int i = 0; i < m; i++) {
 			x = input.nextInt();
 			y = input.nextInt();
@@ -30,20 +30,18 @@ public class B1260 {
 		DFS(arr, visit, v);
 		System.out.println();
 		Arrays.fill(visit, false);
-		BFS(arr,visit,v,queue);
+		BFS(arr, visit, v, queue);
 	}
 
 	public static void DFS(int arr[][], boolean[] visit, int v) {
-
-//		System.out.println("DFS 발생!!!");
 		if (visit[v] == true) {
 			return;
 		} else {
 			System.out.print(v + " ");
 			visit[v] = true;
 			for (int i = 1; i < visit.length; i++) {
-				if (arr[v][i] == 1&& visit[i]==false) {
-					
+				if (arr[v][i] == 1 && visit[i] == false) {
+
 					DFS(arr, visit, i);
 				}
 			}
@@ -51,25 +49,21 @@ public class B1260 {
 		}
 	}
 
-	public static void BFS(int arr[][], boolean[] visit, int v,Queue queue) {
-//		System.out.println("BFS발생!!!");
-		
-		
-		if(visit[v]==true) {
+	public static void BFS(int arr[][], boolean[] visit, int v, Queue queue) {
+		if (visit[v] == true) {
 			return;
-		}else {
-			System.out.print(v+" ");
-			visit[v]=true;
-			for(int i=1;i<visit.length;i++) {
-				if(arr[v][i]==1 &&visit[i]==false ) {
+		} else {
+			System.out.print(v + " ");
+			visit[v] = true;
+			for (int i = 1; i < visit.length; i++) {
+				if (arr[v][i] == 1 && visit[i] == false) {
 					queue.offer(i);
 				}
 			}
-			while(!queue.isEmpty()) {
-				BFS(arr,visit,(int) queue.poll(),queue);
+			while (!queue.isEmpty()) {
+				BFS(arr, visit, (int) queue.poll(), queue);
 			}
-			
-			
+
 		}
 		return;
 	}

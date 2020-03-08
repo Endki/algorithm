@@ -118,7 +118,7 @@
 
 | 번호 | 문제                                                           | 코드                         | 번호 | 문제                                                            | 코드                         |
 |:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------------:|:----------------------------:|
-|  1   |          [A+B](https://www.acmicpc.net/problem/1000)           | [java](acmicpc.net/B1000.java)  |  2   |           [A-B](https://www.acmicpc.net/problem/1001)           | [cpp](acmicpc.net/1001.cpp)  |
+|  1   |          [A+B](https://www.acmicpc.net/problem/1000)           | [java](acmicpc.net/B1000.java)  |  2   |           [A-B](https://www.acmicpc.net/problem/1001)           | [java](acmicpc.net/B1001.java)  |
 |  3   |         [A+B-7](https://www.acmicpc.net/problem/11021)         | [cpp](acmicpc.net/11021.cpp) |  4   |         [A+B-8](https://www.acmicpc.net/problem/11022)          | [cpp](acmicpc.net/11022.cpp) |
 |  5   | [아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) | [cpp](acmicpc.net/9550.cpp)  |  6   |         [나누기](https://www.acmicpc.net/problem/1075)          | [cpp](acmicpc.net/1075.cpp)  |
 |  7   |       [이게 분수?](https://www.acmicpc.net/problem/2863)       | [cpp](acmicpc.net/2863.cpp)  |  8   |           [A/B](https://www.acmicpc.net/problem/1008)           | [cpp](acmicpc.net/1008.cpp)  |
