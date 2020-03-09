@@ -252,7 +252,7 @@ Greedy Algorithm
 
 | 번호 | 문제                                                     | 코드                         | 번호 | 문제                                                                | 코드                         |
 |:----:|:--------------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------------------------:|:----------------------------:|
-|  1   |      [스택](https://www.acmicpc.net/problem/10828)       | [cpp](acmicpc.net/10828.cpp) |  2   |             [큐](https://www.acmicpc.net/problem/1946)              | [cpp](acmicpc.net/10845.cpp) |
+|  1   |      [스택](https://www.acmicpc.net/problem/10828)       | [cpp](acmicpc.net/10828.cpp) |  2   |             [큐](https://www.acmicpc.net/problem/10845)              | [cpp](acmicpc.net/10845.cpp) |
 |  3   |    [쇠막대기](https://www.acmicpc.net/problem/10799)     | [cpp](acmicpc.net/10799.cpp) |  4   |            [괄호](https://www.acmicpc.net/problem/9012)             | [cpp](acmicpc.net/9012.cpp)  |
 |  5   |  [조세퍼스 문제](https://www.acmicpc.net/problem/1158)   | [cpp](acmicpc.net/1158.cpp)  |  6   |          [좋은 단어](https://www.acmicpc.net/problem/3986)          | [cpp](acmicpc.net/3986.cpp)  |
 |  7   |    [스택 수열](https://www.acmicpc.net/problem/1874)     | [cpp](acmicpc.net/1874.cpp)  |  8   |         [후위 표기식](https://www.acmicpc.net/problem/1918)         | [cpp](acmicpc.net/1918.cpp)  |
