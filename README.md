@@ -52,10 +52,10 @@
 |  59  |         [나머지](https://www.acmicpc.net/problem/3052)          |   [java](acmicpc.net/B3052.java)   |  60  |          [컵홀더](https://www.acmicpc.net/problem/2810)          |   [java](acmicpc.net/B2810.java)   |
 |  ★61★  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       |   [java](acmicpc.net/B9324.java)   |  62  |    [게임을 만든 동준이](https://www.acmicpc.net/problem/2847)    |   [java](acmicpc.net/B2847.java)   |
 |  63  |          [개미](https://www.acmicpc.net/problem/4307)           |   [java](acmicpc.net/B4307.java)   |  64  |       [약수 구하기](https://www.acmicpc.net/problem/2501)        |   [java](acmicpc.net/B2501.java)   |
-|  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    |   [java](acmicpc.net/B2804.java)   |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         |  [cpp](acmicpc.net/B10250.java)   |
+|  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    |   [java](acmicpc.net/B2804.java)   |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         |  [java](acmicpc.net/B10250.java)   |
 |  67  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       |  [java](acmicpc.net/B11509.java)   |  68  |         [분수찾기](https://www.acmicpc.net/problem/1193)         |   [java](acmicpc.net/B1193.java)   |
 |  69  |          [POT](https://www.acmicpc.net/problem/11772)           |  [java](acmicpc.net/B11772.java)   |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        |   [java](acmicpc.net/B1212.java)   |
-|  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          |   [java](acmicpc.net/B9613.java)   |  72  |        [셀프 넘버](https://www.acmicpc.net/problem/4673)         |   [cpp](acmicpc.net/4673.cpp)   |
+|  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          |   [java](acmicpc.net/B9613.java)   |  72  |        [셀프 넘버](https://www.acmicpc.net/problem/4673)         |   [java](acmicpc.net/B4673.java)   |
 |  73  |         [유니크](https://www.acmicpc.net/problem/5533)          |   [cpp](acmicpc.net/5533.cpp)   |  74  |     [크리스마스 파티](https://www.acmicpc.net/problem/10708)     |  [cpp](acmicpc.net/10708.cpp)   |
 |  75  |    [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    |   [cpp](acmicpc.net/2775.cpp)   |  76  |         [Starman](https://www.acmicpc.net/problem/12791)         |  [cpp](acmicpc.net/12791.cpp)   |
 |  77  |        [지뢰찾기](https://www.acmicpc.net/problem/4108)         |   [cpp](acmicpc.net/4108.cpp)   |  78  |   [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)   |  [cpp](acmicpc.net/11729.cpp)   |
@@ -90,7 +90,7 @@
 
 | 번호 | 문제                                                           | 코드                         | 번호 | 문제                                                | 코드                         |
 |:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------:|:----------------------------:|
-|  1   |      [Hello World](https://www.acmicpc.net/problem/2557)       | [java](acmicpc.net/B2557.java)  |  2   |    [N찍기](https://www.acmicpc.net/problem/2741)    | [cpp](acmicpc.net/2741.cpp)  |
+|  1   |      [Hello World](https://www.acmicpc.net/problem/2557)       | [java](acmicpc.net/B2557.java)  |  2   |    [N찍기](https://www.acmicpc.net/problem/2741)    | [java](acmicpc.net/B2741.cpp)  |
 |  3   |       [별찍기 - 1](https://www.acmicpc.net/problem/2438)       | [cpp](acmicpc.net/2438.cpp)  |  4   | [별찍기 - 2](https://www.acmicpc.net/problem/2439)  | [cpp](acmicpc.net/2439.cpp)  |
 |  5   |       [별찍기 - 3](https://www.acmicpc.net/problem/2440)       | [cpp](acmicpc.net/2440.cpp)  |  6   |   [구구단](https://www.acmicpc.net/problem/2739)    | [cpp](acmicpc.net/2739.cpp)  |
 |  7   |         [기찍 N](https://www.acmicpc.net/problem/2742)         | [cpp](acmicpc.net/2742.cpp)  |  8   |     [개](https://www.acmicpc.net/problem/10172)     | [cpp](acmicpc.net/10172.cpp) |
