@@ -56,7 +56,7 @@
 |  67  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       |  [java](acmicpc.net/B11509.java)   |  68  |         [분수찾기](https://www.acmicpc.net/problem/1193)         |   [java](acmicpc.net/B1193.java)   |
 |  69  |          [POT](https://www.acmicpc.net/problem/11772)           |  [java](acmicpc.net/B11772.java)   |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        |   [java](acmicpc.net/B1212.java)   |
 |  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          |   [java](acmicpc.net/B9613.java)   |  72  |        [셀프 넘버](https://www.acmicpc.net/problem/4673)         |   [java](acmicpc.net/B4673.java)   |
-|  73  |         [유니크](https://www.acmicpc.net/problem/5533)          |   [cpp](acmicpc.net/5533.cpp)   |  74  |     [크리스마스 파티](https://www.acmicpc.net/problem/10708)     |  [cpp](acmicpc.net/10708.cpp)   |
+|  73  |         [유니크](https://www.acmicpc.net/problem/5533)          |   [java](acmicpc.net/B5533.java)   |  74  |     [크리스마스 파티](https://www.acmicpc.net/problem/10708)     |  [java](acmicpc.net/B10708.java)   |
 |  75  |    [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    |   [cpp](acmicpc.net/2775.cpp)   |  76  |         [Starman](https://www.acmicpc.net/problem/12791)         |  [cpp](acmicpc.net/12791.cpp)   |
 |  77  |        [지뢰찾기](https://www.acmicpc.net/problem/4108)         |   [cpp](acmicpc.net/4108.cpp)   |  78  |   [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)   |  [cpp](acmicpc.net/11729.cpp)   |
 |  79  |       [잠수함식별](https://www.acmicpc.net/problem/2671)        |   [cpp](acmicpc.net/2671.cpp)   |  80  |        [어린 왕자](https://www.acmicpc.net/problem/1004)         |   [cpp](acmicpc.net/1004.cpp)   |
@@ -104,7 +104,7 @@
 
 | 번호 | 문제                                                  | 코드                         | 번호 | 문제                                                     | 코드                         |
 |:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
-|  1   |  [N과 M (1)](https://www.acmicpc.net/problem/15649)   | [cpp](acmicpc.net/15649.cpp) |  2   |    [N과 M (2)](https://www.acmicpc.net/problem/15650)    | [cpp](acmicpc.net/15650.cpp) |
+|  1   |  [N과 M (1)](https://www.acmicpc.net/problem/15649)   | [java](acmicpc.net/B15649.java) |  2   |    [N과 M (2)](https://www.acmicpc.net/problem/15650)    | [cpp](acmicpc.net/15650.cpp) |
 |  3   |     [덩치](https://www.acmicpc.net/problem/7568)      | [cpp](acmicpc.net/7568.cpp)  |  4   |  [부분집합의 합](https://www.acmicpc.net/problem/1182)   | [cpp](acmicpc.net/1182.cpp)  |
 |  5   | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | [cpp](acmicpc.net/1051.cpp)  |  6   |  [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)   | [cpp](acmicpc.net/1748.cpp)  |
 |  7   |    [분해합](https://www.acmicpc.net/problem/2231)     | [cpp](acmicpc.net/2231.cpp)  |  8   |  [스타트와 링크](https://www.acmicpc.net/problem/14889)  | [cpp](acmicpc.net/14889.cpp) |
