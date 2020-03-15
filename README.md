@@ -57,8 +57,8 @@
 |  69  |          [POT](https://www.acmicpc.net/problem/11772)           |  [java](acmicpc.net/B11772.java)   |  70  |       [8진수 2진수](https://www.acmicpc.net/problem/1212)        |   [java](acmicpc.net/B1212.java)   |
 |  71  |         [GCD 합](https://www.acmicpc.net/problem/9613)          |   [java](acmicpc.net/B9613.java)   |  72  |        [셀프 넘버](https://www.acmicpc.net/problem/4673)         |   [java](acmicpc.net/B4673.java)   |
 |  73  |         [유니크](https://www.acmicpc.net/problem/5533)          |   [java](acmicpc.net/B5533.java)   |  74  |     [크리스마스 파티](https://www.acmicpc.net/problem/10708)     |  [java](acmicpc.net/B10708.java)   |
-|  75  |    [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    |   [cpp](acmicpc.net/2775.cpp)   |  76  |         [Starman](https://www.acmicpc.net/problem/12791)         |  [cpp](acmicpc.net/12791.cpp)   |
-|  77  |        [지뢰찾기](https://www.acmicpc.net/problem/4108)         |   [cpp](acmicpc.net/4108.cpp)   |  78  |   [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)   |  [cpp](acmicpc.net/11729.cpp)   |
+|  75  |    [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    |   [java](acmicpc.net/B2775.java)   |  76  |         [Starman](https://www.acmicpc.net/problem/12791)         |  [java](acmicpc.net/B12791.java)   |
+|  77  |        [지뢰찾기](https://www.acmicpc.net/problem/4108)         |   [java](acmicpc.net/B4108.java)   |  78  |   [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)   |  [cpp](acmicpc.net/11729.cpp)   |
 |  79  |       [잠수함식별](https://www.acmicpc.net/problem/2671)        |   [cpp](acmicpc.net/2671.cpp)   |  80  |        [어린 왕자](https://www.acmicpc.net/problem/1004)         |   [cpp](acmicpc.net/1004.cpp)   |
 |  81  |         [Contact](https://www.acmicpc.net/problem/1013)         |   [cpp](acmicpc.net/1013.cpp)   |  82  |    [터널의 입구와 출구](https://www.acmicpc.net/problem/5612)    |   [cpp](acmicpc.net/5612.cpp)   |
 |  83  |       [지구 온난화](https://www.acmicpc.net/problem/5212)       |   [cpp](acmicpc.net/5212.cpp)   |  84  |          [서버](https://www.acmicpc.net/problem/10409)           |  [cpp](acmicpc.net/10409.cpp)   |
@@ -119,7 +119,7 @@
 | 번호 | 문제                                                           | 코드                         | 번호 | 문제                                                            | 코드                         |
 |:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------------:|:----------------------------:|
 |  1   |          [A+B](https://www.acmicpc.net/problem/1000)           | [java](acmicpc.net/B1000.java)  |  2   |           [A-B](https://www.acmicpc.net/problem/1001)           | [java](acmicpc.net/B1001.java)  |
-|  3   |         [A+B-7](https://www.acmicpc.net/problem/11021)         | [cpp](acmicpc.net/11021.cpp) |  4   |         [A+B-8](https://www.acmicpc.net/problem/11022)          | [cpp](acmicpc.net/11022.cpp) |
+|  3   |         [A+B-7](https://www.acmicpc.net/problem/11021)         | [java](acmicpc.net/B11021.java) |  4   |         [A+B-8](https://www.acmicpc.net/problem/11022)          | [cpp](acmicpc.net/11022.cpp) |
 |  5   | [아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) | [cpp](acmicpc.net/9550.cpp)  |  6   |         [나누기](https://www.acmicpc.net/problem/1075)          | [cpp](acmicpc.net/1075.cpp)  |
 |  7   |       [이게 분수?](https://www.acmicpc.net/problem/2863)       | [cpp](acmicpc.net/2863.cpp)  |  8   |           [A/B](https://www.acmicpc.net/problem/1008)           | [cpp](acmicpc.net/1008.cpp)  |
 |  9   |       [날짜 계산](https://www.acmicpc.net/problem/1476)        | [cpp](acmicpc.net/1476.cpp)  |  10  |           [R2](https://www.acmicpc.net/problem/3046)            | [cpp](acmicpc.net/3046.cpp)  |
