@@ -63,9 +63,9 @@
 |  81  |         [Contact](https://www.acmicpc.net/problem/1013)         |   [cpp](acmicpc.net/1013.cpp)   |  82  |    [터널의 입구와 출구](https://www.acmicpc.net/problem/5612)    |   [cpp](acmicpc.net/5612.cpp)   |
 |  83  |       [지구 온난화](https://www.acmicpc.net/problem/5212)       |   [cpp](acmicpc.net/5212.cpp)   |  84  |          [서버](https://www.acmicpc.net/problem/10409)           |  [cpp](acmicpc.net/10409.cpp)   |
 |  85  |      [마술사 이민혁](https://www.acmicpc.net/problem/3023)      |   [cpp](acmicpc.net/3023.cpp)   |  86  |      [수빈이와 수열](https://www.acmicpc.net/problem/10539)      |  [java](acmicpc.net/B10539.java)   |
-|  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      |   [cpp](acmicpc.net/3054.cpp)   |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         |   [cpp](acmicpc.net/5575.cpp)   |
-|  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       |  [cpp](acmicpc.net/13417.cpp)   |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        |  [cpp](acmicpc.net/15953.cpp)   |
-|  91  |      [이진수 연산](https://www.acmicpc.net/problem/12813)       |  [cpp](acmicpc.net/12813.cpp)   |  92  |          [16진수](https://www.acmicpc.net/problem/1550)          |   [cpp](acmicpc.net/1550.cpp)   |
+|  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      |   [cpp](acmicpc.net/3054.cpp)   |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         |   [java](acmicpc.net/B5575.java)   |
+|  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       |  [java](acmicpc.net/B13417.java)   |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        |  [cpp](acmicpc.net/15953.cpp)   |
+|  91  |      [이진수 연산](https://www.acmicpc.net/problem/12813)       |  [java](acmicpc.net/B12813.java)   |  92  |          [16진수](https://www.acmicpc.net/problem/1550)          |   [java](acmicpc.net/B1550.java)   |
 |  93  |        [쿼드트리](https://www.acmicpc.net/problem/1992)         |   [cpp](acmicpc.net/1992.cpp)   |  94  |       [종이의 개수](https://www.acmicpc.net/problem/1780)        |   [cpp](acmicpc.net/1780.cpp)   |
 |  93  |         [검증수](https://www.acmicpc.net/problem/2475)          |   [cpp](acmicpc.net/2475.cpp)   |      |                                                                  |                                 |
 
@@ -264,86 +264,16 @@ Greedy Algorithm
 |  19  |   [병약한 영정](https://www.acmicpc.net/problem/14670)   | [cpp](acmicpc.net/14670.cpp) |  20  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [cpp](acmicpc.net/1620.cpp)  |
 |  21  |    [식사 예절](https://www.acmicpc.net/problem/3022)     | [cpp](acmicpc.net/3022.cpp)  |      |                                                                     |                              |
 
-프로그래머스
+대회
 ============
 
-Level 1
+Coder's High 2014 예비소집
 -------
 
-| 번호 | 문제                                                                                        | 코드                        | 번호 | 문제                                                                                       | 코드                        |
-|:----:|:-------------------------------------------------------------------------------------------:|:---------------------------:|:----:|:------------------------------------------------------------------------------------------:|:---------------------------:|
-|  1   |            [2016년](https://www.welcomekakao.com/learn/courses/30/lessons/12901)            | [cpp](programmers/1-1.cpp)  |  2   |    [가운데 글자 가져오기](https://www.welcomekakao.com/learn/courses/30/lessons/12903)     | [cpp](programmers/1-2.cpp)  |
-|  3   |       [같은 숫자는 싫어](https://www.welcomekakao.com/learn/courses/30/lessons/12906)       | [cpp](programmers/1-3.cpp)  |  4   |  [나누어 떨어지는 숫자 배열](https://www.welcomekakao.com/learn/courses/30/lessons/12910)  | [cpp](programmers/1-4.cpp)  |
-|  5   |      [두 정수 사이의 합](https://www.welcomekakao.com/learn/courses/30/lessons/12912)       | [cpp](programmers/1-5.cpp)  |  6   |   [문자열 내 p와 y의 개수](https://www.welcomekakao.com/learn/courses/30/lessons/12916)    | [cpp](programmers/1-6.cpp)  |
-|  7   |     [서울에서 김서방 찾기](https://www.welcomekakao.com/learn/courses/30/lessons/12919)     | [cpp](programmers/1-7.cpp)  |  8   |   [수박수박수박수박수박수?](https://www.welcomekakao.com/learn/courses/30/lessons/12922)   | [cpp](programmers/1-8.cpp)  |
-|  9   |         [평균 구하기](https://www.welcomekakao.com/learn/courses/30/lessons/12944)          | [cpp](programmers/1-9.cpp)  |  10  |    [제일 작은 수 제거하기](https://www.welcomekakao.com/learn/courses/30/lessons/12935)    | [cpp](programmers/1-10.cpp) |
-|  11  |         [짝수와 홀수](https://www.welcomekakao.com/learn/courses/30/lessons/12937)          | [cpp](programmers/1-11.cpp) |  12  |          [하샤드 수](https://www.welcomekakao.com/learn/courses/30/lessons/12947)          | [cpp](programmers/1-12.cpp) |
-|  13  |         [행렬의 덧셈](https://www.welcomekakao.com/learn/courses/30/lessons/12950)          | [cpp](programmers/1-13.cpp) |  14  |         [콜라츠 추측](https://www.welcomekakao.com/learn/courses/30/lessons/12943)         | [cpp](programmers/1-14.cpp) |
-|  15  |        [자릿수 더하기](https://www.welcomekakao.com/learn/courses/30/lessons/12931)         | [cpp](programmers/1-15.cpp) |  16  |     [핸드폰 번호 가리기](https://www.welcomekakao.com/learn/courses/30/lessons/12948)      | [cpp](programmers/1-16.cpp) |
-|  17  | [x만큼 간격이 있는 n개의 숫자](https://www.welcomekakao.com/learn/courses/30/lessons/12954) | [cpp](programmers/1-17.cpp) |  18  |          [약수의 합](https://www.welcomekakao.com/learn/courses/30/lessons/12928)          | [cpp](programmers/1-18.cpp) |
-|  19  |   [최대공약수와 최소공배수](https://www.welcomekakao.com/learn/courses/30/lessons/12940)    | [cpp](programmers/1-19.cpp) |  20  |       [직사각형 별찍기](https://www.welcomekakao.com/learn/courses/30/lessons/12969)       | [cpp](programmers/1-20.cpp) |
-|  21  |       [정수 제곱근 판별](https://www.welcomekakao.com/learn/courses/30/lessons/12934)       | [cpp](programmers/1-21.cpp) |  22  |          [소수 찾기](https://www.welcomekakao.com/learn/courses/30/lessons/12921)          | [cpp](programmers/1-22.cpp) |
-|  23  | [자연수 뒤집어 배열로 만들기](https://www.welcomekakao.com/learn/courses/30/lessons/12932)  | [cpp](programmers/1-23.cpp) |  24  | [정수 내림차순으로 배치하기](https://www.welcomekakao.com/learn/courses/30/lessons/12933)  | [cpp](programmers/1-24.cpp) |
-|  25  |    [문자열을 정수로 바꾸기](https://www.welcomekakao.com/learn/courses/30/lessons/12925)    | [cpp](programmers/1-25.cpp) |  26  |     [문자열 다루기 기본](https://www.welcomekakao.com/learn/courses/30/lessons/12918)      | [cpp](programmers/1-26.cpp) |
-|  27  | [문자열 내림차순으로 배치하기](https://www.welcomekakao.com/learn/courses/30/lessons/12917) | [cpp](programmers/1-27.cpp) |  28  |     [이상한 문자 만들기](https://www.welcomekakao.com/learn/courses/30/lessons/12930)      | [cpp](programmers/1-28.cpp) |
-|  29  |          [시저 암호](https://www.welcomekakao.com/learn/courses/30/lessons/12926)           | [cpp](programmers/1-29.cpp) |  30  | [문자열 내 마음대로 정렬하기](https://www.welcomekakao.com/learn/courses/30/lessons/12915) | [cpp](programmers/1-30.cpp) |
-|  31  |           [K번째 수](https://www.welcomekakao.com/learn/courses/30/lessons/42748)           | [cpp](programmers/1-31.cpp) |  32  |     [완주하지 못한 선수](https://www.welcomekakao.com/learn/courses/30/lessons/42576)      | [cpp](programmers/1-32.cpp) |
+| 번호 | 문제                                                     | 코드                         |
+|:----:|:--------------------------------------------------------:|:----------------------------:|
+|  1   |            [Maximum Subarray](https://www.acmicpc.net/problem/10211)            | [cpp](programmers/1-1.cpp)  
+|  2   |            [Mystery](https://www.acmicpc.net/problem/10212)            | [cpp](programmers/1-1.cpp)  
+|  3   |            [XH Company](https://www.acmicpc.net/problem/10213)            | [cpp](programmers/1-1.cpp)  
 
-Level 2
--------
-
-| 번호 | 문제                                                                                | 코드                        | 번호 | 문제                                                                         | 코드                        |
-|:----:|:-----------------------------------------------------------------------------------:|:---------------------------:|:----:|:----------------------------------------------------------------------------:|:---------------------------:|
-|  1   |       [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)       | [cpp](programmers/2-1.cpp)  |  2   |   [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)    | [cpp](programmers/2-2.cpp)  |
-|  3   | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [cpp](programmers/2-3.cpp)  |  4   | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)  | [cpp](programmers/2-4.cpp)  |
-|  5   |       [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)       | [cpp](programmers/2-5.cpp)  |  6   | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)  | [cpp](programmers/2-6.cpp)  |
-|  7   |      [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)      | [cpp](programmers/2-7.cpp)  |  8   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [cpp](programmers/2-8.cpp)  |
-|  9   |         [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)         | [cpp](programmers/2-9.cpp)  |  10  |     [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)     | [cpp](programmers/2-10.cpp) |
-|  11  |       [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)       | [cpp](programmers/2-11.cpp) |  12  |     [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)     | [cpp](programmers/2-12.cpp) |
-
-Level 3~
---------
-
-| 번호 | 문제                                                                  | 코드                           | 번호 | 문제                                                                  | 코드                       |
-|:----:|:---------------------------------------------------------------------:|:------------------------------:|:----:|:---------------------------------------------------------------------:|:--------------------------:|
-|  1   | [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [cpp](programmers/kakao-1.cpp) |  2   | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | [cpp](programmers/3-1.cpp) |
-|  3   | [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)  |   [cpp](programmers/3-2.cpp)   |      |                                                                       |                            |
-
-HackerRank
-==========
-
-Easy
-----
-
-| 번호 | 문제                                                                                   | 코드                                            | 번호 | 문제                                                                                                   | 코드                                               |
-|:----:|:--------------------------------------------------------------------------------------:|:-----------------------------------------------:|:----:|:------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
-|  1   |        [migratoryBirds](https://www.hackerrank.com/challenges/migratory-birds)         |    [cpp](hackerrank.com/migratoryBirds.cpp)     |  2   |        [breakingRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)        |     [cpp](hackerrank.com/breakingRecords.cpp)      |
-|  3   |      [birthdayChocolate](https://www.hackerrank.com/challenges/the-birthday-bar)       |   [cpp](hackerrank.com/birthdayChocolate.cpp)   |  4   |             [divisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)             |    [cpp](hackerrank.com/divisibleSumPairs.cpp)     |
-|  5   |            [bonAppetit](https://www.hackerrank.com/challenges/bon-appetit)             |      [cpp](hackerrank.com/bonAppetit.cpp)       |  6   |                    [twoStrings](https://www.hackerrank.com/challenges/two-strings)                     |        [cpp](hackerrank.com/twoStrings.cpp)        |
-|  7   | [alternatingCharacters](https://www.hackerrank.com/challenges/alternating-characters)  | [cpp](hackerrank.com/alternatingCharacters.cpp) |  8   |                   [markAndToys](https://www.hackerrank.com/challenges/mark-and-toys)                   |       [cpp](hackerrank.com/markAndToys.cpp)        |
-|  9   |        [makingAnagrams](https://www.hackerrank.com/challenges/making-anagrams)         |    [cpp](hackerrank.com/makingAnagrams.cpp)     |  10  |                  [ransomNote](https://www.hackerrank.com/challenges/ctci-ransom-note)                  |        [cpp](hackerrank.com/ransomNote.cpp)        |
-|  11  |     [leftRotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)     |     [cpp](hackerrank.com/leftRotation.cpp)      |  12  | [minAbsoluteDifference](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  [cpp](hackerrank.com/minAbsoluteDifference.cpp)   |
-|  13  |          [sockMerchant](https://www.hackerrank.com/challenges/sock-merchant)           |     [cpp](hackerrank.com/sockMerchant.cpp)      |  14  |                   [luckBalance](https://www.hackerrank.com/challenges/luck-balance)                    |       [cpp](hackerrank.com/luckBalance.cpp)        |
-|  15  |           [utopianTree](https://www.hackerrank.com/challenges/utopian-tree)            |      [cpp](hackerrank.com/utopianTree.cpp)      |  16  |               [countingValleys](https://www.hackerrank.com/challenges/counting-valleys)                |     [cpp](hackerrank.com/countingValleys.cpp)      |
-|  17  |   [jumpingOnTheClouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)    |  [cpp](hackerrank.com/jumpingOnTheClouds.cpp)   |  18  |                [repeatedString](https://www.hackerrank.com/challenges/repeated-string)                 |      [cpp](hackerrank.com/repeatedString.cpp)      |
-|  19  |        [pickingNumbers](https://www.hackerrank.com/challenges/picking-numbers)         |    [cpp](hackerrank.com/pickingNumbers.cpp)     |  20  |     [beautifulDaysAtTheMovies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)     | [cpp](hackerrank.com/beautifulDaysAtTheMovies.cpp) |
-|  21  |     [viralAdvertising](https://www.hackerrank.com/challenges/strange-advertising)      |   [cpp](hackerrank.com/viralAdvertising.cpp)    |  22  |               [saveThePrisoner](https://www.hackerrank.com/challenges/save-the-prisoner)               |     [cpp](hackerrank.com/saveThePrisoner.cpp)      |
-|  23  | [circularArrayRotation](https://www.hackerrank.com/challenges/circular-array-rotation) | [cpp](hackerrank.com/circularArrayRotation.cpp) |  24  |                    [findDigits](https://www.hackerrank.com/challenges/find-digits)                     |        [cpp](hackerrank.com/findDigits.cpp)        |
-
-Medium
-------
-
-| 번호 | 문제                                                                                     | 코드                                             | 번호 | 문제                                                                                         | 코드                                                |
-|:----:|:----------------------------------------------------------------------------------------:|:------------------------------------------------:|:----:|:--------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
-|  1   |      [iceCreamParlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)       |     [cpp](hackerrank.com/iceCreamParlor.cpp)     |  2   |            [minimumSwaps2](https://www.hackerrank.com/challenges/minimum-swaps-2)            |       [cpp](hackerrank.com/minimumSwaps2.cpp)       |
-|  3   |           [newYearChaos](https://www.hackerrank.com/challenges/new-year-chaos)           |      [cpp](hackerrank.com/newYearChaos.cpp)      |  4   | [sherlockAndTheValidString](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | [cpp](hackerrank.com/sherlockAndTheValidString.cpp) |
-|  5   |            [maxArraySum](https://www.hackerrank.com/challenges/max-array-sum)            |      [cpp](hackerrank.com/maxArraySum.cpp)       |  6   |                   [candies](https://www.hackerrank.com/challenges/candies)                   |          [cpp](hackerrank.com/candies.cpp)          |
-|  7   |              [maxMin](https://www.hackerrank.com/challenges/angry-children)              |         [cpp](hackerrank.com/maxMin.cpp)         |  8   |            [greedyFlorist](https://www.hackerrank.com/challenges/greedy-florist)             |       [cpp](hackerrank.com/greedyFlorist.cpp)       |
-|  9   | [climbingTheLeaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | [cpp](hackerrank.com/climbingTheLeaderboard.cpp) |      |                                                                                              |                                                     |
-
-Hard
-----
-
-| 번호 | 문제                                                             | 코드                                        | 번호 | 문제 | 코드 |
-|:----:|:----------------------------------------------------------------:|:-------------------------------------------:|:----:|:----:|:----:|
-|  1   | [arrayManipulation](https://www.hackerrank.com/challenges/crush) | [cpp](hackerrank.com/arrayManipulation.cpp) |      |      |      |
+                                                                                      |                                                     |
