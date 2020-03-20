@@ -63,7 +63,7 @@
 |  81  |         [Contact](https://www.acmicpc.net/problem/1013)         |   [cpp](acmicpc.net/1013.cpp)   |  82  |    [터널의 입구와 출구](https://www.acmicpc.net/problem/5612)    |   [cpp](acmicpc.net/5612.cpp)   |
 |  83  |       [지구 온난화](https://www.acmicpc.net/problem/5212)       |   [cpp](acmicpc.net/5212.cpp)   |  84  |          [서버](https://www.acmicpc.net/problem/10409)           |  [cpp](acmicpc.net/10409.cpp)   |
 |  85  |      [마술사 이민혁](https://www.acmicpc.net/problem/3023)      |   [cpp](acmicpc.net/3023.cpp)   |  86  |      [수빈이와 수열](https://www.acmicpc.net/problem/10539)      |  [java](acmicpc.net/B10539.java)   |
-|  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      |   [cpp](acmicpc.net/3054.cpp)   |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         |   [java](acmicpc.net/B5575.java)   |
+|  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      |   [java](acmicpc.net/B3054.java)   |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         |   [java](acmicpc.net/B5575.java)   |
 |  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       |  [java](acmicpc.net/B13417.java)   |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        |  [cpp](acmicpc.net/15953.cpp)   |
 |  91  |      [이진수 연산](https://www.acmicpc.net/problem/12813)       |  [java](acmicpc.net/B12813.java)   |  92  |          [16진수](https://www.acmicpc.net/problem/1550)          |   [java](acmicpc.net/B1550.java)   |
 |  93  |        [쿼드트리](https://www.acmicpc.net/problem/1992)         |   [cpp](acmicpc.net/1992.cpp)   |  94  |       [종이의 개수](https://www.acmicpc.net/problem/1780)        |   [cpp](acmicpc.net/1780.cpp)   |
@@ -74,7 +74,7 @@
 
 | 번호 | 문제                                                         | 코드                         | 번호 | 문제                                                       | 코드                         |
 |:----:|:------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------:|:----------------------------:|
-|  1   |   [영식이와 친구들](https://www.acmicpc.net/problem/1592)    | [cpp](acmicpc.net/1592.cpp)  |  2   |    [지능형 기차](https://www.acmicpc.net/problem/2455)     | [cpp](acmicpc.net/2455.cpp)  |
+|  1   |   [영식이와 친구들](https://www.acmicpc.net/problem/1592)    | [java](acmicpc.net/B1592.java)  |  2   |    [지능형 기차](https://www.acmicpc.net/problem/2455)     | [cpp](acmicpc.net/2455.cpp)  |
 |  3   |        [막대기](https://www.acmicpc.net/problem/1094)        | [cpp](acmicpc.net/1094.cpp)  |  4   |      [토너먼트](https://www.acmicpc.net/problem/1057)      | [cpp](acmicpc.net/1057.cpp)  |
 |  5   |          [공](https://www.acmicpc.net/problem/1547)          | [cpp](acmicpc.net/1547.cpp)  |  6   | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [cpp](acmicpc.net/1018.cpp)  |
 |  7   |        [카드1](https://www.acmicpc.net/problem/2161)         | [cpp](acmicpc.net/2161.cpp)  |  8   |     [방학 숙제](https://www.acmicpc.net/problem/5532)      | [cpp](acmicpc.net/5532.cpp)  |
@@ -91,7 +91,7 @@
 | 번호 | 문제                                                           | 코드                         | 번호 | 문제                                                | 코드                         |
 |:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------:|:----------------------------:|
 |  1   |      [Hello World](https://www.acmicpc.net/problem/2557)       | [java](acmicpc.net/B2557.java)  |  2   |    [N찍기](https://www.acmicpc.net/problem/2741)    | [java](acmicpc.net/B2741.cpp)  |
-|  3   |       [별찍기 - 1](https://www.acmicpc.net/problem/2438)       | [cpp](acmicpc.net/2438.cpp)  |  4   | [별찍기 - 2](https://www.acmicpc.net/problem/2439)  | [cpp](acmicpc.net/2439.cpp)  |
+|  3   |       [별찍기 - 1](https://www.acmicpc.net/problem/2438)       | [java](acmicpc.net/B2438.java)  |  4   | [별찍기 - 2](https://www.acmicpc.net/problem/2439)  | [java](acmicpc.net/B2439.java)  |
 |  5   |       [별찍기 - 3](https://www.acmicpc.net/problem/2440)       | [cpp](acmicpc.net/2440.cpp)  |  6   |   [구구단](https://www.acmicpc.net/problem/2739)    | [cpp](acmicpc.net/2739.cpp)  |
 |  7   |         [기찍 N](https://www.acmicpc.net/problem/2742)         | [cpp](acmicpc.net/2742.cpp)  |  8   |     [개](https://www.acmicpc.net/problem/10172)     | [cpp](acmicpc.net/10172.cpp) |
 |  9   |    [그대로 출력하기](https://www.acmicpc.net/problem/11718)    | [cpp](acmicpc.net/11718.cpp) |  10  | [숫자의 합](https://www.acmicpc.net/problem/11720)  | [cpp](acmicpc.net/11720.cpp) |
@@ -119,7 +119,7 @@
 | 번호 | 문제                                                           | 코드                         | 번호 | 문제                                                            | 코드                         |
 |:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------------:|:----------------------------:|
 |  1   |          [A+B](https://www.acmicpc.net/problem/1000)           | [java](acmicpc.net/B1000.java)  |  2   |           [A-B](https://www.acmicpc.net/problem/1001)           | [java](acmicpc.net/B1001.java)  |
-|  3   |         [A+B-7](https://www.acmicpc.net/problem/11021)         | [java](acmicpc.net/B11021.java) |  4   |         [A+B-8](https://www.acmicpc.net/problem/11022)          | [cpp](acmicpc.net/11022.cpp) |
+|  3   |         [A+B-7](https://www.acmicpc.net/problem/11021)         | [java](acmicpc.net/B11021.java) |  4   |         [A+B-8](https://www.acmicpc.net/problem/11022)          | [java](acmicpc.net/B11022.java) |
 |  5   | [아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) | [cpp](acmicpc.net/9550.cpp)  |  6   |         [나누기](https://www.acmicpc.net/problem/1075)          | [cpp](acmicpc.net/1075.cpp)  |
 |  7   |       [이게 분수?](https://www.acmicpc.net/problem/2863)       | [cpp](acmicpc.net/2863.cpp)  |  8   |           [A/B](https://www.acmicpc.net/problem/1008)           | [cpp](acmicpc.net/1008.cpp)  |
 |  9   |       [날짜 계산](https://www.acmicpc.net/problem/1476)        | [cpp](acmicpc.net/1476.cpp)  |  10  |           [R2](https://www.acmicpc.net/problem/3046)            | [cpp](acmicpc.net/3046.cpp)  |
