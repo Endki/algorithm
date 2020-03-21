@@ -67,7 +67,7 @@
 |  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       |  [java](acmicpc.net/B13417.java)   |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        |  [cpp](acmicpc.net/15953.cpp)   |
 |  91  |      [이진수 연산](https://www.acmicpc.net/problem/12813)       |  [java](acmicpc.net/B12813.java)   |  92  |          [16진수](https://www.acmicpc.net/problem/1550)          |   [java](acmicpc.net/B1550.java)   |
 |  93  |        [쿼드트리](https://www.acmicpc.net/problem/1992)         |   [cpp](acmicpc.net/1992.cpp)   |  94  |       [종이의 개수](https://www.acmicpc.net/problem/1780)        |   [cpp](acmicpc.net/1780.cpp)   |
-|  93  |         [검증수](https://www.acmicpc.net/problem/2475)          |   [cpp](acmicpc.net/2475.cpp)   |      |                                                                  |                                 |
+|  93  |         [검증수](https://www.acmicpc.net/problem/2475)          |   [java](acmicpc.net/B2475.java)   |      |                                                                  |                                 |
 
 시뮬레이션
 ----------
@@ -92,7 +92,7 @@
 |:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------:|:----------------------------:|
 |  1   |      [Hello World](https://www.acmicpc.net/problem/2557)       | [java](acmicpc.net/B2557.java)  |  2   |    [N찍기](https://www.acmicpc.net/problem/2741)    | [java](acmicpc.net/B2741.cpp)  |
 |  3   |       [별찍기 - 1](https://www.acmicpc.net/problem/2438)       | [java](acmicpc.net/B2438.java)  |  4   | [별찍기 - 2](https://www.acmicpc.net/problem/2439)  | [java](acmicpc.net/B2439.java)  |
-|  5   |       [별찍기 - 3](https://www.acmicpc.net/problem/2440)       | [cpp](acmicpc.net/2440.cpp)  |  6   |   [구구단](https://www.acmicpc.net/problem/2739)    | [cpp](acmicpc.net/2739.cpp)  |
+|  5   |       [별찍기 - 3](https://www.acmicpc.net/problem/2440)       | [java](acmicpc.net/B2440.java)  |  6   |   [구구단](https://www.acmicpc.net/problem/2739)    | [cpp](acmicpc.net/2739.cpp)  |
 |  7   |         [기찍 N](https://www.acmicpc.net/problem/2742)         | [cpp](acmicpc.net/2742.cpp)  |  8   |     [개](https://www.acmicpc.net/problem/10172)     | [cpp](acmicpc.net/10172.cpp) |
 |  9   |    [그대로 출력하기](https://www.acmicpc.net/problem/11718)    | [cpp](acmicpc.net/11718.cpp) |  10  | [숫자의 합](https://www.acmicpc.net/problem/11720)  | [cpp](acmicpc.net/11720.cpp) |
 |  11  | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721) | [cpp](acmicpc.net/11721.cpp) |  12  |    [??!](https://www.acmicpc.net/problem/10926)     | [cpp](acmicpc.net/10926.cpp) |
@@ -120,7 +120,7 @@
 |:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------------:|:----------------------------:|
 |  1   |          [A+B](https://www.acmicpc.net/problem/1000)           | [java](acmicpc.net/B1000.java)  |  2   |           [A-B](https://www.acmicpc.net/problem/1001)           | [java](acmicpc.net/B1001.java)  |
 |  3   |         [A+B-7](https://www.acmicpc.net/problem/11021)         | [java](acmicpc.net/B11021.java) |  4   |         [A+B-8](https://www.acmicpc.net/problem/11022)          | [java](acmicpc.net/B11022.java) |
-|  5   | [아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) | [cpp](acmicpc.net/9550.cpp)  |  6   |         [나누기](https://www.acmicpc.net/problem/1075)          | [cpp](acmicpc.net/1075.cpp)  |
+|  5   | [아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) | [java](acmicpc.net/B9550.java)  |  6   |         [나누기](https://www.acmicpc.net/problem/1075)          | [java](acmicpc.net/B1075.java)  |
 |  7   |       [이게 분수?](https://www.acmicpc.net/problem/2863)       | [cpp](acmicpc.net/2863.cpp)  |  8   |           [A/B](https://www.acmicpc.net/problem/1008)           | [cpp](acmicpc.net/1008.cpp)  |
 |  9   |       [날짜 계산](https://www.acmicpc.net/problem/1476)        | [cpp](acmicpc.net/1476.cpp)  |  10  |           [R2](https://www.acmicpc.net/problem/3046)            | [cpp](acmicpc.net/3046.cpp)  |
 |  11  |     [남욱이의 닭장](https://www.acmicpc.net/problem/11006)     | [cpp](acmicpc.net/11006.cpp) |  12  |         [다면체](https://www.acmicpc.net/problem/10569)         | [cpp](acmicpc.net/10569.cpp) |
@@ -273,7 +273,7 @@ Coder's High 2014 예비소집
 | 번호 | 문제                                                     | 코드                         |
 |:----:|:--------------------------------------------------------:|:----------------------------:|
 |  1   |            [Maximum Subarray](https://www.acmicpc.net/problem/10211)            | [cpp](programmers/1-1.cpp)  
-|  2   |            [Mystery](https://www.acmicpc.net/problem/10212)            | [cpp](programmers/1-1.cpp)  
+|  2   |            [Mystery](https://www.acmicpc.net/problem/10212)            | [java](acmicpc.net/B10212.java)  
 |  3   |            [XH Company](https://www.acmicpc.net/problem/10213)            | [cpp](programmers/1-1.cpp)  
 
                                                                                       |                                                     |
