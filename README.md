@@ -61,8 +61,8 @@
 |  77  |        [지뢰찾기](https://www.acmicpc.net/problem/4108)         |   [java](acmicpc.net/B4108.java)   |  78  |   [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)   |  [java](acmicpc.net/B11729.java)   |
 |  79  |       [잠수함식별](https://www.acmicpc.net/problem/2671)        |   [cpp](acmicpc.net/2671.cpp)   |  80  |        [어린 왕자](https://www.acmicpc.net/problem/1004)         |   [cpp](acmicpc.net/1004.cpp)   |
 |  81  |         [Contact](https://www.acmicpc.net/problem/1013)         |   [cpp](acmicpc.net/1013.cpp)   |  82  |    [터널의 입구와 출구](https://www.acmicpc.net/problem/5612)    |   [cpp](acmicpc.net/5612.cpp)   |
-|  83  |       [지구 온난화](https://www.acmicpc.net/problem/5212)       |   [cpp](acmicpc.net/5212.cpp)   |  84  |          [서버](https://www.acmicpc.net/problem/10409)           |  [cpp](acmicpc.net/10409.cpp)   |
-|  85  |      [마술사 이민혁](https://www.acmicpc.net/problem/3023)      |   [cpp](acmicpc.net/3023.cpp)   |  86  |      [수빈이와 수열](https://www.acmicpc.net/problem/10539)      |  [java](acmicpc.net/B10539.java)   |
+|  83  |       [지구 온난화](https://www.acmicpc.net/problem/5212)       |   [cpp](acmicpc.net/5212.cpp)   |  84  |          [서버](https://www.acmicpc.net/problem/10409)           |  [java](acmicpc.net/B10409.java)   |
+|  85  |      [마술사 이민혁](https://www.acmicpc.net/problem/3023)      |   [java](acmicpc.net/B3023.java)   |  86  |      [수빈이와 수열](https://www.acmicpc.net/problem/10539)      |  [java](acmicpc.net/B10539.java)   |
 |  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      |   [java](acmicpc.net/B3054.java)   |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         |   [java](acmicpc.net/B5575.java)   |
 |  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       |  [java](acmicpc.net/B13417.java)   |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        |  [cpp](acmicpc.net/15953.cpp)   |
 |  91  |      [이진수 연산](https://www.acmicpc.net/problem/12813)       |  [java](acmicpc.net/B12813.java)   |  92  |          [16진수](https://www.acmicpc.net/problem/1550)          |   [java](acmicpc.net/B1550.java)   |
@@ -121,7 +121,7 @@
 |  1   |          [A+B](https://www.acmicpc.net/problem/1000)           | [java](acmicpc.net/B1000.java)  |  2   |           [A-B](https://www.acmicpc.net/problem/1001)           | [java](acmicpc.net/B1001.java)  |
 |  3   |         [A+B-7](https://www.acmicpc.net/problem/11021)         | [java](acmicpc.net/B11021.java) |  4   |         [A+B-8](https://www.acmicpc.net/problem/11022)          | [java](acmicpc.net/B11022.java) |
 |  5   | [아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) | [java](acmicpc.net/B9550.java)  |  6   |         [나누기](https://www.acmicpc.net/problem/1075)          | [java](acmicpc.net/B1075.java)  |
-|  7   |       [이게 분수?](https://www.acmicpc.net/problem/2863)       | [cpp](acmicpc.net/2863.cpp)  |  8   |           [A/B](https://www.acmicpc.net/problem/1008)           | [cpp](acmicpc.net/1008.cpp)  |
+|  7   |       [이게 분수?](https://www.acmicpc.net/problem/2863)       | [cpp](acmicpc.net/2863.cpp)  |  8   |           [A/B](https://www.acmicpc.net/problem/1008)           | [java](acmicpc.net/B1008.java)  |
 |  9   |       [날짜 계산](https://www.acmicpc.net/problem/1476)        | [cpp](acmicpc.net/1476.cpp)  |  10  |           [R2](https://www.acmicpc.net/problem/3046)            | [cpp](acmicpc.net/3046.cpp)  |
 |  11  |     [남욱이의 닭장](https://www.acmicpc.net/problem/11006)     | [cpp](acmicpc.net/11006.cpp) |  12  |         [다면체](https://www.acmicpc.net/problem/10569)         | [cpp](acmicpc.net/10569.cpp) |
 |  13  |     [캥거루 세마리](https://www.acmicpc.net/problem/2965)      | [cpp](acmicpc.net/2965.cpp)  |  14  |         [저작권](https://www.acmicpc.net/problem/2914)          | [cpp](acmicpc.net/2914.cpp)  |
