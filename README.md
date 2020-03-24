@@ -94,7 +94,7 @@
 |  3   |       [별찍기 - 1](https://www.acmicpc.net/problem/2438)       | [java](acmicpc.net/B2438.java)  |  4   | [별찍기 - 2](https://www.acmicpc.net/problem/2439)  | [java](acmicpc.net/B2439.java)  |
 |  5   |       [별찍기 - 3](https://www.acmicpc.net/problem/2440)       | [java](acmicpc.net/B2440.java)  |  6   |   [구구단](https://www.acmicpc.net/problem/2739)    | [java](acmicpc.net/B2739.java)  |
 |  7   |         [기찍 N](https://www.acmicpc.net/problem/2742)         | [java](acmicpc.net/B2742.java)  |  8   |     [개](https://www.acmicpc.net/problem/10172)     | [java](acmicpc.net/B10172.java) |
-|  9   |    [그대로 출력하기](https://www.acmicpc.net/problem/11718)    | [cpp](acmicpc.net/11718.cpp) |  10  | [숫자의 합](https://www.acmicpc.net/problem/11720)  | [java](acmicpc.net/B11720.java) |
+|  9   |    [그대로 출력하기](https://www.acmicpc.net/problem/11718)    | [java](acmicpc.net/B11718.java) |  10  | [숫자의 합](https://www.acmicpc.net/problem/11720)  | [java](acmicpc.net/B11720.java) |
 |  11  | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721) | [cpp](acmicpc.net/11721.cpp) |  12  |    [??!](https://www.acmicpc.net/problem/10926)     | [cpp](acmicpc.net/10926.cpp) |
 |  13  |   [그대로 출력하기2](https://www.acmicpc.net/problem/11719)    | [cpp](acmicpc.net/11719.cpp) |  14  | [별찍기 - 11](https://www.acmicpc.net/problem/2448) | [cpp](acmicpc.net/2448.cpp)  |
 |  15  |        [고양이](https://www.acmicpc.net/problem/10171)         | [cpp](acmicpc.net/10171.cpp) |      |                                                     |                              |
