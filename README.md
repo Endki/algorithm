@@ -66,7 +66,7 @@
 |  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      |   [java](acmicpc.net/B3054.java)   |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         |   [java](acmicpc.net/B5575.java)   |
 |  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       |  [java](acmicpc.net/B13417.java)   |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        |  [cpp](acmicpc.net/15953.cpp)   |
 |  91  |      [이진수 연산](https://www.acmicpc.net/problem/12813)       |  [java](acmicpc.net/B12813.java)   |  92  |          [16진수](https://www.acmicpc.net/problem/1550)          |   [java](acmicpc.net/B1550.java)   |
-|  93  |        [쿼드트리](https://www.acmicpc.net/problem/1992)         |   [cpp](acmicpc.net/1992.cpp)   |  94  |       [종이의 개수](https://www.acmicpc.net/problem/1780)        |   [cpp](acmicpc.net/1780.cpp)   |
+|  93  |        [쿼드트리](https://www.acmicpc.net/problem/1992)         |   [java](acmicpc.net/B1992.java)   |  94  |       [종이의 개수](https://www.acmicpc.net/problem/1780)        |   [java](acmicpc.net/B1780.java)   |
 |  93  |         [검증수](https://www.acmicpc.net/problem/2475)          |   [java](acmicpc.net/B2475.java)   |      |                                                                  |                                 |
 
 시뮬레이션
