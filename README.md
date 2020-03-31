@@ -122,7 +122,7 @@
 |  3   |         [A+B-7](https://www.acmicpc.net/problem/11021)         | [java](acmicpc.net/B11021.java) |  4   |         [A+B-8](https://www.acmicpc.net/problem/11022)          | [java](acmicpc.net/B11022.java) |
 |  5   | [아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) | [java](acmicpc.net/B9550.java)  |  6   |         [나누기](https://www.acmicpc.net/problem/1075)          | [java](acmicpc.net/B1075.java)  |
 |  7   |       [이게 분수?](https://www.acmicpc.net/problem/2863)       | [java](acmicpc.net/B2863.java)  |  8   |           [A/B](https://www.acmicpc.net/problem/1008)           | [java](acmicpc.net/B1008.java)  |
-|  9   |       [날짜 계산](https://www.acmicpc.net/problem/1476)        | [cpp](acmicpc.net/1476.cpp)  |  10  |           [R2](https://www.acmicpc.net/problem/3046)            | [cpp](acmicpc.net/3046.cpp)  |
+|  9   |       [날짜 계산](https://www.acmicpc.net/problem/1476)        | [java](acmicpc.net/B1476.java)  |  10  |           [R2](https://www.acmicpc.net/problem/3046)            | [java](acmicpc.net/B3046.java)  |
 |  11  |     [남욱이의 닭장](https://www.acmicpc.net/problem/11006)     | [cpp](acmicpc.net/11006.cpp) |  12  |         [다면체](https://www.acmicpc.net/problem/10569)         | [cpp](acmicpc.net/10569.cpp) |
 |  13  |     [캥거루 세마리](https://www.acmicpc.net/problem/2965)      | [cpp](acmicpc.net/2965.cpp)  |  14  |         [저작권](https://www.acmicpc.net/problem/2914)          | [cpp](acmicpc.net/2914.cpp)  |
 |  15  |    [다각형의 대각선](https://www.acmicpc.net/problem/3049)     | [cpp](acmicpc.net/3049.cpp)  |  16  |        [설탕 배달](https://www.acmicpc.net/problem/2839)        | [cpp](acmicpc.net/2839.cpp)  |
