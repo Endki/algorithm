@@ -59,15 +59,13 @@
 |  73  |         [유니크](https://www.acmicpc.net/problem/5533)          |   [java](acmicpc.net/B5533.java)   |  74  |     [크리스마스 파티](https://www.acmicpc.net/problem/10708)     |  [java](acmicpc.net/B10708.java)   |
 |  75  |    [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    |   [java](acmicpc.net/B2775.java)   |  76  |         [Starman](https://www.acmicpc.net/problem/12791)         |  [java](acmicpc.net/B12791.java)   |
 |  77  |        [지뢰찾기](https://www.acmicpc.net/problem/4108)         |   [java](acmicpc.net/B4108.java)   |  78  |   [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)   |  [java](acmicpc.net/B11729.java)   |
-|  79  |       [잠수함식별](https://www.acmicpc.net/problem/2671)        |   [cpp](acmicpc.net/2671.cpp)   |  80  |        [어린 왕자](https://www.acmicpc.net/problem/1004)         |   [cpp](acmicpc.net/1004.cpp)   |
-|  81  |         [Contact](https://www.acmicpc.net/problem/1013)         |   [cpp](acmicpc.net/1013.cpp)   |  82  |    [터널의 입구와 출구](https://www.acmicpc.net/problem/5612)    |   [java](acmicpc.net/B5612.java)   |
+|  79  |       [검증수](https://www.acmicpc.net/problem/2475)        |   [java](acmicpc.net/B2475.java)   |  80  |        [종이의 개수](https://www.acmicpc.net/problem/1780)         |   [java](acmicpc.net/B1780.java)   |
+|  81  |         [쿼드트리](https://www.acmicpc.net/problem/1992)         |   [java](acmicpc.net/B1992.java)   |  82  |    [터널의 입구와 출구](https://www.acmicpc.net/problem/5612)    |   [java](acmicpc.net/B5612.java)   |
 |  83  |       [지구 온난화](https://www.acmicpc.net/problem/5212)       |   [java](acmicpc.net/5212.java)   |  84  |          [서버](https://www.acmicpc.net/problem/10409)           |  [java](acmicpc.net/B10409.java)   |
 |  85  |      [마술사 이민혁](https://www.acmicpc.net/problem/3023)      |   [java](acmicpc.net/B3023.java)   |  86  |      [수빈이와 수열](https://www.acmicpc.net/problem/10539)      |  [java](acmicpc.net/B10539.java)   |
 |  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      |   [java](acmicpc.net/B3054.java)   |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         |   [java](acmicpc.net/B5575.java)   |
-|  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       |  [java](acmicpc.net/B13417.java)   |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        |  [cpp](acmicpc.net/15953.cpp)   |
+|  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       |  [java](acmicpc.net/B13417.java)   |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        |  [java](acmicpc.net/B15953.java)   |
 |  91  |      [이진수 연산](https://www.acmicpc.net/problem/12813)       |  [java](acmicpc.net/B12813.java)   |  92  |          [16진수](https://www.acmicpc.net/problem/1550)          |   [java](acmicpc.net/B1550.java)   |
-|  93  |        [쿼드트리](https://www.acmicpc.net/problem/1992)         |   [java](acmicpc.net/B1992.java)   |  94  |       [종이의 개수](https://www.acmicpc.net/problem/1780)        |   [java](acmicpc.net/B1780.java)   |
-|  93  |         [검증수](https://www.acmicpc.net/problem/2475)          |   [java](acmicpc.net/B2475.java)   |      |                                                                  |                                 |
 
 시뮬레이션
 ----------
