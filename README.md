@@ -251,8 +251,8 @@ Greedy Algorithm
 | 번호 | 문제                                                     | 코드                         | 번호 | 문제                                                                | 코드                         |
 |:----:|:--------------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------------------------:|:----------------------------:|
 |  1   |      [스택](https://www.acmicpc.net/problem/10828)       | [java](acmicpc.net/B10828.java) |  2   |             [큐](https://www.acmicpc.net/problem/10845)              | [java](acmicpc.net/B10845.java) |
-|  3   |    [쇠막대기](https://www.acmicpc.net/problem/10799)     | [cpp](acmicpc.net/10799.cpp) |  4   |            [괄호](https://www.acmicpc.net/problem/9012)             | [cpp](acmicpc.net/9012.cpp)  |
-|  5   |  [조세퍼스 문제](https://www.acmicpc.net/problem/1158)   | [cpp](acmicpc.net/1158.cpp)  |  6   |          [좋은 단어](https://www.acmicpc.net/problem/3986)          | [cpp](acmicpc.net/3986.cpp)  |
+|  3   |    [쇠막대기](https://www.acmicpc.net/problem/10799)     | [java](acmicpc.net/B10799.java) |  4   |            [괄호](https://www.acmicpc.net/problem/9012)             | [java](acmicpc.net/B9012.java)  |
+|  5   |  [조세퍼스 문제](https://www.acmicpc.net/problem/1158)   | [java](acmicpc.net/B1158.java)  |  6   |          [좋은 단어](https://www.acmicpc.net/problem/3986)          | [java](acmicpc.net/B3986.java)  |
 |  7   |    [스택 수열](https://www.acmicpc.net/problem/1874)     | [cpp](acmicpc.net/1874.cpp)  |  8   |         [후위 표기식](https://www.acmicpc.net/problem/1918)         | [cpp](acmicpc.net/1918.cpp)  |
 |  9   |        [탑](https://www.acmicpc.net/problem/2493)        | [cpp](acmicpc.net/2493.cpp)  |  10  |      [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)       | [cpp](acmicpc.net/7662.cpp)  |
 |  11  |    [프린터 큐](https://www.acmicpc.net/problem/1966)     | [cpp](acmicpc.net/1966.cpp)  |  12  |          [최대 힙](https://www.acmicpc.net/problem/11279)           | [cpp](acmicpc.net/11279.cpp) |
