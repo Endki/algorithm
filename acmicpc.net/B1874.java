@@ -7,28 +7,44 @@ public class B1874 {
 		Scanner input=new Scanner(System.in);
 		Stack<Integer> stack=new Stack<>();
 		
-		
 		int t=input.nextInt();
+		int[] arr=new int[t];
+		boolean swt=true;
+		int num=1;
+		String k="";
 		
-		for(int i=1;i<=t;i++) {
-			int m=input.nextInt();
+		for(int i=0;i<t;i++) {
+			arr[i]=input.nextInt();
 			
 			
-				if(stack.size()<m) {
-					while(stack.size()!=m) {
-						stack.push(i);
-						System.out.println("+");	
+				if(swt) {
+					if(num<=arr[i]) {
+						while(num<=arr[i]) {
+							stack.push(num++);
+							k+="+";
+						}
 					}
-				}else {
-					if(stack.pop().equals(m)) {
-						System.out.println("NO");
-						return;
+					if(stack.isEmpty()) {
+						swt=false;
+					}else {
+						while(stack.peek()>=arr[i]) {
+							stack.pop();
+							k+="-";
+							if(stack.isEmpty()) {
+								break;
+							}
+						}
 					}
-					
-					System.out.println("-");
 				}
 			
 			
+		}
+		if(swt) {
+			for(int i=0;i<k.length();i++) {
+				System.out.println(k.charAt(i));
+			}
+		}else {
+			System.out.println("NO");
 		}
 
 	}
