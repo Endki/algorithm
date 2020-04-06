@@ -9,10 +9,6 @@ public class B1152 {
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer stn=new StringTokenizer(br.readLine());
 		int count=stn.countTokens();
-//		while(stn.countTokens()) {
-//			count++;
-//		}
-//		
 		System.out.println(count);
 		
 	}
