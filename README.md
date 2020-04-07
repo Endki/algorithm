@@ -72,8 +72,8 @@
 
 | 번호 | 문제                                                         | 코드                         | 번호 | 문제                                                       | 코드                         |
 |:----:|:------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------:|:----------------------------:|
-|  1   |   [영식이와 친구들](https://www.acmicpc.net/problem/1592)    | [java](acmicpc.net/B1592.java)  |  2   |    [지능형 기차](https://www.acmicpc.net/problem/2455)     | [cpp](acmicpc.net/2455.cpp)  |
-|  3   |        [막대기](https://www.acmicpc.net/problem/1094)        | [cpp](acmicpc.net/1094.cpp)  |  4   |      [토너먼트](https://www.acmicpc.net/problem/1057)      | [cpp](acmicpc.net/1057.cpp)  |
+|  1   |   [영식이와 친구들](https://www.acmicpc.net/problem/1592)    | [java](acmicpc.net/B1592.java)  |  2   |    [지능형 기차](https://www.acmicpc.net/problem/2455)     | [java](acmicpc.net/B2455.java)  |
+|  3   |        [막대기](https://www.acmicpc.net/problem/1094)        | [cpp](acmicpc.net/1094.cpp)  |  4   |      [토너먼트](https://www.acmicpc.net/problem/1057)      | [java](acmicpc.net/B1057.java)  |
 |  5   |          [공](https://www.acmicpc.net/problem/1547)          | [cpp](acmicpc.net/1547.cpp)  |  6   | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [cpp](acmicpc.net/1018.cpp)  |
 |  7   |        [카드1](https://www.acmicpc.net/problem/2161)         | [cpp](acmicpc.net/2161.cpp)  |  8   |     [방학 숙제](https://www.acmicpc.net/problem/5532)      | [cpp](acmicpc.net/5532.cpp)  |
 |  9   |        [카드2](https://www.acmicpc.net/problem/2164)         | [cpp](acmicpc.net/2164.cpp)  |  10  |     [트럭 주차](https://www.acmicpc.net/problem/2979)      | [cpp](acmicpc.net/2979.cpp)  |
@@ -145,7 +145,7 @@
 
 | 번호 | 문제                                                      | 코드                         | 번호 | 문제                                                             | 코드                         |
 |:----:|:---------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
-|  1   |    [단어의 개수](https://www.acmicpc.net/problem/1152)    | [cpp](acmicpc.net/1152.cpp)  |  2   |        [단어 공부](https://www.acmicpc.net/problem/1157)         | [cpp](acmicpc.net/1157.cpp)  |
+|  1   |    [단어의 개수](https://www.acmicpc.net/problem/1152)    | [java](acmicpc.net/B1152.java)  |  2   |        [단어 공부](https://www.acmicpc.net/problem/1157)         | [cpp](acmicpc.net/1157.cpp)  |
 |  3   |       [상수](https://www.acmicpc.net/problem/2908)        | [cpp](acmicpc.net/2908.cpp)  |  4   |        [숫자 카드](https://www.acmicpc.net/problem/10815)        | [cpp](acmicpc.net/10815.cpp) |
 |  5   |     [단어 정렬](https://www.acmicpc.net/problem/1181)     | [cpp](acmicpc.net/1181.cpp)  |  6   |  [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)  | [cpp](acmicpc.net/10988.cpp) |
 |  7   |     [K번째 수](https://www.acmicpc.net/problem/11004)     | [cpp](acmicpc.net/11004.cpp) |  8   |       [5의 6의 차이](https://www.acmicpc.net/problem/2864)       | [cpp](acmicpc.net/2864.cpp)  |
