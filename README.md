@@ -73,7 +73,7 @@
 | 번호 | 문제                                                         | 코드                         | 번호 | 문제                                                       | 코드                         |
 |:----:|:------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------:|:----------------------------:|
 |  1   |   [영식이와 친구들](https://www.acmicpc.net/problem/1592)    | [java](acmicpc.net/B1592.java)  |  2   |    [지능형 기차](https://www.acmicpc.net/problem/2455)     | [java](acmicpc.net/B2455.java)  |
-|  3   |        [막대기](https://www.acmicpc.net/problem/1094)        | [cpp](acmicpc.net/1094.cpp)  |  4   |      [토너먼트](https://www.acmicpc.net/problem/1057)      | [java](acmicpc.net/B1057.java)  |
+|  3   |        [막대기](https://www.acmicpc.net/problem/1094)        | [java](acmicpc.net/B1094.java)  |  4   |      [토너먼트](https://www.acmicpc.net/problem/1057)      | [java](acmicpc.net/B1057.java)  |
 |  5   |          [공](https://www.acmicpc.net/problem/1547)          | [cpp](acmicpc.net/1547.cpp)  |  6   | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [cpp](acmicpc.net/1018.cpp)  |
 |  7   |        [카드1](https://www.acmicpc.net/problem/2161)         | [cpp](acmicpc.net/2161.cpp)  |  8   |     [방학 숙제](https://www.acmicpc.net/problem/5532)      | [cpp](acmicpc.net/5532.cpp)  |
 |  9   |        [카드2](https://www.acmicpc.net/problem/2164)         | [cpp](acmicpc.net/2164.cpp)  |  10  |     [트럭 주차](https://www.acmicpc.net/problem/2979)      | [cpp](acmicpc.net/2979.cpp)  |
