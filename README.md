@@ -78,9 +78,9 @@
 |  7   |        [카드1](https://www.acmicpc.net/problem/2161)         | [java](acmicpc.net/B2161.java)  |  8  |     [나무 재테크](https://www.acmicpc.net/problem/16235)     | [cpp](acmicpc.net/16235.cpp) |
 |  9   |        [카드2](https://www.acmicpc.net/problem/2164)         | [java](acmicpc.net/B2164.java)  |  10  |     [트럭 주차](https://www.acmicpc.net/problem/2979)      | [java](acmicpc.net/B2979.java)  |
 |  11  |       [달팽이2](https://www.acmicpc.net/problem/1952)        | [java](acmicpc.net/B1952.java)  |  12  |        [경매](https://www.acmicpc.net/problem/2238)        | [java](acmicpc.net/B2238.java)  |
-|  13  |    [가장 큰 금민수](https://www.acmicpc.net/problem/1526)    | [java](acmicpc.net/B1526.java)  |  14  |        [운동](https://www.acmicpc.net/problem/1173)        | [cpp](acmicpc.net/1173.cpp)  |
-|  15  | [아이 러브 크로아티아](https://www.acmicpc.net/problem/9517) | [java](acmicpc.net/B9517.java)  |  16  |    [로봇 청소기](https://www.acmicpc.net/problem/14503)    | [cpp](acmicpc.net/14503.cpp) |
-|  17  |     [수열의 변화](https://www.acmicpc.net/problem/1551)      | [cpp](acmicpc.net/1551.cpp)  |  18  |     [그림 비교](https://www.acmicpc.net/problem/2160)      | [cpp](acmicpc.net/2160.cpp)  |
+|  13  |    [가장 큰 금민수](https://www.acmicpc.net/problem/1526)    | [java](acmicpc.net/B1526.java)  |  14  |        [운동](https://www.acmicpc.net/problem/1173)        | [java](acmicpc.net/B1173.java)  |
+|  15  | [아이 러브 크로아티아](https://www.acmicpc.net/problem/9517) | [java](acmicpc.net/B9517.java)  |  16  |    [로봇 청소기](https://www.acmicpc.net/problem/14503)    | [java](acmicpc.net/B14503.java) |
+|  17  |     [수열의 변화](https://www.acmicpc.net/problem/1551)      | [java](acmicpc.net/B1551.java)  |  18  |     [그림 비교](https://www.acmicpc.net/problem/2160)      | [java](acmicpc.net/B2160.java)  |
 
 
 출력
