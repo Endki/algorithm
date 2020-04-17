@@ -75,7 +75,7 @@
 |  1   |   [영식이와 친구들](https://www.acmicpc.net/problem/1592)    | [java](acmicpc.net/B1592.java)  |  2   |    [지능형 기차](https://www.acmicpc.net/problem/2455)     | [java](acmicpc.net/B2455.java)  |
 |  3   |        [막대기](https://www.acmicpc.net/problem/1094)        | [java](acmicpc.net/B1094.java)  |  4   |      [토너먼트](https://www.acmicpc.net/problem/1057)      | [java](acmicpc.net/B1057.java)  |
 |  5   |          [공](https://www.acmicpc.net/problem/1547)          | [java](acmicpc.net/B1547.java)  |  6   | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [java](acmicpc.net/B1018.java)  |
-|  7   |        [카드1](https://www.acmicpc.net/problem/2161)         | [java](acmicpc.net/B2161.java)  |  8  |     [나무 재테크](https://www.acmicpc.net/problem/16235)     | [cpp](acmicpc.net/16235.cpp) |
+|  7   |        [카드1](https://www.acmicpc.net/problem/2161)         | [java](acmicpc.net/B2161.java)  |  8  |     [★나무 재테크★](https://www.acmicpc.net/problem/16235)     | [java](acmicpc.net/B16235.java) |
 |  9   |        [카드2](https://www.acmicpc.net/problem/2164)         | [java](acmicpc.net/B2164.java)  |  10  |     [트럭 주차](https://www.acmicpc.net/problem/2979)      | [java](acmicpc.net/B2979.java)  |
 |  11  |       [달팽이2](https://www.acmicpc.net/problem/1952)        | [java](acmicpc.net/B1952.java)  |  12  |        [경매](https://www.acmicpc.net/problem/2238)        | [java](acmicpc.net/B2238.java)  |
 |  13  |    [가장 큰 금민수](https://www.acmicpc.net/problem/1526)    | [java](acmicpc.net/B1526.java)  |  14  |        [운동](https://www.acmicpc.net/problem/1173)        | [java](acmicpc.net/B1173.java)  |
@@ -103,8 +103,8 @@
 | 번호 | 문제                                                  | 코드                         | 번호 | 문제                                                     | 코드                         |
 |:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
 |  1   |  [N과 M (1)](https://www.acmicpc.net/problem/15649)   | [java](acmicpc.net/B15649.java) |  2   |    [N과 M (2)](https://www.acmicpc.net/problem/15650)    | [java](acmicpc.net/B15650.java) |
-|  3   |     [덩치](https://www.acmicpc.net/problem/7568)      | [cpp](acmicpc.net/7568.cpp)  |  4   |  [부분집합의 합](https://www.acmicpc.net/problem/1182)   | [cpp](acmicpc.net/1182.cpp)  |
-|  5   | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | [cpp](acmicpc.net/1051.cpp)  |  6   |  [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)   | [cpp](acmicpc.net/1748.cpp)  |
+|  3   |     [덩치](https://www.acmicpc.net/problem/7568)      | [java](acmicpc.net/B7568.java)  |  4   |  [부분집합의 합](https://www.acmicpc.net/problem/1182)   | [java](acmicpc.net/B1182.java)  |
+|  5   | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | [cpp](acmicpc.net/1051.cpp)  |  6   |  [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)   | [java](acmicpc.net/B1748.java)  |
 |  7   |    [분해합](https://www.acmicpc.net/problem/2231)     | [cpp](acmicpc.net/2231.cpp)  |  8   |  [스타트와 링크](https://www.acmicpc.net/problem/14889)  | [cpp](acmicpc.net/14889.cpp) |
 |  9   | [유레카 이론](https://www.acmicpc.net/problem/10448)  | [cpp](acmicpc.net/10448.cpp) |  10  |     [N-Queen](https://www.acmicpc.net/problem/9663)      | [cpp](acmicpc.net/9663.cpp)  |
 |  11  |  [N과 M (5)](https://www.acmicpc.net/problem/15654)   | [cpp](acmicpc.net/15654.cpp) |  12  |    [N과 M (6)](https://www.acmicpc.net/problem/15655)    | [cpp](acmicpc.net/15655.cpp) |
