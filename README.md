@@ -124,9 +124,9 @@
 |  11  |     [남욱이의 닭장](https://www.acmicpc.net/problem/11006)     | [java](acmicpc.net/B11006.java) |  12  |         [다면체](https://www.acmicpc.net/problem/10569)         | [java](acmicpc.net/B10569.java) |
 |  13  |     [캥거루 세마리](https://www.acmicpc.net/problem/2965)      | [java](acmicpc.net/B2965.java)  |  14  |         [저작권](https://www.acmicpc.net/problem/2914)          | [java](acmicpc.net/B2914.java)  |
 |  15  |    [다각형의 대각선](https://www.acmicpc.net/problem/3049)     | [java](acmicpc.net/B3049.java)  |  16  |        [설탕 배달](https://www.acmicpc.net/problem/2839)        | [java](acmicpc.net/B2839.java)  |
-|  17  |         [도미노](https://www.acmicpc.net/problem/2921)         | [cpp](acmicpc.net/2912.cpp)  |  18  |        [수들의 합](https://www.acmicpc.net/problem/1789)        | [cpp](acmicpc.net/1789.cpp)  |
-|  19  |         [시그마](https://www.acmicpc.net/problem/2355)         | [cpp](acmicpc.net/2355.cpp)  |  20  |      [더하기 사이클](https://www.acmicpc.net/problem/1110)      | [cpp](acmicpc.net/1110.cpp)  |
-|  21  |       [소수 찾기](https://www.acmicpc.net/problem/1978)        | [cpp](acmicpc.net/1978.cpp)  |  22  |         [플러그](https://www.acmicpc.net/problem/2010)          | [cpp](acmicpc.net/2010.cpp)  |
+|  17  |         [도미노](https://www.acmicpc.net/problem/2921)         | [java](acmicpc.net/B2912.java)  |  18  |        [수들의 합](https://www.acmicpc.net/problem/1789)        | [java](acmicpc.net/B1789.java)  |
+|  19  |         [시그마](https://www.acmicpc.net/problem/2355)         | [java](acmicpc.net/B2355.java)  |  20  |      [더하기 사이클](https://www.acmicpc.net/problem/1110)      | [java](acmicpc.net/B1110.java)  |
+|  21  |       [소수 찾기](https://www.acmicpc.net/problem/1978)        | [java](acmicpc.net/B1978.java)  |  22  |         [플러그](https://www.acmicpc.net/problem/2010)          | [cpp](acmicpc.net/2010.cpp)  |
 |  23  |       [완전제곱수](https://www.acmicpc.net/problem/1977)       | [cpp](acmicpc.net/1977.cpp)  |  24  |       [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)       | [cpp](acmicpc.net/1357.cpp)  |
 |  25  |        [방 번호](https://www.acmicpc.net/problem/1475)         | [cpp](acmicpc.net/1475.cpp)  |  26  |   [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)    | [cpp](acmicpc.net/1652.cpp)  |
 |  27  |   [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [cpp](acmicpc.net/1085.cpp)  |  28  |         [TV 크기](https://www.acmicpc.net/problem/1297)         | [cpp](acmicpc.net/1297.cpp)  |
