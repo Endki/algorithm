@@ -132,9 +132,9 @@
 |  17  |         [도미노](https://www.acmicpc.net/problem/2921)         | [java](acmicpc.net/B2912.java)  |  18  |        [수들의 합](https://www.acmicpc.net/problem/1789)        | [java](acmicpc.net/B1789.java)  |
 |  19  |         [시그마](https://www.acmicpc.net/problem/2355)         | [java](acmicpc.net/B2355.java)  |  20  |      [더하기 사이클](https://www.acmicpc.net/problem/1110)      | [java](acmicpc.net/B1110.java)  |
 |  21  |       [소수 찾기](https://www.acmicpc.net/problem/1978)        | [java](acmicpc.net/B1978.java)  |  22  |         [플러그](https://www.acmicpc.net/problem/2010)          | [java](acmicpc.net/B2010.java)  |
-|  23  |       [완전제곱수](https://www.acmicpc.net/problem/1977)       | [java](acmicpc.net/B1977.java)  |  24  |       [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)       | [cpp](acmicpc.net/1357.cpp)  |
-|  25  |        [방 번호](https://www.acmicpc.net/problem/1475)         | [java](acmicpc.net/B1475.java)  |  26  |   [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)    | [cpp](acmicpc.net/1652.cpp)  |
-|  27  |   [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [cpp](acmicpc.net/1085.cpp)  |  28  |         [TV 크기](https://www.acmicpc.net/problem/1297)         | [cpp](acmicpc.net/1297.cpp)  |
+|  23  |       [완전제곱수](https://www.acmicpc.net/problem/1977)       | [java](acmicpc.net/B1977.java)  |  24  |       [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)       | [java](acmicpc.net/B1357.java)  |
+|  25  |        [방 번호](https://www.acmicpc.net/problem/1475)         | [java](acmicpc.net/B1475.java)  |  26  |   [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)    | [java](acmicpc.net/B1652.java)  |
+|  27  |   [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [java](acmicpc.net/B1085.java)  |  28  |         [TV 크기](https://www.acmicpc.net/problem/1297)         | [cpp](acmicpc.net/1297.cpp)  |
 |  29  |      [약수들의 합](https://www.acmicpc.net/problem/9506)       | [cpp](acmicpc.net/9506.cpp)  |  30  |          [약수](https://www.acmicpc.net/problem/1037)           | [cpp](acmicpc.net/1037.cpp)  |
 |  31  |          [저항](https://www.acmicpc.net/problem/1076)          | [cpp](acmicpc.net/1076.cpp)  |  32  |    [피보나치수의 확장](https://www.acmicpc.net/problem/1788)    | [cpp](acmicpc.net/1788.cpp)  |
 |  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [cpp](acmicpc.net/1834.cpp)  |  34  |         [최대 곱](https://www.acmicpc.net/problem/1500)         | [cpp](acmicpc.net/1500.cpp)  |
