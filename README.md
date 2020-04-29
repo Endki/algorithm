@@ -134,9 +134,9 @@
 |  21  |       [소수 찾기](https://www.acmicpc.net/problem/1978)        | [java](acmicpc.net/B1978.java)  |  22  |         [플러그](https://www.acmicpc.net/problem/2010)          | [java](acmicpc.net/B2010.java)  |
 |  23  |       [완전제곱수](https://www.acmicpc.net/problem/1977)       | [java](acmicpc.net/B1977.java)  |  24  |       [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)       | [java](acmicpc.net/B1357.java)  |
 |  25  |        [방 번호](https://www.acmicpc.net/problem/1475)         | [java](acmicpc.net/B1475.java)  |  26  |   [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)    | [java](acmicpc.net/B1652.java)  |
-|  27  |   [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [java](acmicpc.net/B1085.java)  |  28  |         [TV 크기](https://www.acmicpc.net/problem/1297)         | [cpp](acmicpc.net/1297.cpp)  |
-|  29  |      [약수들의 합](https://www.acmicpc.net/problem/9506)       | [cpp](acmicpc.net/9506.cpp)  |  30  |          [약수](https://www.acmicpc.net/problem/1037)           | [cpp](acmicpc.net/1037.cpp)  |
-|  31  |          [저항](https://www.acmicpc.net/problem/1076)          | [cpp](acmicpc.net/1076.cpp)  |  32  |    [피보나치수의 확장](https://www.acmicpc.net/problem/1788)    | [cpp](acmicpc.net/1788.cpp)  |
+|  27  |   [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [java](acmicpc.net/B1085.java)  |  28  |         [TV 크기](https://www.acmicpc.net/problem/1297)         | [java](acmicpc.net/B1297.java)  |
+|  29  |      [약수들의 합](https://www.acmicpc.net/problem/9506)       | [java](acmicpc.net/B9506.java)  |  30  |          [약수](https://www.acmicpc.net/problem/1037)           | [java](acmicpc.net/B1037.java)  |
+|  31  |          [저항](https://www.acmicpc.net/problem/1076)          | [java](acmicpc.net/B1076.java)  |  32  |    [피보나치수의 확장](https://www.acmicpc.net/problem/1788)    | [java](acmicpc.net/B1788.java)  |
 |  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [cpp](acmicpc.net/1834.cpp)  |  34  |         [최대 곱](https://www.acmicpc.net/problem/1500)         | [cpp](acmicpc.net/1500.cpp)  |
 |  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [cpp](acmicpc.net/11050.cpp) |  36  | [오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [cpp](acmicpc.net/1964.cpp)  |
 |  37  |      [핸드폰 요금](https://www.acmicpc.net/problem/1267)       | [cpp](acmicpc.net/1267.cpp)  |  38  |         [백대열](https://www.acmicpc.net/problem/14490)         | [cpp](acmicpc.net/14490.cpp) |
