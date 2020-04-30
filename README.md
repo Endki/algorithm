@@ -137,7 +137,7 @@
 |  27  |   [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [java](acmicpc.net/B1085.java)  |  28  |         [TV 크기](https://www.acmicpc.net/problem/1297)         | [java](acmicpc.net/B1297.java)  |
 |  29  |      [약수들의 합](https://www.acmicpc.net/problem/9506)       | [java](acmicpc.net/B9506.java)  |  30  |          [약수](https://www.acmicpc.net/problem/1037)           | [java](acmicpc.net/B1037.java)  |
 |  31  |          [저항](https://www.acmicpc.net/problem/1076)          | [java](acmicpc.net/B1076.java)  |  32  |    [피보나치수의 확장](https://www.acmicpc.net/problem/1788)    | [java](acmicpc.net/B1788.java)  |
-|  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [cpp](acmicpc.net/1834.cpp)  |  34  |         [최대 곱](https://www.acmicpc.net/problem/1500)         | [cpp](acmicpc.net/1500.cpp)  |
+|  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [java](acmicpc.net/B1834.java)  |  34  |         [최대 곱](https://www.acmicpc.net/problem/1500)         | [java](acmicpc.net/B1500.java)  |
 |  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [cpp](acmicpc.net/11050.cpp) |  36  | [오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [cpp](acmicpc.net/1964.cpp)  |
 |  37  |      [핸드폰 요금](https://www.acmicpc.net/problem/1267)       | [cpp](acmicpc.net/1267.cpp)  |  38  |         [백대열](https://www.acmicpc.net/problem/14490)         | [cpp](acmicpc.net/14490.cpp) |
 |  39  |          [곱셈](https://www.acmicpc.net/problem/1629)          | [cpp](acmicpc.net/1629.cpp)  |  40  |       [손익분기점](https://www.acmicpc.net/problem/1712)        | [cpp](acmicpc.net/1712.cpp)  |
