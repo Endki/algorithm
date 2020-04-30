@@ -13,7 +13,8 @@
 |:----:|:-----------------------------------------------------------:|:------------------------------:|:----:|:---------------------------------------------------:|:------------------------------:|
 |  1   | [파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845) | [java](acmicpc.net/B2845.java) |  2   |   [이진수](https://www.acmicpc.net/problem/3460)    | [java](acmicpc.net/B3460.java) |
 |  3   | [싱기한 네자리 숫자](https://www.acmicpc.net/problem/6679)  | [java](acmicpc.net/B6679.java) |  4   | [디지털 루트](https://www.acmicpc.net/problem/6378) | [java](acmicpc.net/B6378.java) |
-|  5   |     [IBM 빼기 1](https://www.acmicpc.net/problem/6321)      | [java](acmicpc.net/B6321.java) |      |                                                     |                                |
+|  5   |     [IBM 빼기 1](https://www.acmicpc.net/problem/6321)      | [java](acmicpc.net/B6321.java) |  6  | [두 수 비교하기](https://www.acmicpc.net/problem/1330)| [java](acmicpc.net/B1330.java)
+|  7  | [윤년](https://www.acmicpc.net/problem/2753)         |        [java](acmicpc.net/B2753.java)   | 8 | [사분면 고르기](https://www.acmicpc.net/problem/14681)|[java](acmicpc.net/B14681.java)||
 
 구현
 ----
@@ -61,7 +62,7 @@
 |  77  |        [지뢰찾기](https://www.acmicpc.net/problem/4108)         |   [java](acmicpc.net/B4108.java)   |  78  |   [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)   |  [java](acmicpc.net/B11729.java)   |
 |  79  |       [검증수](https://www.acmicpc.net/problem/2475)        |   [java](acmicpc.net/B2475.java)   |  80  |        [종이의 개수](https://www.acmicpc.net/problem/1780)         |   [java](acmicpc.net/B1780.java)   |
 |  81  |         [쿼드트리](https://www.acmicpc.net/problem/1992)         |   [java](acmicpc.net/B1992.java)   |  82  |    [터널의 입구와 출구](https://www.acmicpc.net/problem/5612)    |   [java](acmicpc.net/B5612.java)   |
-|  83  |       [지구 온난화](https://www.acmicpc.net/problem/5212)       |   [java](acmicpc.net/5212.java)   |  84  |          [서버](https://www.acmicpc.net/problem/10409)           |  [java](acmicpc.net/B10409.java)   |
+|  83  |       [지구 온난화](https://www.acmicpc.net/problem/5212)       |   [java](acmicpc.net/B5212.java)   |  84  |          [서버](https://www.acmicpc.net/problem/10409)           |  [java](acmicpc.net/B10409.java)   |
 |  85  |      [마술사 이민혁](https://www.acmicpc.net/problem/3023)      |   [java](acmicpc.net/B3023.java)   |  86  |      [수빈이와 수열](https://www.acmicpc.net/problem/10539)      |  [java](acmicpc.net/B10539.java)   |
 |  87  |      [피터팬 프레임](https://www.acmicpc.net/problem/3054)      |   [java](acmicpc.net/B3054.java)   |  88  |        [타임 카드](https://www.acmicpc.net/problem/5575)         |   [java](acmicpc.net/B5575.java)   |
 |  89  |      [카드 문자열](https://www.acmicpc.net/problem/13417)       |  [java](acmicpc.net/B13417.java)   |  90  |        [상금 헌터](https://www.acmicpc.net/problem/15953)        |  [java](acmicpc.net/B15953.java)   |
@@ -129,7 +130,7 @@
 |  11  |     [남욱이의 닭장](https://www.acmicpc.net/problem/11006)     | [java](acmicpc.net/B11006.java) |  12  |         [다면체](https://www.acmicpc.net/problem/10569)         | [java](acmicpc.net/B10569.java) |
 |  13  |     [캥거루 세마리](https://www.acmicpc.net/problem/2965)      | [java](acmicpc.net/B2965.java)  |  14  |         [저작권](https://www.acmicpc.net/problem/2914)          | [java](acmicpc.net/B2914.java)  |
 |  15  |    [다각형의 대각선](https://www.acmicpc.net/problem/3049)     | [java](acmicpc.net/B3049.java)  |  16  |        [설탕 배달](https://www.acmicpc.net/problem/2839)        | [java](acmicpc.net/B2839.java)  |
-|  17  |         [도미노](https://www.acmicpc.net/problem/2921)         | [java](acmicpc.net/B2912.java)  |  18  |        [수들의 합](https://www.acmicpc.net/problem/1789)        | [java](acmicpc.net/B1789.java)  |
+|  17  |         [도미노](https://www.acmicpc.net/problem/2921)         | [java](acmicpc.net/B2921.java)  |  18  |        [수들의 합](https://www.acmicpc.net/problem/1789)        | [java](acmicpc.net/B1789.java)  |
 |  19  |         [시그마](https://www.acmicpc.net/problem/2355)         | [java](acmicpc.net/B2355.java)  |  20  |      [더하기 사이클](https://www.acmicpc.net/problem/1110)      | [java](acmicpc.net/B1110.java)  |
 |  21  |       [소수 찾기](https://www.acmicpc.net/problem/1978)        | [java](acmicpc.net/B1978.java)  |  22  |         [플러그](https://www.acmicpc.net/problem/2010)          | [java](acmicpc.net/B2010.java)  |
 |  23  |       [완전제곱수](https://www.acmicpc.net/problem/1977)       | [java](acmicpc.net/B1977.java)  |  24  |       [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)       | [java](acmicpc.net/B1357.java)  |
@@ -169,14 +170,15 @@
 |  33  |     [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |  34  |        [배수 찾기](https://www.acmicpc.net/problem/4504)         | [cpp](acmicpc.net/4504.cpp)  |
 |  35  |    [!밀비 급일](https://www.acmicpc.net/problem/11365)    | [cpp](acmicpc.net/11365.cpp) |  36  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [cpp](acmicpc.net/1919.cpp)  |
 |  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [cpp](acmicpc.net/10989.cpp) |  38  |        [JOI와 IOI](https://www.acmicpc.net/problem/5586)         | [cpp](acmicpc.net/5586.cpp)  |
-|  39  |      [더하기](https://www.acmicpc.net/problem/10822)      | [cpp](acmicpc.net/10822.cpp) |      |                                                                  |                              |
+|  39  |      [더하기](https://www.acmicpc.net/problem/10822)      | [cpp](acmicpc.net/10822.cpp) |  39  |      [잠수함 식별](https://www.acmicpc.net/problem/2671)      | [java](acmicpc.net/B2671.java) |
+|  39  |      [](https://www.acmicpc.net/problem/10822)      | [cpp](acmicpc.net/10822.cpp) |      |                                                                  |                              |
 
 Dynamic Programming
 -------------------
 
 | 번호 | 문제                                                                 | 코드                         | 번호 | 문제                                                                | 코드                         |
 |:----:|:--------------------------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------------------------:|:----------------------------:|
-|  1   |          [1로 만들기](https://www.acmicpc.net/problem/1463)          | [cpp](acmicpc.net/1463.cpp)  |  2   |        [1, 2, 3더하기](https://www.acmicpc.net/problem/9095)        | [cpp](acmicpc.net/9095.cpp)  |
+|  1   |          [1로 만들기](https://www.acmicpc.net/problem/1463)          | [java](acmicpc.net/B1463.java)  |  2   |        [1, 2, 3더하기](https://www.acmicpc.net/problem/9095)        | [cpp](acmicpc.net/9095.cpp)  |
 |  3   |         [계단 오르기](https://www.acmicpc.net/problem/2579)          | [cpp](acmicpc.net/2579.cpp)  |  4   |           [RGB거리](https://www.acmicpc.net/problem/1149)           | [cpp](acmicpc.net/1149.cpp)  |
 |  5   |        [피보나치 함수](https://www.acmicpc.net/problem/1003)         | [cpp](acmicpc.net/1003.cpp)  |  6   |           [이친수](https://www.acmicpc.net/problem/2193)            | [cpp](acmicpc.net/2193.cpp)  |
 |  7   |         [2xn 타일링](https://www.acmicpc.net/problem/11726)          | [cpp](acmicpc.net/11726.cpp) |  8   |         [정수 삼각형](https://www.acmicpc.net/problem/1932)         | [cpp](acmicpc.net/1932.cpp)  |
@@ -210,7 +212,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 
 | 번호 | 문제                                                             | 코드                         | 번호 | 문제                                                      | 코드                         |
 |:----:|:----------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------:|:----------------------------:|
-|  1   |        [DFS와 BFS](https://www.acmicpc.net/problem/1260)         | [java](acmicpc.net/B1260.java)  |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)  | [cpp](acmicpc.net/2667.cpp)  |
+|  1   |        [DFS와 BFS](https://www.acmicpc.net/problem/1260)         | [java](acmicpc.net/B1260.java)  |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)  | [java](acmicpc.net/B2667.java)  |
 |  3   |         [바이러스](https://www.acmicpc.net/problem/2606)         | [cpp](acmicpc.net/2606.cpp)  |  4   |    [경로 찾기](https://www.acmicpc.net/problem/11403)     | [cpp](acmicpc.net/11403.cpp) |
 |  5   |        [스타트링크](https://www.acmicpc.net/problem/5014)        | [cpp](acmicpc.net/5014.cpp)  |  6   |    [유기농 배추](https://www.acmicpc.net/problem/1012)    | [cpp](acmicpc.net/1012.cpp)  |
 |  7   |       [영역 구하기](https://www.acmicpc.net/problem/2583)        | [cpp](acmicpc.net/2583.cpp)  |  8   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [cpp](acmicpc.net/11724.cpp) |
@@ -275,6 +277,6 @@ Coder's High 2014 예비소집
 
 | 번호 | 문제                                                     | 코드                         |
 |:----:|:--------------------------------------------------------:|:----------------------------:|
-|  1   |            [Maximum Subarray](https://www.acmicpc.net/problem/10211)            | [java](acmicpc.net/B10212.java)  
+|  1   |            [Maximum Subarray](https://www.acmicpc.net/problem/10211)            | [java](acmicpc.net/B10211.java)  
 |  2   |            [Mystery](https://www.acmicpc.net/problem/10212)            | [java](acmicpc.net/B10212.java)  
 |  3   |            [XH Company](https://www.acmicpc.net/problem/10213)            | [cpp](programmers/1-1.cpp)  
