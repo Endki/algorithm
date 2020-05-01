@@ -139,11 +139,11 @@
 |  29  |      [약수들의 합](https://www.acmicpc.net/problem/9506)       | [java](acmicpc.net/math/B9506.java)  |  30  |          [약수](https://www.acmicpc.net/problem/1037)           | [java](acmicpc.net/math/B1037.java)  |
 |  31  |          [저항](https://www.acmicpc.net/problem/1076)          | [java](acmicpc.net/math/B1076.java)  |  32  |    [피보나치수의 확장](https://www.acmicpc.net/problem/1788)    | [java](acmicpc.net/math/B1788.java)  |
 |  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [java](acmicpc.net/math/B1834.java)  |  34  |         [최대 곱](https://www.acmicpc.net/problem/1500)         | [java](acmicpc.net/math/B1500.java)  |
-|  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [cpp](acmicpc.net/11050.cpp) |  36  | [오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [cpp](acmicpc.net/1964.cpp)  |
-|  37  |      [핸드폰 요금](https://www.acmicpc.net/problem/1267)       | [cpp](acmicpc.net/1267.cpp)  |  38  |         [백대열](https://www.acmicpc.net/problem/14490)         | [cpp](acmicpc.net/14490.cpp) |
-|  39  |          [곱셈](https://www.acmicpc.net/problem/1629)          | [cpp](acmicpc.net/1629.cpp)  |  40  |       [손익분기점](https://www.acmicpc.net/problem/1712)        | [cpp](acmicpc.net/1712.cpp)  |
-|  41  |      [3000번 버스](https://www.acmicpc.net/problem/9546)       | [cpp](acmicpc.net/9546.cpp)  |  42  |   [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)    | [cpp](acmicpc.net/2903.cpp)  |
-|  43  |       [다음 순열](https://www.acmicpc.net/problem/10972)       | [cpp](acmicpc.net/10972.cpp) |  44  |       [이전 순열](https://www.acmicpc.net/problem/10973)        | [cpp](acmicpc.net/10973.cpp) |
+|  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [java](acmicpc.net/math/B11050.java) |  36  | [오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [java](acmicpc.net/math/B1964.java)  |
+|  37  |      [핸드폰 요금](https://www.acmicpc.net/problem/1267)       | [java](acmicpc.net/math/B1267.java)  |  38  |         [백대열](https://www.acmicpc.net/problem/14490)         | [java](acmicpc.net/math/B14490.java) |
+|  39  |          [곱셈](https://www.acmicpc.net/problem/1629)          | [java](acmicpc.net/math/B1629.java)  |  40  |       [손익분기점](https://www.acmicpc.net/problem/1712)        | [cpp](acmicpc.net/math/B1712.java)  |
+|  41  |      [3000번 버스](https://www.acmicpc.net/problem/9546)       | [java](acmicpc.net/math/B9546.java)  |  42  |   [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)    | [java](acmicpc.net/math/B2903.java)  |
+|  43  |       [다음 순열](https://www.acmicpc.net/problem/10972)       | [java](acmicpc.net/math/B10972.java) |  44  |       [이전 순열](https://www.acmicpc.net/problem/10973)        | [cpp](acmicpc.net/10973.cpp) |
 |  45  |       [모든 순열](https://www.acmicpc.net/problem/10974)       | [cpp](acmicpc.net/10974.cpp) |  46  |     [2의 제곱인가?](https://www.acmicpc.net/problem/11966)      | [cpp](acmicpc.net/11966.cpp) |
 
 문자열 처리, 정렬, 탐색, 해싱
