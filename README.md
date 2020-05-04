@@ -141,10 +141,10 @@
 |  33  | [나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)  | [java](acmicpc.net/math/B1834.java)  |  34  |         [최대 곱](https://www.acmicpc.net/problem/1500)         | [java](acmicpc.net/math/B1500.java)  |
 |  35  |       [이항 계수](https://www.acmicpc.net/problem/11050)       | [java](acmicpc.net/math/B11050.java) |  36  | [오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [java](acmicpc.net/math/B1964.java)  |
 |  37  |      [핸드폰 요금](https://www.acmicpc.net/problem/1267)       | [java](acmicpc.net/math/B1267.java)  |  38  |         [백대열](https://www.acmicpc.net/problem/14490)         | [java](acmicpc.net/math/B14490.java) |
-|  39  |          [곱셈](https://www.acmicpc.net/problem/1629)          | [java](acmicpc.net/math/B1629.java)  |  40  |       [손익분기점](https://www.acmicpc.net/problem/1712)        | [cpp](acmicpc.net/math/B1712.java)  |
+|  39  |          [곱셈](https://www.acmicpc.net/problem/1629)          | [java](acmicpc.net/math/B1629.java)  |  40  |       [손익분기점](https://www.acmicpc.net/problem/1712)        | [java](acmicpc.net/math/B1712.java)  |
 |  41  |      [3000번 버스](https://www.acmicpc.net/problem/9546)       | [java](acmicpc.net/math/B9546.java)  |  42  |   [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)    | [java](acmicpc.net/math/B2903.java)  |
-|  43  |       [다음 순열](https://www.acmicpc.net/problem/10972)       | [java](acmicpc.net/math/B10972.java) |  44  |       [이전 순열](https://www.acmicpc.net/problem/10973)        | [cpp](acmicpc.net/10973.cpp) |
-|  45  |       [모든 순열](https://www.acmicpc.net/problem/10974)       | [cpp](acmicpc.net/10974.cpp) |  46  |     [2의 제곱인가?](https://www.acmicpc.net/problem/11966)      | [cpp](acmicpc.net/11966.cpp) |
+|  43  |       [다음 순열](https://www.acmicpc.net/problem/10972)       | [java](acmicpc.net/math/B10972.java) |  44  |       [이전 순열](https://www.acmicpc.net/problem/10973)        | [java](acmicpc.net/math/B10973.java) |
+|  45  |       [모든 순열](https://www.acmicpc.net/problem/10974)       | [java](acmicpc.net/math/B10974.java) |  46  |     [2의 제곱인가?](https://www.acmicpc.net/problem/11966)      | [java](acmicpc.net/math/B11966.java) |
 
 문자열 처리, 정렬, 탐색, 해싱
 -----------------------------
