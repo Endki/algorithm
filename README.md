@@ -101,7 +101,7 @@
 |  9   |    [그대로 출력하기](https://www.acmicpc.net/problem/11718)    | [java](acmicpc.net/print/B11718.java) |  10  | [숫자의 합](https://www.acmicpc.net/problem/11720)  | [java](acmicpc.net/print/B11720.java) |
 |  11  | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721) | [java](acmicpc.net/print/B11721.java) |  12  |    [??!](https://www.acmicpc.net/problem/10926)     | [java](acmicpc.net/print/B10926.java) |
 |  13  |   [그대로 출력하기2](https://www.acmicpc.net/problem/11719)    | [java](acmicpc.net/print/B11719.java) |  14  | [별찍기 - 11](https://www.acmicpc.net/problem/2448) | [java](acmicpc.net/print/B2448.java)  |
-|  15  |        [고양이](https://www.acmicpc.net/problem/10171)         | [java](acmicpc.net/print/B10171.java) |      |                                                     |                              |
+|  15  |        [고양이](https://www.acmicpc.net/problem/10171)         | [java](acmicpc.net/print/B10171.java) |16| [빠른 A+B](https://www.acmicpc.net/problem/15552) | [java](acmicpc.net/print/B15552.java) |
 
 브루트포스, 백트래킹
 --------------------
