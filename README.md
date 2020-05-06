@@ -178,7 +178,7 @@ Dynamic Programming
 
 | 번호 | 문제                                                                 | 코드                         | 번호 | 문제                                                                | 코드                         |
 |:----:|:--------------------------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------------------------:|:----------------------------:|
-|  1   |          [1로 만들기](https://www.acmicpc.net/problem/1463)          | [java](acmicpc.net/dp/B1463.java)  |  2   |        [1, 2, 3더하기](https://www.acmicpc.net/problem/9095)        | [cpp](acmicpc.net/9095.cpp)  |
+|  1   |          [1로 만들기](https://www.acmicpc.net/problem/1463)          | [java](acmicpc.net/dp/B1463.java)  |  2   |        [1, 2, 3더하기](https://www.acmicpc.net/problem/9095)        | [java](acmicpc.net/dp/B9095.java)  |
 |  3   |         [계단 오르기](https://www.acmicpc.net/problem/2579)          | [cpp](acmicpc.net/2579.cpp)  |  4   |           [RGB거리](https://www.acmicpc.net/problem/1149)           | [cpp](acmicpc.net/1149.cpp)  |
 |  5   |        [피보나치 함수](https://www.acmicpc.net/problem/1003)         | [cpp](acmicpc.net/1003.cpp)  |  6   |           [이친수](https://www.acmicpc.net/problem/2193)            | [cpp](acmicpc.net/2193.cpp)  |
 |  7   |         [2xn 타일링](https://www.acmicpc.net/problem/11726)          | [cpp](acmicpc.net/11726.cpp) |  8   |         [정수 삼각형](https://www.acmicpc.net/problem/1932)         | [cpp](acmicpc.net/1932.cpp)  |
@@ -241,7 +241,7 @@ Greedy Algorithm
 
 | 번호 | 문제                                                 | 코드                         | 번호 | 문제                                                  | 코드                         |
 |:----:|:----------------------------------------------------:|:----------------------------:|:----:|:-----------------------------------------------------:|:----------------------------:|
-|  1   |  [신입 사원](https://www.acmicpc.net/problem/1946)   | [cpp](acmicpc.net/1946.cpp)  |  2   |   [거스름돈](https://www.acmicpc.net/problem/5585)    | [cpp](acmicpc.net/5585.cpp)  |
+|  1   |  [신입 사원](https://www.acmicpc.net/problem/1946)   | [java](acmicpc.net/greedy/B1946.java)  |  2   |   [거스름돈](https://www.acmicpc.net/problem/5585)    | [cpp](acmicpc.net/5585.cpp)  |
 |  3   |     [ATM](https://www.acmicpc.net/problem/11399)     | [cpp](acmicpc.net/11399.cpp) |  4   |  [회의실배정](https://www.acmicpc.net/problem/1931)   | [cpp](acmicpc.net/1931.cpp)  |
 |  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [cpp](acmicpc.net/2875.cpp)  |  6   |     [로프](https://www.acmicpc.net/problem/2217)      | [cpp](acmicpc.net/2217.cpp)  |
 |  7   |     [30](https://www.acmicpc.net/problem/10610)      | [cpp](acmicpc.net/10610.cpp) |  8   |    [동전 0](https://www.acmicpc.net/problem/11047)    | [cpp](acmicpc.net/11047.cpp) |
@@ -260,7 +260,7 @@ Greedy Algorithm
 |  1   |      [스택](https://www.acmicpc.net/problem/10828)       | [java](acmicpc.net/data/structure/B10828.java) |  2   |             [큐](https://www.acmicpc.net/problem/10845)              | [java](acmicpc.net/data/structure/B10845.java) |
 |  3   |    [쇠막대기](https://www.acmicpc.net/problem/10799)     | [java](acmicpc.net/data/structure/B10799.java) |  4   |            [괄호](https://www.acmicpc.net/problem/9012)             | [java](acmicpc.net/data/structure/B9012.java)  |
 |  5   |  [조세퍼스 문제](https://www.acmicpc.net/problem/1158)   | [java](acmicpc.net/data/structure/B1158.java)  |  6   |          [좋은 단어](https://www.acmicpc.net/problem/3986)          | [java](acmicpc.net/data/structure/B3986.java)  |
-|  7   |    [스택 수열](https://www.acmicpc.net/problem/1874)     | [java](acmicpc.net/data/structure/B1874.java)  |  8   |         [후위 표기식](https://www.acmicpc.net/problem/1918)         | [cpp](acmicpc.net/1918.cpp)  |
+|  7   |    [스택 수열](https://www.acmicpc.net/problem/1874)     | [java](acmicpc.net/data/structure/B1874.java)  |  8   |         [후위 표기식](https://www.acmicpc.net/problem/1918)         | [java](acmicpc.net/data/structure/B1918.java)  |
 |  9   |        [탑](https://www.acmicpc.net/problem/2493)        | [cpp](acmicpc.net/2493.cpp)  |  10  |      [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)       | [cpp](acmicpc.net/7662.cpp)  |
 |  11  |    [프린터 큐](https://www.acmicpc.net/problem/1966)     | [cpp](acmicpc.net/1966.cpp)  |  12  |          [최대 힙](https://www.acmicpc.net/problem/11279)           | [cpp](acmicpc.net/11279.cpp) |
 |  13  |    [괄호의 값](https://www.acmicpc.net/problem/2504)     | [cpp](acmicpc.net/2504.cpp)  |  14  |          [오르막 길](https://www.acmicpc.net/problem/2846)          | [cpp](acmicpc.net/2846.cpp)  |
