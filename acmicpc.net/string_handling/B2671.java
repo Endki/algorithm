@@ -1,4 +1,4 @@
-package string.sort.hasing.find;
+package string_handling;
 import java.util.Scanner;
 
 public class B2671 {

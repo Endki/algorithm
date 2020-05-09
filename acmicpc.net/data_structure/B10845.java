@@ -1,4 +1,4 @@
-package data.structure;
+package data_structure;
 import java.util.Scanner;
 
 public class B10845 {

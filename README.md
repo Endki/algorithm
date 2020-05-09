@@ -151,8 +151,8 @@
 
 | 번호 | 문제                                                      | 코드                         | 번호 | 문제                                                             | 코드                         |
 |:----:|:---------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
-|  1   |    [단어의 개수](https://www.acmicpc.net/problem/1152)    | [java](acmicpc.net/string/sort/hasing/find/B1152.java)  |  2   |        [단어 공부](https://www.acmicpc.net/problem/1157)         | [cpp](acmicpc.net/1157.cpp)  |
-|  3   |       [상수](https://www.acmicpc.net/problem/2908)        | [cpp](acmicpc.net/2908.cpp)  |  4   |        [숫자 카드](https://www.acmicpc.net/problem/10815)        | [cpp](acmicpc.net/10815.cpp) |
+|  1   |    [단어의 개수](https://www.acmicpc.net/problem/1152)    | [java](acmicpc.net/string_handling/B1152.java)  |  2   |        [단어 공부](https://www.acmicpc.net/problem/1157)         | [java](acmicpc.net/string_handling/B1157.java)  |
+|  3   |       [상수](https://www.acmicpc.net/problem/2908)        | [java](acmicpc.net/string_handling/B2908.java)  |  4   |        [숫자 카드](https://www.acmicpc.net/problem/10815)        | [cpp](acmicpc.net/10815.cpp) |
 |  5   |     [단어 정렬](https://www.acmicpc.net/problem/1181)     | [cpp](acmicpc.net/1181.cpp)  |  6   |  [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)  | [cpp](acmicpc.net/10988.cpp) |
 |  7   |     [K번째 수](https://www.acmicpc.net/problem/11004)     | [cpp](acmicpc.net/11004.cpp) |  8   |       [5의 6의 차이](https://www.acmicpc.net/problem/2864)       | [cpp](acmicpc.net/2864.cpp)  |
 |  9   | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [cpp](acmicpc.net/2941.cpp)  |  10  |       [문자열 반복](https://www.acmicpc.net/problem/2675)        | [cpp](acmicpc.net/2675.cpp)  |
@@ -170,8 +170,8 @@
 |  33  |     [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |  34  |        [배수 찾기](https://www.acmicpc.net/problem/4504)         | [cpp](acmicpc.net/4504.cpp)  |
 |  35  |    [!밀비 급일](https://www.acmicpc.net/problem/11365)    | [cpp](acmicpc.net/11365.cpp) |  36  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [cpp](acmicpc.net/1919.cpp)  |
 |  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [cpp](acmicpc.net/10989.cpp) |  38  |        [JOI와 IOI](https://www.acmicpc.net/problem/5586)         | [cpp](acmicpc.net/5586.cpp)  |
-|  39  |      [더하기](https://www.acmicpc.net/problem/10822)      | [cpp](acmicpc.net/10822.cpp) |  39  |      [잠수함 식별](https://www.acmicpc.net/problem/2671)      | [java](acmicpc.net/string/sort/hasing/find/B2671.java) |
-|  39  |      [](https://www.acmicpc.net/problem/10822)      | [cpp](acmicpc.net/10822.cpp) |      |                                                                  |                              |
+|  39  |      [더하기](https://www.acmicpc.net/problem/10822)      | [cpp](acmicpc.net/10822.cpp) |  40  |      [잠수함 식별](https://www.acmicpc.net/problem/2671)      | [java](acmicpc.net/string_handling/B2671.java) |
+|   41   | [알파벳 찾기](https://www.acmicpc.net/problem/10809)  |  [java](acmicpc.net/string_handling/B10809.java)   |
 
 Dynamic Programming
 -------------------
@@ -257,16 +257,16 @@ Greedy Algorithm
 
 | 번호 | 문제                                                     | 코드                         | 번호 | 문제                                                                | 코드                         |
 |:----:|:--------------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------------------------:|:----------------------------:|
-|  1   |      [스택](https://www.acmicpc.net/problem/10828)       | [java](acmicpc.net/data/structure/B10828.java) |  2   |             [큐](https://www.acmicpc.net/problem/10845)              | [java](acmicpc.net/data/structure/B10845.java) |
-|  3   |    [쇠막대기](https://www.acmicpc.net/problem/10799)     | [java](acmicpc.net/data/structure/B10799.java) |  4   |            [괄호](https://www.acmicpc.net/problem/9012)             | [java](acmicpc.net/data/structure/B9012.java)  |
-|  5   |  [조세퍼스 문제](https://www.acmicpc.net/problem/1158)   | [java](acmicpc.net/data/structure/B1158.java)  |  6   |          [좋은 단어](https://www.acmicpc.net/problem/3986)          | [java](acmicpc.net/data/structure/B3986.java)  |
-|  7   |    [스택 수열](https://www.acmicpc.net/problem/1874)     | [java](acmicpc.net/data/structure/B1874.java)  |  8   |         [후위 표기식](https://www.acmicpc.net/problem/1918)         | [java](acmicpc.net/data/structure/B1918.java)  |
+|  1   |      [스택](https://www.acmicpc.net/problem/10828)       | [java](acmicpc.net/data_structure/B10828.java) |  2   |             [큐](https://www.acmicpc.net/problem/10845)              | [java](acmicpc.net/data_structure/B10845.java) |
+|  3   |    [쇠막대기](https://www.acmicpc.net/problem/10799)     | [java](acmicpc.net/data_structure/B10799.java) |  4   |            [괄호](https://www.acmicpc.net/problem/9012)             | [java](acmicpc.net/data_structure/B9012.java)  |
+|  5   |  [조세퍼스 문제](https://www.acmicpc.net/problem/1158)   | [java](acmicpc.net/data_structure/B1158.java)  |  6   |          [좋은 단어](https://www.acmicpc.net/problem/3986)          | [java](acmicpc.net/data_structure/B3986.java)  |
+|  7   |    [스택 수열](https://www.acmicpc.net/problem/1874)     | [java](acmicpc.net/data_structure/B1874.java)  |  8   |         [후위 표기식](https://www.acmicpc.net/problem/1918)         | [java](acmicpc.net/data_structure/B1918.java)  |
 |  9   |        [탑](https://www.acmicpc.net/problem/2493)        | [cpp](acmicpc.net/2493.cpp)  |  10  |      [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)       | [cpp](acmicpc.net/7662.cpp)  |
 |  11  |    [프린터 큐](https://www.acmicpc.net/problem/1966)     | [cpp](acmicpc.net/1966.cpp)  |  12  |          [최대 힙](https://www.acmicpc.net/problem/11279)           | [cpp](acmicpc.net/11279.cpp) |
 |  13  |    [괄호의 값](https://www.acmicpc.net/problem/2504)     | [cpp](acmicpc.net/2504.cpp)  |  14  |          [오르막 길](https://www.acmicpc.net/problem/2846)          | [cpp](acmicpc.net/2846.cpp)  |
 |  15  |  [패션왕 신해빈](https://www.acmicpc.net/problem/9375)   | [cpp](acmicpc.net/9375.cpp)  |  16  |          [트리 순회](https://www.acmicpc.net/problem/1991)          | [cpp](acmicpc.net/1991.cpp)  |
 |  17  | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [cpp](acmicpc.net/7785.cpp)  |  18  |            [카드](https://www.acmicpc.net/problem/11652)            | [cpp](acmicpc.net/11652.cpp) |
-|  19  |   [병약한 영정](https://www.acmicpc.net/problem/14670)   | [cpp](acmicpc.net/14670.cpp) |  20  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [cpp](acmicpc.net/1620.cpp)  |
+|  19  |   [병약한 영정](https://www.acmicpc.net/problem/14670)   | [cpp](acmicpc.net/14670.cpp) |  20  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [java](acmicpc.net/data_structure/B1620.java)  |
 |  21  |    [식사 예절](https://www.acmicpc.net/problem/3022)     | [cpp](acmicpc.net/3022.cpp)  |      |                                                                     |                              |
 
 대회
