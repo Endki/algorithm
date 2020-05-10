@@ -108,10 +108,10 @@
 
 | 번호 | 문제                                                  | 코드                         | 번호 | 문제                                                     | 코드                         |
 |:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
-|  1   |  [N과 M (1)](https://www.acmicpc.net/problem/15649)   | [java](acmicpc.net/backtraking/bruteforce/B15649.java) |  2   |    [N과 M (2)](https://www.acmicpc.net/problem/15650)    | [java](acmicpc.net/backtraking/bruteforce/B15650.java) |
-|  3   |     [덩치](https://www.acmicpc.net/problem/7568)      | [java](acmicpc.net/backtraking/bruteforce/B7568.java)  |  4   |  [부분집합의 합](https://www.acmicpc.net/problem/1182)   | [java](acmicpc.net/backtraking/bruteforce/B1182.java)  |
-|  5   | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | [cpp](acmicpc.net/1051.cpp)  |  6   |  [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)   | [java](acmicpc.net/B1748.java)  |
-|  7   |    [분해합](https://www.acmicpc.net/problem/2231)     | [cpp](acmicpc.net/2231.cpp)  |  8   |  [스타트와 링크](https://www.acmicpc.net/problem/14889)  | [cpp](acmicpc.net/14889.cpp) |
+|  1   |  [N과 M (1)](https://www.acmicpc.net/problem/15649)   | [java](acmicpc.net/backtraking_bruteforce/B15649.java) |  2   |    [N과 M (2)](https://www.acmicpc.net/problem/15650)    | [java](acmicpc.net/backtraking_bruteforce/B15650.java) |
+|  3   |     [덩치](https://www.acmicpc.net/problem/7568)      | [java](acmicpc.net/backtraking_bruteforce/B7568.java)  |  4   |  [부분집합의 합](https://www.acmicpc.net/problem/1182)   | [java](acmicpc.net/backtraking_bruteforce/B1182.java)  |
+|  5   | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | [java](acmicpc.net/backtraking_bruteforce/B1051.java)  |  6   |  [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)   | [java](acmicpc.net/backtraking_bruteforce/B1748.java)  |
+|  7   |    [분해합](https://www.acmicpc.net/problem/2231)     | [java](acmicpc.net/backtraking_bruteforce/B2231.java)  |  8   |  [스타트와 링크](https://www.acmicpc.net/problem/14889)  | [cpp](acmicpc.net/14889.cpp) |
 |  9   | [유레카 이론](https://www.acmicpc.net/problem/10448)  | [cpp](acmicpc.net/10448.cpp) |  10  |     [N-Queen](https://www.acmicpc.net/problem/9663)      | [cpp](acmicpc.net/9663.cpp)  |
 |  11  |  [N과 M (5)](https://www.acmicpc.net/problem/15654)   | [cpp](acmicpc.net/15654.cpp) |  12  |    [N과 M (6)](https://www.acmicpc.net/problem/15655)    | [cpp](acmicpc.net/15655.cpp) |
 |  13  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | [cpp](acmicpc.net/2309.cpp)  |  14  |   [암호 만들기](https://www.acmicpc.net/problem/1759)    | [cpp](acmicpc.net/1759.cpp)  |

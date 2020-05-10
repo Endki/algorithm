@@ -1,4 +1,4 @@
-package backtraking.bruteforce;
+package backtraking_bruteforce;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

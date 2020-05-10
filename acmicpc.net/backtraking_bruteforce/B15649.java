@@ -1,4 +1,4 @@
-package backtraking.bruteforce;
+package backtraking_bruteforce;
 import java.util.Scanner;
 
 public class B15649 {
