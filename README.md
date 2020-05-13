@@ -112,9 +112,9 @@
 |  3   |     [덩치](https://www.acmicpc.net/problem/7568)      | [java](acmicpc.net/backtraking_bruteforce/B7568.java)  |  4   |  [부분집합의 합](https://www.acmicpc.net/problem/1182)   | [java](acmicpc.net/backtraking_bruteforce/B1182.java)  |
 |  5   | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | [java](acmicpc.net/backtraking_bruteforce/B1051.java)  |  6   |  [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)   | [java](acmicpc.net/backtraking_bruteforce/B1748.java)  |
 |  7   |    [분해합](https://www.acmicpc.net/problem/2231)     | [java](acmicpc.net/backtraking_bruteforce/B2231.java)  |  8   |  [스타트와 링크](https://www.acmicpc.net/problem/14889)  | [java](acmicpc.net/backtraking_bruteforce/B14889.java) |
-|  9   | [유레카 이론](https://www.acmicpc.net/problem/10448)  | [cpp](acmicpc.net/10448.cpp) |  10  |     [N-Queen](https://www.acmicpc.net/problem/9663)      | [cpp](acmicpc.net/9663.cpp)  |
-|  11  |  [N과 M (5)](https://www.acmicpc.net/problem/15654)   | [cpp](acmicpc.net/15654.cpp) |  12  |    [N과 M (6)](https://www.acmicpc.net/problem/15655)    | [cpp](acmicpc.net/15655.cpp) |
-|  13  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | [cpp](acmicpc.net/2309.cpp)  |  14  |   [암호 만들기](https://www.acmicpc.net/problem/1759)    | [cpp](acmicpc.net/1759.cpp)  |
+|  9   | [유레카 이론](https://www.acmicpc.net/problem/10448)  | [java](acmicpc.net/backtraking_bruteforce/B10448.java) |  10  |     [N-Queen](https://www.acmicpc.net/problem/9663)      | [java](acmicpc.net/backtraking_bruteforce/B9663.java)  |
+|  11  |  [N과 M (5)](https://www.acmicpc.net/problem/15654)   | [java](acmicpc.net/backtraking_bruteforce/B15654.java) |  12  |    [N과 M (6)](https://www.acmicpc.net/problem/15655)    | [java](acmicpc.net/backtraking_bruteforce/B15655.java) |
+|  13  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | [java](acmicpc.net/backtraking_bruteforce/B2309.java)  |  14  |   [암호 만들기](https://www.acmicpc.net/problem/1759)    | [java](acmicpc.net/backtraking_bruteforce/B1759.java)  |
 |  15  |  [테트로미노](https://www.acmicpc.net/problem/14500)  | [cpp](acmicpc.net/14500.cpp) |  16  | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [cpp](acmicpc.net/14888.cpp) |
 
 수학
