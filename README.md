@@ -115,7 +115,7 @@
 |  9   | [유레카 이론](https://www.acmicpc.net/problem/10448)  | [java](acmicpc.net/backtraking_bruteforce/B10448.java) |  10  |     [N-Queen](https://www.acmicpc.net/problem/9663)      | [java](acmicpc.net/backtraking_bruteforce/B9663.java)  |
 |  11  |  [N과 M (5)](https://www.acmicpc.net/problem/15654)   | [java](acmicpc.net/backtraking_bruteforce/B15654.java) |  12  |    [N과 M (6)](https://www.acmicpc.net/problem/15655)    | [java](acmicpc.net/backtraking_bruteforce/B15655.java) |
 |  13  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | [java](acmicpc.net/backtraking_bruteforce/B2309.java)  |  14  |   [암호 만들기](https://www.acmicpc.net/problem/1759)    | [java](acmicpc.net/backtraking_bruteforce/B1759.java)  |
-|  15  |  [테트로미노](https://www.acmicpc.net/problem/14500)  | [cpp](acmicpc.net/14500.cpp) |  16  | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [cpp](acmicpc.net/14888.cpp) |
+|  15  |  [테트로미노](https://www.acmicpc.net/problem/14500)  | [java](acmicpc.net/backtraking_bruteforce/B14500.java) |  16  | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [java](acmicpc.net/backtraking_bruteforce/B14888.java) |
 
 수학
 ----
