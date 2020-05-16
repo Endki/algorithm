@@ -153,13 +153,13 @@
 |:----:|:---------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
 |  1   |    [단어의 개수](https://www.acmicpc.net/problem/1152)    | [java](acmicpc.net/string_handling/B1152.java)  |  2   |        [단어 공부](https://www.acmicpc.net/problem/1157)         | [java](acmicpc.net/string_handling/B1157.java)  |
 |  3   |       [상수](https://www.acmicpc.net/problem/2908)        | [java](acmicpc.net/string_handling/B2908.java)  |  4   |        [숫자 카드](https://www.acmicpc.net/problem/10815)        | [cpp](acmicpc.net/10815.cpp) |
-|  5   |     [단어 정렬](https://www.acmicpc.net/problem/1181)     | [cpp](acmicpc.net/1181.cpp)  |  6   |  [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)  | [cpp](acmicpc.net/10988.cpp) |
-|  7   |     [K번째 수](https://www.acmicpc.net/problem/11004)     | [cpp](acmicpc.net/11004.cpp) |  8   |       [5의 6의 차이](https://www.acmicpc.net/problem/2864)       | [cpp](acmicpc.net/2864.cpp)  |
-|  9   | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [cpp](acmicpc.net/2941.cpp)  |  10  |       [문자열 반복](https://www.acmicpc.net/problem/2675)        | [cpp](acmicpc.net/2675.cpp)  |
-|  11  |      [듣보잡](https://www.acmicpc.net/problem/1764)       | [cpp](acmicpc.net/1764.cpp)  |  12  |      [명령 프롬프트](https://www.acmicpc.net/problem/1032)       | [cpp](acmicpc.net/1032.cpp)  |
-|  13  |   [아스키 코드](https://www.acmicpc.net/problem/11654)    | [cpp](acmicpc.net/11654.cpp) |  14  |      [단어 길이 재기](https://www.acmicpc.net/problem/2743)      | [cpp](acmicpc.net/2743.cpp)  |
-|  15  |   [모음의 개수](https://www.acmicpc.net/problem/10987)    | [cpp](acmicpc.net/10987.cpp) |  16  | [지영 공주님의 마법 거울](https://www.acmicpc.net/problem/11586) | [cpp](acmicpc.net/11586.cpp) |
-|  17  |  [좌표 정렬 하기](https://www.acmicpc.net/problem/11650)  | [cpp](acmicpc.net/11650.cpp) |  18  |      [그룹 단어 체커](https://www.acmicpc.net/problem/1316)      | [cpp](acmicpc.net/1316.cpp)  |
+|  5   |     [단어 정렬](https://www.acmicpc.net/problem/1181)     | [java](acmicpc.net/string_handling/B1181.java)  |  6   |  [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)  | [java](acmicpc.net/string_handling/B10988.java) |
+|  7   |     [K번째 수](https://www.acmicpc.net/problem/11004)     | [java](acmicpc.net/string_handling/B11004.java) |  8   |       [5의 6의 차이](https://www.acmicpc.net/problem/2864)       | [java](acmicpc.net/string_handling/B2864.java)  |
+|  9   | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [java](acmicpc.net/string_handling/B2941.java)  |  10  |       [문자열 반복](https://www.acmicpc.net/problem/2675)        | [java](acmicpc.net/string_handling/B2675.java)  |
+|  11  |      [알파벳 찾기](https://www.acmicpc.net/problem/10809)       | [java](acmicpc.net/string_handling/B10809.java)  |  12  |      [명령 프롬프트](https://www.acmicpc.net/problem/1032)       | [java](acmicpc.net/string_handling/B1032.java)  |
+|  13  |   [아스키 코드](https://www.acmicpc.net/problem/11654)    | [java](acmicpc.net/string_handling/B11654.java) |  14  |      [단어 길이 재기](https://www.acmicpc.net/problem/2743)      | [java](acmicpc.net/string_handling/B2743.java)  |
+|  15  |   [모음의 개수](https://www.acmicpc.net/problem/10987)    | [java](acmicpc.net/string_handling/B10987.java) |  16  | [지영 공주님의 마법 거울](https://www.acmicpc.net/problem/11586) | [java](acmicpc.net/string_handling/B11586.java) |
+|  17  |  [좌표 정렬 하기](https://www.acmicpc.net/problem/11650)  | [java](acmicpc.net/string_handling/B11650.java) |  18  |      [그룹 단어 체커](https://www.acmicpc.net/problem/1316)      | [java](acmicpc.net/string_handling/B1316.java)  |
 |  19  |   [접미사 배열](https://www.acmicpc.net/problem/11656)    | [cpp](acmicpc.net/11656.cpp) |  20  |    [민균이의 비밀번호](https://www.acmicpc.net/problem/9933)     | [cpp](acmicpc.net/9933.cpp)  |
 |  21  |   [알파벳 개수](https://www.acmicpc.net/problem/10808)    | [cpp](acmicpc.net/10808.cpp) |  22  |          [다이얼](https://www.acmicpc.net/problem/5622)          | [cpp](acmicpc.net/5622.cpp)  |
 |  23  |      [하얀 칸](https://www.acmicpc.net/problem/1100)      | [cpp](acmicpc.net/1100.cpp)  |  24  |    [KMP는 왜 KMP일까?](https://www.acmicpc.net/problem/2902)     | [cpp](acmicpc.net/2902.cpp)  |
@@ -171,7 +171,6 @@
 |  35  |    [!밀비 급일](https://www.acmicpc.net/problem/11365)    | [cpp](acmicpc.net/11365.cpp) |  36  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [cpp](acmicpc.net/1919.cpp)  |
 |  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [cpp](acmicpc.net/10989.cpp) |  38  |        [JOI와 IOI](https://www.acmicpc.net/problem/5586)         | [cpp](acmicpc.net/5586.cpp)  |
 |  39  |      [더하기](https://www.acmicpc.net/problem/10822)      | [cpp](acmicpc.net/10822.cpp) |  40  |      [잠수함 식별](https://www.acmicpc.net/problem/2671)      | [java](acmicpc.net/string_handling/B2671.java) |
-|   41   | [알파벳 찾기](https://www.acmicpc.net/problem/10809)  |  [java](acmicpc.net/string_handling/B10809.java)   |
 
 Dynamic Programming
 -------------------

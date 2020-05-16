@@ -1,4 +1,4 @@
-package print;
+package string_handling;
 
 import java.io.BufferedReader;
 import java.io.IOException;
