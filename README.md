@@ -145,7 +145,7 @@
 |  41  |      [3000번 버스](https://www.acmicpc.net/problem/9546)       | [java](acmicpc.net/math/B9546.java)  |  42  |   [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)    | [java](acmicpc.net/math/B2903.java)  |
 |  43  |       [다음 순열](https://www.acmicpc.net/problem/10972)       | [java](acmicpc.net/math/B10972.java) |  44  |       [이전 순열](https://www.acmicpc.net/problem/10973)        | [java](acmicpc.net/math/B10973.java) |
 |  45  |       [모든 순열](https://www.acmicpc.net/problem/10974)       | [java](acmicpc.net/math/B10974.java) |  46  |     [2의 제곱인가?](https://www.acmicpc.net/problem/11966)      | [java](acmicpc.net/math/B11966.java) |
-
+| 47 | [배수 찾기](https://www.acmicpc.net/problem/4504)         | [java](acmicpc.net/math/B4504.java)  |
 문자열 처리, 정렬, 탐색, 해싱
 -----------------------------
 
@@ -167,10 +167,9 @@
 |  27  |    [나무 자르기](https://www.acmicpc.net/problem/2805)    | [java](acmicpc.net/string_handling/B2805.java)  |  28  |       [나이순 정렬](https://www.acmicpc.net/problem/10814)       | [java](acmicpc.net/string_handling/B10814.java) |
 |  29  | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)  | [java](acmicpc.net/string_handling/B11651.java) |  30  |      [카이사르 암호](https://www.acmicpc.net/problem/5598)       | [java](acmicpc.net/string_handling/B5598.java)  |
 |  31  |        [ABC](https://www.acmicpc.net/problem/3047)        | [java](acmicpc.net/string_handling/B3047.java)  |  32  |       [수 정렬하기2](https://www.acmicpc.net/problem/2751)       | [java](acmicpc.net/string_handling/B2751.java)  |
-|  33  |     [ACM Craft](https://www.acmicpc.net/problem/1005)     | [cpp](acmicpc.net/1005.cpp)  |  34  |        [배수 찾기](https://www.acmicpc.net/problem/4504)         | [cpp](acmicpc.net/4504.cpp)  |
-|  35  |    [!밀비 급일](https://www.acmicpc.net/problem/11365)    | [cpp](acmicpc.net/11365.cpp) |  36  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [cpp](acmicpc.net/1919.cpp)  |
-|  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [cpp](acmicpc.net/10989.cpp) |  38  |        [JOI와 IOI](https://www.acmicpc.net/problem/5586)         | [cpp](acmicpc.net/5586.cpp)  |
-|  39  |      [더하기](https://www.acmicpc.net/problem/10822)      | [cpp](acmicpc.net/10822.cpp) |
+|  33  |     [JOI와 IOI](https://www.acmicpc.net/problem/5586)         | [java](acmicpc.net/string_handling/B5586.java)  | 34  |      [더하기](https://www.acmicpc.net/problem/10822)      | [java](acmicpc.net/string_handling/B10822.java) |
+|  35  |    [!밀비 급일](https://www.acmicpc.net/problem/11365)    | [java](acmicpc.net/string_handling/B11365.java) |  36  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [java](acmicpc.net/string_handling/B1919.java)  |
+|  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [java](acmicpc.net/string_handling/B10989.java) |  
 
 Dynamic Programming
 -------------------
