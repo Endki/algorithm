@@ -241,8 +241,8 @@ Greedy Algorithm
 | 번호 | 문제                                                 | 코드                         | 번호 | 문제                                                  | 코드                         |
 |:----:|:----------------------------------------------------:|:----------------------------:|:----:|:-----------------------------------------------------:|:----------------------------:|
 |  1   |  [신입 사원](https://www.acmicpc.net/problem/1946)   | [java](acmicpc.net/greedy/B1946.java)  |  2   |   [거스름돈](https://www.acmicpc.net/problem/5585)    | [java](acmicpc.net/greedy/B5585.java)  |
-|  3   |     [ATM](https://www.acmicpc.net/problem/11399)     | [java](acmicpc.net/greedy/B11399.java) |  4   |  [회의실배정](https://www.acmicpc.net/problem/1931)   | [cpp](acmicpc.net/1931.cpp)  |
-|  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [cpp](acmicpc.net/2875.cpp)  |  6   |     [로프](https://www.acmicpc.net/problem/2217)      | [cpp](acmicpc.net/2217.cpp)  |
+|  3   |     [ATM](https://www.acmicpc.net/problem/11399)     | [java](acmicpc.net/greedy/B11399.java) |  4   |  [회의실배정](https://www.acmicpc.net/problem/1931)   | [java](acmicpc.net/greedy/B1931.java)  |
+|  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [java](acmicpc.net/greedy/B2875.java)  |  6   |     [로프](https://www.acmicpc.net/problem/2217)      | [cpp](acmicpc.net/2217.cpp)  |
 |  7   |     [30](https://www.acmicpc.net/problem/10610)      | [cpp](acmicpc.net/10610.cpp) |  8   |    [동전 0](https://www.acmicpc.net/problem/11047)    | [cpp](acmicpc.net/11047.cpp) |
 |  9   |    [기타줄](https://www.acmicpc.net/problem/1049)    | [cpp](acmicpc.net/1049.cpp)  |  10  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [cpp](acmicpc.net/1541.cpp)  |
 |  11  | [등수 매기기](https://www.acmicpc.net/problem/2012)  | [cpp](acmicpc.net/2012.cpp)  |  12  |  [반도체 설계](https://www.acmicpc.net/problem/2352)  | [cpp](acmicpc.net/2352.cpp)  |
