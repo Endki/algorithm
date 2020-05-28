@@ -244,9 +244,9 @@ Greedy Algorithm
 |  3   |     [ATM](https://www.acmicpc.net/problem/11399)     | [java](acmicpc.net/greedy/B11399.java) |  4   |  [회의실배정](https://www.acmicpc.net/problem/1931)   | [java](acmicpc.net/greedy/B1931.java)  |
 |  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [java](acmicpc.net/greedy/B2875.java)  |  6   |     [로프](https://www.acmicpc.net/problem/2217)      | [java](acmicpc.net/greedy/B2217.java)  |
 |  7   |     [30](https://www.acmicpc.net/problem/10610)      | [java](acmicpc.net/greedy/B10610.java) |  8   |    [동전 0](https://www.acmicpc.net/problem/11047)    | [java](acmicpc.net/greedy/B11047.java) |
-|  9   |    [기타줄](https://www.acmicpc.net/problem/1049)    | [cpp](acmicpc.net/1049.cpp)  |  10  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [cpp](acmicpc.net/1541.cpp)  |
+|  9   |    [기타줄](https://www.acmicpc.net/problem/1049)    | [cpp](acmicpc.net/1049.cpp)  |  10  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [java](acmicpc.net/greedy/B1541.java)  |
 |  11  | [등수 매기기](https://www.acmicpc.net/problem/2012)  | [cpp](acmicpc.net/2012.cpp)  |  12  |  [반도체 설계](https://www.acmicpc.net/problem/2352)  | [cpp](acmicpc.net/2352.cpp)  |
-|  13  |     [저울](https://www.acmicpc.net/problem/2437)     | [cpp](acmicpc.net/2437.cpp)  |  14  | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  | [cpp](acmicpc.net/1138.cpp)  |
+|  13  |     [저울](https://www.acmicpc.net/problem/2437)     | [cpp](acmicpc.net/2437.cpp)  |  14  | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  | [java](acmicpc.net/greedy/B1138.java)  |
 |  15  |    [뒤집기](https://www.acmicpc.net/problem/1439)    | [cpp](acmicpc.net/1439.cpp)  |  16  |      [DNA](https://www.acmicpc.net/problem/1969)      | [cpp](acmicpc.net/1969.cpp)  |
 |  17  |    [문자열](https://www.acmicpc.net/problem/1120)    | [cpp](acmicpc.net/1120.cpp)  |  18  |  [크게 만들기](https://www.acmicpc.net/problem/2812)  | [cpp](acmicpc.net/2812.cpp)  |
 |  19  |  [폴리오미노](https://www.acmicpc.net/problem/1343)  | [cpp](acmicpc.net/1343.cpp)  |      |                                                       |                              |
