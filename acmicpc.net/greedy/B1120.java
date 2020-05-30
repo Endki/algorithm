@@ -18,19 +18,23 @@ public class B1120 {
 		
 		int max=0;
 		
-		int start=0;
-		int end=0;
-		
-		for(int i=0;i<a.length();i++) {
-			max=0;
-			for(int j=0;j<b.length();j++) {
-				
-				
-				
+		for(int i=0;i<b.length()-a.length()+1;i++) {
+			String temp=b.substring(i,i+a.length());
+			int count=0;
+			
+			
+			for(int j=0;j<temp.length();j++) {
+				if(a.charAt(j)==temp.charAt(j)) {
+					count++;
+				}
+			}
+			
+			if(count>max) {
+				max=count;
 			}
 			
 		}
-		
+		System.out.println(a.length()-max);
 	}
 
 }

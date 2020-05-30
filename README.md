@@ -248,8 +248,7 @@ Greedy Algorithm
 |  11  | [등수 매기기](https://www.acmicpc.net/problem/2012)  | [cpp](acmicpc.net/2012.cpp)  |  12  |  [반도체 설계](https://www.acmicpc.net/problem/2352)  | [cpp](acmicpc.net/2352.cpp)  |
 |  13  |     [저울](https://www.acmicpc.net/problem/2437)     | [cpp](acmicpc.net/2437.cpp)  |  14  | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  | [java](acmicpc.net/greedy/B1138.java)  |
 |  15  |    [뒤집기](https://www.acmicpc.net/problem/1439)    | [cpp](acmicpc.net/1439.cpp)  |  16  |      [DNA](https://www.acmicpc.net/problem/1969)      | [cpp](acmicpc.net/1969.cpp)  |
-|  17  |    [문자열](https://www.acmicpc.net/problem/1120)    | [cpp](acmicpc.net/1120.cpp)  |  18  |  [크게 만들기](https://www.acmicpc.net/problem/2812)  | [cpp](acmicpc.net/2812.cpp)  |
-|  19  |  [폴리오미노](https://www.acmicpc.net/problem/1343)  | [cpp](acmicpc.net/1343.cpp)  |      |                                                       |                              |
+|  17  |    [문자열](https://www.acmicpc.net/problem/1120)    | [java](acmicpc.net/greedy/B1120.java) |  18  |  [폴리오미노](https://www.acmicpc.net/problem/1343)  | [java](acmicpc.net/greedy/B1343.java)  |      
 
 자료구조
 --------
