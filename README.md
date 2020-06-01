@@ -1,7 +1,7 @@
 알고리즘 문제풀이
 =================
 
-백준 온라인저지(acmicpc.net), 프로그래머스(programmers.co.kr), HackerRank(hackerrank.com)의 알고리즘 문제 풀이입니다.
+백준 온라인저지(acmicpc.net)의 알고리즘 문제 풀이입니다.
 
 백준 온라인 저지
 ================
@@ -212,28 +212,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 | 번호 | 문제                                                             | 코드                         | 번호 | 문제                                                      | 코드                         |
 |:----:|:----------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------:|:----------------------------:|
 |  1   |        [DFS와 BFS](https://www.acmicpc.net/problem/1260)         | [java](acmicpc.net/BFS/DFS/B1260.java)  |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)  | [java](acmicpc.net/B2667.java)  |
-|  3   |         [바이러스](https://www.acmicpc.net/problem/2606)         | [cpp](acmicpc.net/2606.cpp)  |  4   |    [경로 찾기](https://www.acmicpc.net/problem/11403)     | [cpp](acmicpc.net/11403.cpp) |
-|  5   |        [스타트링크](https://www.acmicpc.net/problem/5014)        | [cpp](acmicpc.net/5014.cpp)  |  6   |    [유기농 배추](https://www.acmicpc.net/problem/1012)    | [cpp](acmicpc.net/1012.cpp)  |
-|  7   |       [영역 구하기](https://www.acmicpc.net/problem/2583)        | [cpp](acmicpc.net/2583.cpp)  |  8   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [cpp](acmicpc.net/11724.cpp) |
-|  9   |         [숨바꼭질](https://www.acmicpc.net/problem/1697)         | [cpp](acmicpc.net/1697.cpp)  |  10  |     [미로 탐색](https://www.acmicpc.net/problem/2178)     | [cpp](acmicpc.net/2178.cpp)  |
-|  11  |        [안전 영역](https://www.acmicpc.net/problem/2468)         | [cpp](acmicpc.net/2468.cpp)  |  12  |   [나이트의 이동](https://www.acmicpc.net/problem/7562)   | [cpp](acmicpc.net/7562.cpp)  |
-|  13  |        [적록색약](https://www.acmicpc.net/problem/10026)         | [cpp](acmicpc.net/10026.cpp) |  14  |       [로또](https://www.acmicpc.net/problem/6603)        | [cpp](acmicpc.net/6603.cpp)  |
-|  15  |        [섬의 개수](https://www.acmicpc.net/problem/4963)         | [cpp](acmicpc.net/4963.cpp)  |  16  |    [트리의 지름](https://www.acmicpc.net/problem/1967)    | [cpp](acmicpc.net/1967.cpp)  |
-|  17  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [cpp](acmicpc.net/1389.cpp)  |  18  |       [파티](https://www.acmicpc.net/problem/1238)        | [cpp](acmicpc.net/1238.cpp)  |
-|  19  |        [플로이드](https://www.acmicpc.net/problem/11404)         | [cpp](acmicpc.net/11404.cpp) |  20  |       [저울](https://www.acmicpc.net/problem/10159)       | [cpp](acmicpc.net/10159.cpp) |
-|  21  |           [역사](https://www.acmicpc.net/problem/1613)           | [cpp](acmicpc.net/1613.cpp)  |  22  |      [키 순서](https://www.acmicpc.net/problem/2458)      | [cpp](acmicpc.net/2458.cpp)  |
-|  23  |           [운동](https://www.acmicpc.net/problem/1956)           | [cpp](acmicpc.net/1956.cpp)  |  24  |     [회장뽑기](https://www.acmicpc.net/problem/2660)      | [cpp](acmicpc.net/2660.cpp)  |
-|  25  |        [Puyo Puyo](https://www.acmicpc.net/problem/11559)        | [cpp](acmicpc.net/11559.cpp) |  26  |        [양](https://www.acmicpc.net/problem/3184)         | [cpp](acmicpc.net/3184.cpp)  |
-|  27  |         [돌다리](https://www.acmicpc.net/problem/12761)          | [cpp](acmicpc.net/12761.cpp) |  28  |      [보물섬](https://www.acmicpc.net/problem/2589)       | [cpp](acmicpc.net/2589.cpp)  |
-|  29  |           [물통](https://www.acmicpc.net/problem/2251)           | [cpp](acmicpc.net/2251.cpp)  |  30  |   [상근이의 여행](https://www.acmicpc.net/problem/9372)   | [cpp](acmicpc.net/9372.cpp)  |
-|  31  |       [Cow Contest](https://www.acmicpc.net/problem/6156)        | [cpp](acmicpc.net/6156.cpp)  |  32  |     [촌수계산](https://www.acmicpc.net/problem/2644)      | [cpp](acmicpc.net/2644.cpp)  |
-|  33  |       [궁금한 민호](https://www.acmicpc.net/problem/1507)        | [cpp](acmicpc.net/1507.cpp)  |  34  |   [네트워크 연결](https://www.acmicpc.net/problem/1922)   | [cpp](acmicpc.net/1922.cpp)  |
-|  35  |     [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)     | [cpp](acmicpc.net/1197.cpp)  |  36  |       [DSLR](https://www.acmicpc.net/problem/9019)        | [cpp](acmicpc.net/9019.cpp)  |
-|  37  |         [연구소](https://www.acmicpc.net/problem/14502)          | [cpp](acmicpc.net/14502.cpp) |  38  |      [토마토](https://www.acmicpc.net/problem/7569)       | [cpp](acmicpc.net/7569.cpp)  |
-|  39  |       [숨바꼭질 3](https://www.acmicpc.net/problem/13549)        | [cpp](acmicpc.net/13549.cpp) |  40  |     [아기상어](https://www.acmicpc.net/problem/16236)     | [cpp](acmicpc.net/16236.cpp) |
-|  41  |        [상범 빌딩](https://www.acmicpc.net/problem/6593)         | [cpp](acmicpc.net/6593.cpp)  |  42  |      [알파벳](https://www.acmicpc.net/problem/1987)       | [cpp](acmicpc.net/1987.cpp)  |
-|  43  |        [소수 경로](https://www.acmicpc.net/problem/1963)         | [cpp](acmicpc.net/1963.cpp)  |  44  |     [알고스팟](https://www.acmicpc.net/problem/1261)      | [cpp](acmicpc.net/1261.cpp)  |
-|  45  |          [침투](https://www.acmicpc.net/problem/13565)           | [cpp](acmicpc.net/13565.cpp) |  46  |   [효율적인 해킹](https://www.acmicpc.net/problem/1325)   | [cpp](acmicpc.net/1325.cpp)  |
+
 
 Greedy Algorithm
 ----------------
@@ -244,11 +223,8 @@ Greedy Algorithm
 |  3   |     [ATM](https://www.acmicpc.net/problem/11399)     | [java](acmicpc.net/greedy/B11399.java) |  4   |  [회의실배정](https://www.acmicpc.net/problem/1931)   | [java](acmicpc.net/greedy/B1931.java)  |
 |  5   | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [java](acmicpc.net/greedy/B2875.java)  |  6   |     [로프](https://www.acmicpc.net/problem/2217)      | [java](acmicpc.net/greedy/B2217.java)  |
 |  7   |     [30](https://www.acmicpc.net/problem/10610)      | [java](acmicpc.net/greedy/B10610.java) |  8   |    [동전 0](https://www.acmicpc.net/problem/11047)    | [java](acmicpc.net/greedy/B11047.java) |
-|  9   |    [기타줄](https://www.acmicpc.net/problem/1049)    | [cpp](acmicpc.net/1049.cpp)  |  10  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [java](acmicpc.net/greedy/B1541.java)  |
-|  11  | [등수 매기기](https://www.acmicpc.net/problem/2012)  | [cpp](acmicpc.net/2012.cpp)  |  12  |  [반도체 설계](https://www.acmicpc.net/problem/2352)  | [cpp](acmicpc.net/2352.cpp)  |
-|  13  |     [저울](https://www.acmicpc.net/problem/2437)     | [cpp](acmicpc.net/2437.cpp)  |  14  | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  | [java](acmicpc.net/greedy/B1138.java)  |
-|  15  |    [뒤집기](https://www.acmicpc.net/problem/1439)    | [cpp](acmicpc.net/1439.cpp)  |  16  |      [DNA](https://www.acmicpc.net/problem/1969)      | [cpp](acmicpc.net/1969.cpp)  |
-|  17  |    [문자열](https://www.acmicpc.net/problem/1120)    | [java](acmicpc.net/greedy/B1120.java) |  18  |  [폴리오미노](https://www.acmicpc.net/problem/1343)  | [java](acmicpc.net/greedy/B1343.java)  |      
+|  9  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [java](acmicpc.net/greedy/B1541.java)  |  10  | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  | [java](acmicpc.net/greedy/B1138.java)  |
+|  11  |    [문자열](https://www.acmicpc.net/problem/1120)    | [java](acmicpc.net/greedy/B1120.java) |  12  |  [폴리오미노](https://www.acmicpc.net/problem/1343)  | [java](acmicpc.net/greedy/B1343.java)  |      
 
 자료구조
 --------
