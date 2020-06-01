@@ -102,7 +102,7 @@
 |  11  | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721) | [java](acmicpc.net/print/B11721.java) |  12  |    [??!](https://www.acmicpc.net/problem/10926)     | [java](acmicpc.net/print/B10926.java) |
 |  13  |   [그대로 출력하기2](https://www.acmicpc.net/problem/11719)    | [java](acmicpc.net/print/B11719.java) |  14  | [별찍기 - 11](https://www.acmicpc.net/problem/2448) | [java](acmicpc.net/print/B2448.java)  |
 |  15  |        [고양이](https://www.acmicpc.net/problem/10171)         | [java](acmicpc.net/print/B10171.java) |16| [빠른 A+B](https://www.acmicpc.net/problem/15552) | [java](acmicpc.net/print/B15552.java) |
-
+|  17  | [별찍기 - 9](https://www.acmicpc.net/problem/2446)|[java](acmicpc.net/print/B2446.java) |  18  | [별찍기 - 13](https://www.acmicpc.net/problem/2523)|[java](acmicpc.net/print/B2523.java)|
 브루트포스, 백트래킹
 --------------------
 
@@ -220,4 +220,4 @@ Coder's High 2014 예비소집
 |:----:|:--------------------------------------------------------:|:----------------------------:|
 |  1   |            [Maximum Subarray](https://www.acmicpc.net/problem/10211)            | [java](acmicpc.net/CodersHigh2014/B10211.java)  
 |  2   |            [Mystery](https://www.acmicpc.net/problem/10212)            | [java](acmicpc.net/CodersHigh2014/B10212.java)  
-|  3   |            [XH Company](https://www.acmicpc.net/problem/10213)            | [cpp](programmers/1-1.cpp)  
+|  3   |            [XH Company](https://www.acmicpc.net/problem/10213)            |  
