@@ -103,6 +103,8 @@
 |  13  |   [그대로 출력하기2](https://www.acmicpc.net/problem/11719)    | [java](acmicpc.net/print/B11719.java) |  14  | [별찍기 - 11](https://www.acmicpc.net/problem/2448) | [java](acmicpc.net/print/B2448.java)  |
 |  15  |        [고양이](https://www.acmicpc.net/problem/10171)         | [java](acmicpc.net/print/B10171.java) |16| [빠른 A+B](https://www.acmicpc.net/problem/15552) | [java](acmicpc.net/print/B15552.java) |
 |  17  | [별찍기 - 9](https://www.acmicpc.net/problem/2446)|[java](acmicpc.net/print/B2446.java) |  18  | [별찍기 - 13](https://www.acmicpc.net/problem/2523)|[java](acmicpc.net/print/B2523.java)|
+|  19  | [별찍기 - 21](https://www.acmicpc.net/problem/10996)|[java](acmicpc.net/print/B10996.java)|
+
 브루트포스, 백트래킹
 --------------------
 
