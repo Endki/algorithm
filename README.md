@@ -148,7 +148,7 @@
 |  43  |       [다음 순열](https://www.acmicpc.net/problem/10972)       | [java](acmicpc.net/math/B10972.java) |  44  |       [이전 순열](https://www.acmicpc.net/problem/10973)        | [java](acmicpc.net/math/B10973.java) |
 |  45  |       [모든 순열](https://www.acmicpc.net/problem/10974)       | [java](acmicpc.net/math/B10974.java) |  46  |     [2의 제곱인가?](https://www.acmicpc.net/problem/11966)      | [java](acmicpc.net/math/B11966.java) |
 | 47 | [배수 찾기](https://www.acmicpc.net/problem/4504)         | [java](acmicpc.net/math/B4504.java)  | 48 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[java](acmicpc.net/math/B2869.java)
-
+|49|[소수](https://www.acmicpc.net/problem/2581)|[java](acmicpc.net/math/B2581.java)
 
 
 문자열 처리, 정렬, 탐색, 해싱
