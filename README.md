@@ -119,6 +119,8 @@
 |  13  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | [java](acmicpc.net/backtraking_bruteforce/B2309.java)  |  14  |   [암호 만들기](https://www.acmicpc.net/problem/1759)    | [java](acmicpc.net/backtraking_bruteforce/B1759.java)  |
 |  15  |  [테트로미노](https://www.acmicpc.net/problem/14500)  | [java](acmicpc.net/backtraking_bruteforce/B14500.java) |  16  | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [java](acmicpc.net/backtraking_bruteforce/B14888.java) |
 |  17  |  [영화감독 숌](https://www.acmicpc.net/problem/1436) | [java](acmicpc.net/backtraking_bruteforce/B1436.java) |
+
+
 수학
 ----
 
@@ -175,7 +177,9 @@
 |  31  |        [ABC](https://www.acmicpc.net/problem/3047)        | [java](acmicpc.net/string_handling/B3047.java)  |  32  |       [수 정렬하기2](https://www.acmicpc.net/problem/2751)       | [java](acmicpc.net/string_handling/B2751.java)  |
 |  33  |     [JOI와 IOI](https://www.acmicpc.net/problem/5586)         | [java](acmicpc.net/string_handling/B5586.java)  | 34  |      [더하기](https://www.acmicpc.net/problem/10822)      | [java](acmicpc.net/string_handling/B10822.java) |
 |  35  |    [!밀비 급일](https://www.acmicpc.net/problem/11365)    | [java](acmicpc.net/string_handling/B11365.java) |  36  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [java](acmicpc.net/string_handling/B1919.java)  |
-|  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [java](acmicpc.net/string_handling/B10989.java) |  
+|  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [java](acmicpc.net/string_handling/B10989.java) |  38 | [소트인사이드](https://www.acmicpc.net/problem/1427) | [java](acmicpc.net/string_handling/B1427.java)|
+|  39  |   [통계학](https://www.acmicpc.net/problem/2108)          | [java](acmicpc.net/string_handling/B2108.java)  |
+
 
 Dynamic Programming
 -------------------
@@ -190,7 +194,7 @@ BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 
 | 번호 | 문제                                                             | 코드                         | 번호 | 문제                                                      | 코드                         |
 |:----:|:----------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------:|:----------------------------:|
-|  1   |        [DFS와 BFS](https://www.acmicpc.net/problem/1260)         | [java](acmicpc.net/BFS/DFS/B1260.java)  |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)  | [java](acmicpc.net/B2667.java)  |
+|  1   |        [DFS와 BFS](https://www.acmicpc.net/problem/1260)         | [java](acmicpc.net/BFS_DFS/B1260.java)  |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)  | [java](acmicpc.net/BFS_DFS/B1260.java)  |
 
 
 Greedy Algorithm
