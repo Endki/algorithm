@@ -118,7 +118,7 @@
 |  11  |  [N과 M (5)](https://www.acmicpc.net/problem/15654)   | [java](acmicpc.net/backtraking_bruteforce/B15654.java) |  12  |    [N과 M (6)](https://www.acmicpc.net/problem/15655)    | [java](acmicpc.net/backtraking_bruteforce/B15655.java) |
 |  13  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | [java](acmicpc.net/backtraking_bruteforce/B2309.java)  |  14  |   [암호 만들기](https://www.acmicpc.net/problem/1759)    | [java](acmicpc.net/backtraking_bruteforce/B1759.java)  |
 |  15  |  [테트로미노](https://www.acmicpc.net/problem/14500)  | [java](acmicpc.net/backtraking_bruteforce/B14500.java) |  16  | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [java](acmicpc.net/backtraking_bruteforce/B14888.java) |
-|  17  |  [영화감독 숌](https://www.acmicpc.net/problem/1436) | [java](acmicpc.net/backtraking_bruteforce/B1436.java) |
+|  17  |  [영화감독 숌](https://www.acmicpc.net/problem/1436) | [java](acmicpc.net/backtraking_bruteforce/B1436.java) | 18 |  [N과 M (4)](https://www.acmicpc.net/problem/15652)   | [java](acmicpc.net/backtraking_bruteforce/B15652.java)
 
 
 수학
