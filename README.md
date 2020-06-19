@@ -218,7 +218,8 @@ Greedy Algorithm
 |  3   |    [쇠막대기](https://www.acmicpc.net/problem/10799)     | [java](acmicpc.net/data_structure/B10799.java) |  4   |            [괄호](https://www.acmicpc.net/problem/9012)             | [java](acmicpc.net/data_structure/B9012.java)  |
 |  5   |  [조세퍼스 문제](https://www.acmicpc.net/problem/1158)   | [java](acmicpc.net/data_structure/B1158.java)  |  6   |          [좋은 단어](https://www.acmicpc.net/problem/3986)          | [java](acmicpc.net/data_structure/B3986.java)  |
 |  7   |    [스택 수열](https://www.acmicpc.net/problem/1874)     | [java](acmicpc.net/data_structure/B1874.java)  |  8   |         [후위 표기식](https://www.acmicpc.net/problem/1918)         | [java](acmicpc.net/data_structure/B1918.java)  |
-|  20  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [java](acmicpc.net/data_structure/B1620.java)  |
+|  9  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [java](acmicpc.net/data_structure/B1620.java)  |  10 | [제로](https://www.acmicpc.net/problem/10773) | [java](acmicpc.net/data_structure/B10773.java)
+
 
 대회
 ============
