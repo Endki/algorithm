@@ -152,6 +152,7 @@
 | 47 | [배수 찾기](https://www.acmicpc.net/problem/4504)         | [java](acmicpc.net/math/B4504.java)  | 48 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[java](acmicpc.net/math/B2869.java)
 |49|[소수](https://www.acmicpc.net/problem/2581)|[java](acmicpc.net/math/B2581.java)|50|[소수 구하기](https://www.acmicpc.net/problem/1929)|[java](https://www.acmicpc.net/problem/B1929.java)
 |51|[네 번째 점](https://www.acmicpc.net/problem/3009)|[java](acmicpc.net/math/B3009.java)|52|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|[java](https://www.acmicpc.net/problem/B9020.java)
+|  53  |       [초콜릿 자르기](https://www.acmicpc.net/problem/2163)       | [java](acmicpc.net/math/B2163.java) |/B11966.java) |
 
 
 문자열 처리, 정렬, 탐색, 해싱
@@ -178,7 +179,8 @@
 |  33  |     [JOI와 IOI](https://www.acmicpc.net/problem/5586)         | [java](acmicpc.net/string_handling/B5586.java)  | 34  |      [더하기](https://www.acmicpc.net/problem/10822)      | [java](acmicpc.net/string_handling/B10822.java) |
 |  35  |    [!밀비 급일](https://www.acmicpc.net/problem/11365)    | [java](acmicpc.net/string_handling/B11365.java) |  36  |     [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [java](acmicpc.net/string_handling/B1919.java)  |
 |  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [java](acmicpc.net/string_handling/B10989.java) |  38 | [소트인사이드](https://www.acmicpc.net/problem/1427) | [java](acmicpc.net/string_handling/B1427.java)|
-|  39  |   [통계학](https://www.acmicpc.net/problem/2108)          | [java](acmicpc.net/string_handling/B2108.java)  |
+|  39  |   [통계학](https://www.acmicpc.net/problem/2108)          | [java](acmicpc.net/string_handling/B2108.java)  | 40 | [보물](https://www.acmicpc.net/problem/1026) | [java](acmicpc.net/string_handling/B1026.java)|
+
 
 
 Dynamic Programming
@@ -187,7 +189,8 @@ Dynamic Programming
 | 번호 | 문제                                                                 | 코드                         | 번호 | 문제                                                                | 코드                         |
 |:----:|:--------------------------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------------------------:|:----------------------------:|
 |  1   |          [1로 만들기](https://www.acmicpc.net/problem/1463)          | [java](acmicpc.net/dp/B1463.java)  |  2   |        [1, 2, 3더하기](https://www.acmicpc.net/problem/9095)        | [java](acmicpc.net/dp/B9095.java)  |
-|3|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|[java][acmicpc.net/dp/B10870.java]|
+|3|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|[java][acmicpc.net/dp/B10870.java]|  4   |        [상자넣기](https://www.acmicpc.net/problem/1965)        | [java](acmicpc.net/dp/B1965.java)|
+|  5   |          [동물원](https://www.acmicpc.net/problem/1309)          | [java](acmicpc.net/dp/B1309.java)  |   6   |        [이동하기](https://www.acmicpc.net/problem/11048)        | [java](acmicpc.net/dp/B11048.java)  |
 
 BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 -----------------------------------------
