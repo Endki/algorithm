@@ -16,6 +16,9 @@
 |  5   |     [IBM 빼기 1](https://www.acmicpc.net/problem/6321)      | [java](acmicpc.net/beginner/B6321.java) |  6  | [두 수 비교하기](https://www.acmicpc.net/problem/1330)| [java](acmicpc.net/beginner/B1330.java)
 |  7  | [윤년](https://www.acmicpc.net/problem/2753)         |        [java](acmicpc.net/beginner/B2753.java)   | 8 | [사분면 고르기](https://www.acmicpc.net/problem/14681)|[java](acmicpc.net/beginner/B14681.java)||
 
+
+
+
 구현
 ----
 
@@ -95,15 +98,20 @@
 | 번호 | 문제                                                           | 코드                         | 번호 | 문제                                                | 코드                         |
 |:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------:|:----------------------------:|
 |  1   |      [Hello World](https://www.acmicpc.net/problem/2557)       | [java](acmicpc.net/print/B2557.java)  |  2   |    [N찍기](https://www.acmicpc.net/problem/2741)    | [java](acmicpc.net/print/B2741.cpp)  |
-|  3   |       [별찍기 - 1](https://www.acmicpc.net/problem/2438)       | [java](acmicpc.net/print/B2438.java)  |  4   | [별찍기 - 2](https://www.acmicpc.net/problem/2439)  | [java](acmicpc.net/print/B2439.java)  |
-|  5   |       [별찍기 - 3](https://www.acmicpc.net/problem/2440)       | [java](acmicpc.net/print/B2440.java)  |  6   |   [구구단](https://www.acmicpc.net/problem/2739)    | [java](acmicpc.net/print/B2739.java)  |
+|  3   |       [별 찍기 - 1](https://www.acmicpc.net/problem/2438)       | [java](acmicpc.net/print/B2438.java)  |  4   | [별 찍기 - 2](https://www.acmicpc.net/problem/2439)  | [java](acmicpc.net/print/B2439.java)  |
+|  5   |       [별 찍기 - 3](https://www.acmicpc.net/problem/2440)       | [java](acmicpc.net/print/B2440.java)  |  6   |   [구구단](https://www.acmicpc.net/problem/2739)    | [java](acmicpc.net/print/B2739.java)  |
 |  7   |         [기찍 N](https://www.acmicpc.net/problem/2742)         | [java](acmicpc.net/print/B2742.java)  |  8   |     [개](https://www.acmicpc.net/problem/10172)     | [java](acmicpc.net/print/B10172.java) |
 |  9   |    [그대로 출력하기](https://www.acmicpc.net/problem/11718)    | [java](acmicpc.net/print/B11718.java) |  10  | [숫자의 합](https://www.acmicpc.net/problem/11720)  | [java](acmicpc.net/print/B11720.java) |
 |  11  | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721) | [java](acmicpc.net/print/B11721.java) |  12  |    [??!](https://www.acmicpc.net/problem/10926)     | [java](acmicpc.net/print/B10926.java) |
-|  13  |   [그대로 출력하기2](https://www.acmicpc.net/problem/11719)    | [java](acmicpc.net/print/B11719.java) |  14  | [별찍기 - 11](https://www.acmicpc.net/problem/2448) | [java](acmicpc.net/print/B2448.java)  |
+|  13  |   [그대로 출력하기2](https://www.acmicpc.net/problem/11719)    | [java](acmicpc.net/print/B11719.java) |  14  | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [java](acmicpc.net/print/B2448.java)  |
 |  15  |        [고양이](https://www.acmicpc.net/problem/10171)         | [java](acmicpc.net/print/B10171.java) |16| [빠른 A+B](https://www.acmicpc.net/problem/15552) | [java](acmicpc.net/print/B15552.java) |
-|  17  | [별찍기 - 9](https://www.acmicpc.net/problem/2446)|[java](acmicpc.net/print/B2446.java) |  18  | [별찍기 - 13](https://www.acmicpc.net/problem/2523)|[java](acmicpc.net/print/B2523.java)|
-|  19  | [별찍기 - 21](https://www.acmicpc.net/problem/10996)|[java](acmicpc.net/print/B10996.java)|
+|  17  | [별 찍기 - 9](https://www.acmicpc.net/problem/2446)|[java](acmicpc.net/print/B2446.java) |  18  | [별 찍기 - 13](https://www.acmicpc.net/problem/2523)|[java](acmicpc.net/print/B2523.java)|
+|  19  | [별 찍기 - 21](https://www.acmicpc.net/problem/10996)|[java](acmicpc.net/print/B10996.java)|  20  | [별 찍기 - 4](https://www.acmicpc.net/problem/2441)|[java](acmicpc.net/print/B2441.java)|
+|  21  | [별 찍기 - 5](https://www.acmicpc.net/problem/2442)|[java](acmicpc.net/print/B2442.java)|  22  | [별 찍기 - 6](https://www.acmicpc.net/problem/2443)|[java](acmicpc.net/print/B2443.java)|
+|  23  | [별 찍기 - 7](https://www.acmicpc.net/problem/2444)|[java](acmicpc.net/print/B2444.java)|  24  | [별 찍기 - 8](https://www.acmicpc.net/problem/2445)|[java](acmicpc.net/print/B2445.java)|
+
+
+
 
 브루트포스, 백트래킹
 --------------------
@@ -191,6 +199,8 @@ Dynamic Programming
 |  1   |          [1로 만들기](https://www.acmicpc.net/problem/1463)          | [java](acmicpc.net/dp/B1463.java)  |  2   |        [1, 2, 3더하기](https://www.acmicpc.net/problem/9095)        | [java](acmicpc.net/dp/B9095.java)  |
 |3|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|[java][acmicpc.net/dp/B10870.java]|  4   |        [상자넣기](https://www.acmicpc.net/problem/1965)        | [java](acmicpc.net/dp/B1965.java)|
 |  5   |          [동물원](https://www.acmicpc.net/problem/1309)          | [java](acmicpc.net/dp/B1309.java)  |   6   |        [이동하기](https://www.acmicpc.net/problem/11048)        | [java](acmicpc.net/dp/B11048.java)  |
+|  7   |          [개근상](https://www.acmicpc.net/problem/1563)          | [java](acmicpc.net/dp/B1563.java)  |  
+
 
 BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 -----------------------------------------
