@@ -109,7 +109,7 @@
 |  19  | [별 찍기 - 21](https://www.acmicpc.net/problem/10996)|[java](acmicpc.net/print/B10996.java)|  20  | [별 찍기 - 4](https://www.acmicpc.net/problem/2441)|[java](acmicpc.net/print/B2441.java)|
 |  21  | [별 찍기 - 5](https://www.acmicpc.net/problem/2442)|[java](acmicpc.net/print/B2442.java)|  22  | [별 찍기 - 6](https://www.acmicpc.net/problem/2443)|[java](acmicpc.net/print/B2443.java)|
 |  23  | [별 찍기 - 7](https://www.acmicpc.net/problem/2444)|[java](acmicpc.net/print/B2444.java)|  24  | [별 찍기 - 8](https://www.acmicpc.net/problem/2445)|[java](acmicpc.net/print/B2445.java)|
-|  25  | [별 찍기 - 15](https://www.acmicpc.net/problem/10990)|[java](acmicpc.net/print/B10990.java)|
+|  25  | [별 찍기 - 15](https://www.acmicpc.net/problem/10990)|[java](acmicpc.net/print/B10990.java)| 26  | [별 찍기 - 16](https://www.acmicpc.net/problem/10990)|[java](acmicpc.net/print/B10990.java)| 
 
 
 
