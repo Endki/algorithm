@@ -36,7 +36,7 @@
 |  19  |          [투표](https://www.acmicpc.net/problem/10040)          |  [java](acmicpc.net/implement/B10040.java)   |  20  |        [세로읽기](https://www.acmicpc.net/problem/10798)         |  [java](acmicpc.net/implement/B10798.java)   |
 |  21  |         [공약수](https://www.acmicpc.net/problem/5618)          |   [java](acmicpc.net/implement/B5618.java)   |  22  |          [올림픽](https://www.acmicpc.net/problem/8979)          |   [java](acmicpc.net/implement/B8979.java)   |
 |  23  | [직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320)  |   [java](acmicpc.net/implement/B8320.java)   |  24  |         [상근날드](https://www.acmicpc.net/problem/5543)         |   [java](acmicpc.net/implement/B5543.java)   |
-| ★25★  |         [결혼식](https://www.acmicpc.net/problem/5567)          |   [java](acmicpc.net/implement/B5567.java)   |  26  |          [영수증](https://www.acmicpc.net/problem/5565)          |   [java](acmicpc.net/implement/B5565.java)   |
+| 25  |         [결혼식](https://www.acmicpc.net/problem/5567)          |   [java](acmicpc.net/implement/B5567.java)   |  26  |          [영수증](https://www.acmicpc.net/problem/5565)          |   [java](acmicpc.net/implement/B5565.java)   |
 |  27  |        [방학 숙제](https://www.acmicpc.net/problem/5532)        |   [java](acmicpc.net/implement/B5532.java)   |  28  |     [과제 안 내신 분](https://www.acmicpc.net/problem/5597)      |   [java](acmicpc.net/implement/B5597.java)   |
 |  29  |     [심부름 가는 길](https://www.acmicpc.net/problem/5554)      |   [java](acmicpc.net/implement/B5554.java)   |  30  |        [시험 점수](https://www.acmicpc.net/problem/5596)         |   [java](acmicpc.net/implement/B5596.java)   |
 |  31  |        [콘테스트](https://www.acmicpc.net/problem/5576)         |   [java](acmicpc.net/implement/B5576.java)   |  32  |        [시험 성적](https://www.acmicpc.net/problem/9498)         |   [java](acmicpc.net/implement/B9498.java)   |
@@ -54,7 +54,7 @@
 |  55  |       [기상캐스터](https://www.acmicpc.net/problem/10709)       |  [java](acmicpc.net/implement/B10709.java)   |  56  |           [한수](https://www.acmicpc.net/problem/1065)           |   [java](acmicpc.net/implement/B1065.java)   |
 |  57  |          [벌집](https://www.acmicpc.net/problem/2292)           |   [java](acmicpc.net/implement/B2292.java)   |  58  |      [차이를 최대로](https://www.acmicpc.net/problem/10819)      |  [java](acmicpc.net/implement/B10819.java)   |
 |  59  |         [나머지](https://www.acmicpc.net/problem/3052)          |   [java](acmicpc.net/implement/B3052.java)   |  60  |          [컵홀더](https://www.acmicpc.net/problem/2810)          |   [java](acmicpc.net/implement/B2810.java)   |
-|  ★61★  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       |   [java](acmicpc.net/implement/B9324.java)   |  62  |    [게임을 만든 동준이](https://www.acmicpc.net/problem/2847)    |   [java](acmicpc.net/implement/B2847.java)   |
+|  61  |       [진짜 메시지](https://www.acmicpc.net/problem/9324)       |   [java](acmicpc.net/implement/B9324.java)   |  62  |    [게임을 만든 동준이](https://www.acmicpc.net/problem/2847)    |   [java](acmicpc.net/implement/B2847.java)   |
 |  63  |          [개미](https://www.acmicpc.net/problem/4307)           |   [java](acmicpc.net/implement/B4307.java)   |  64  |       [약수 구하기](https://www.acmicpc.net/problem/2501)        |   [java](acmicpc.net/implement/B2501.java)   |
 |  65  |    [크로스워드 만들기](https://www.acmicpc.net/problem/2804)    |   [java](acmicpc.net/implement/B2804.java)   |  66  |        [ACM 호텔](https://www.acmicpc.net/problem/10250)         |  [java](acmicpc.net/implement/B10250.java)   |
 |  67  |      [풍선 맞추기](https://www.acmicpc.net/problem/11509)       |  [java](acmicpc.net/implement/B11509.java)   |  68  |         [분수찾기](https://www.acmicpc.net/problem/1193)         |   [java](acmicpc.net/implement/B1193.java)   |
@@ -109,7 +109,7 @@
 |  19  | [별 찍기 - 21](https://www.acmicpc.net/problem/10996)|[java](acmicpc.net/print/B10996.java)|  20  | [별 찍기 - 4](https://www.acmicpc.net/problem/2441)|[java](acmicpc.net/print/B2441.java)|
 |  21  | [별 찍기 - 5](https://www.acmicpc.net/problem/2442)|[java](acmicpc.net/print/B2442.java)|  22  | [별 찍기 - 6](https://www.acmicpc.net/problem/2443)|[java](acmicpc.net/print/B2443.java)|
 |  23  | [별 찍기 - 7](https://www.acmicpc.net/problem/2444)|[java](acmicpc.net/print/B2444.java)|  24  | [별 찍기 - 8](https://www.acmicpc.net/problem/2445)|[java](acmicpc.net/print/B2445.java)|
-|  25  | [별 찍기 - 15](https://www.acmicpc.net/problem/10990)|[java](acmicpc.net/print/B10990.java)| 26  | [별 찍기 - 16](https://www.acmicpc.net/problem/10990)|[java](acmicpc.net/print/B10990.java)| 
+|  25  | [별 찍기 - 15](https://www.acmicpc.net/problem/10990)|[java](acmicpc.net/print/B10990.java)| 26  | [별 찍기 - 16](https://www.acmicpc.net/problem/10990)|[java](acmicpc.net/print/B10990.java)|
 
 
 
@@ -197,9 +197,11 @@ Dynamic Programming
 | 번호 | 문제                                                                 | 코드                         | 번호 | 문제                                                                | 코드                         |
 |:----:|:--------------------------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------------------------:|:----------------------------:|
 |  1   |          [1로 만들기](https://www.acmicpc.net/problem/1463)          | [java](acmicpc.net/dp/B1463.java)  |  2   |        [1, 2, 3더하기](https://www.acmicpc.net/problem/9095)        | [java](acmicpc.net/dp/B9095.java)  |
-|3|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|[java][acmicpc.net/dp/B10870.java]|  4   |        [상자넣기](https://www.acmicpc.net/problem/1965)        | [java](acmicpc.net/dp/B1965.java)|
+|3| [피보나치 수 5](https://www.acmicpc.net/problem/10870) | [java](acmicpc.net/dp/B10870.java) |  4   |        [상자넣기](https://www.acmicpc.net/problem/1965)        | [java](acmicpc.net/dp/B1965.java)|
 |  5   |          [동물원](https://www.acmicpc.net/problem/1309)          | [java](acmicpc.net/dp/B1309.java)  |   6   |        [이동하기](https://www.acmicpc.net/problem/11048)        | [java](acmicpc.net/dp/B11048.java)  |
 |  7   |          [개근상](https://www.acmicpc.net/problem/1563)          | [java](acmicpc.net/dp/B1563.java)  |  
+
+
 
 
 BFS, DFS, 플로이드 와샬, 그래프 이론, MST
