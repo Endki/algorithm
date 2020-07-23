@@ -1,13 +1,15 @@
-알고리즘 문제풀이
-=================
-
-백준 온라인저지(acmicpc.net)의 알고리즘 문제 풀이입니다.
-
 백준 온라인 저지
 ================
 
+백준 온라인저지(acmicpc.net)의 알고리즘 문제 풀이입니다.
+
+
+
+
 입문용
 ------
+<details close> <summary> 접기 / 펼치기 </summary>
+
 
 | 번호 | 문제                                                        | 코드                           | 번호 | 문제                                                | 코드                           |
 |:----:|:-----------------------------------------------------------:|:------------------------------:|:----:|:---------------------------------------------------:|:------------------------------:|
@@ -16,11 +18,13 @@
 |  5   |     [IBM 빼기 1](https://www.acmicpc.net/problem/6321)      | [java](acmicpc.net/beginner/B6321.java) |  6  | [두 수 비교하기](https://www.acmicpc.net/problem/1330)| [java](acmicpc.net/beginner/B1330.java)
 |  7  | [윤년](https://www.acmicpc.net/problem/2753)         |        [java](acmicpc.net/beginner/B2753.java)   | 8 | [사분면 고르기](https://www.acmicpc.net/problem/14681)|[java](acmicpc.net/beginner/B14681.java)||
 
-
+</details>
 
 
 구현
 ----
+
+<details close> <summary> 접기 / 펼치기 </summary>
 
 | 번호 | 문제                                                            | 코드                            | 번호 | 문제                                                             | 코드                            |
 |:----:|:---------------------------------------------------------------:|:-------------------------------:|:----:|:----------------------------------------------------------------:|:-------------------------------:|
@@ -74,10 +78,12 @@
 |  95  |      [중간계 전쟁](https://www.acmicpc.net/problem/4435)       |  [java](acmicpc.net/implement/B4435.java)   |  96  |          [순서쌍의 곱의 합](https://www.acmicpc.net/problem/13900)          |   [java](acmicpc.net/implement/B13900.java)   |
 |  97  |      [하얀 칸](https://www.acmicpc.net/problem/1100)       |  [java](acmicpc.net/implement/B1100.java)   |  98  |          [](https://www.acmicpc.net/problem/13900)          |   [java](acmicpc.net/implement/B13900.java)   |
 
-
+</details>
 
 시뮬레이션
 ----------
+
+<details close> <summary> 접기 / 펼치기 </summary>
 
 | 번호 | 문제                                                         | 코드                         | 번호 | 문제                                                       | 코드                         |
 |:----:|:------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------:|:----------------------------:|
@@ -92,8 +98,12 @@
 |  17  |     [수열의 변화](https://www.acmicpc.net/problem/1551)      | [java](acmicpc.net/simulation/B1551.java)  |  18  |     [그림 비교](https://www.acmicpc.net/problem/2160)      | [java](acmicpc.net/simulation/B2160.java)  |
 
 
+</details>
+
 출력
 ----
+
+<details close> <summary> 접기 / 펼치기 </summary>
 
 | 번호 | 문제                                                           | 코드                         | 번호 | 문제                                                | 코드                         |
 |:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------:|:----------------------------:|
@@ -112,9 +122,13 @@
 |  25  | [별 찍기 - 15](https://www.acmicpc.net/problem/10990)|[java](acmicpc.net/print/B10990.java)| 26  | [별 찍기 - 16](https://www.acmicpc.net/problem/10990)|[java](acmicpc.net/print/B10990.java)|
 
 
+</details>
+
 
 브루트포스, 백트래킹
 --------------------
+<details close> <summary> 접기 / 펼치기 </summary>
+
 
 | 번호 | 문제                                                  | 코드                         | 번호 | 문제                                                     | 코드                         |
 |:----:|:-----------------------------------------------------:|:----------------------------:|:----:|:--------------------------------------------------------:|:----------------------------:|
@@ -128,9 +142,12 @@
 |  15  |  [테트로미노](https://www.acmicpc.net/problem/14500)  | [java](acmicpc.net/backtraking_bruteforce/B14500.java) |  16  | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [java](acmicpc.net/backtraking_bruteforce/B14888.java) |
 |  17  |  [영화감독 숌](https://www.acmicpc.net/problem/1436) | [java](acmicpc.net/backtraking_bruteforce/B1436.java) | 18 |  [N과 M (4)](https://www.acmicpc.net/problem/15652)   | [java](acmicpc.net/backtraking_bruteforce/B15652.java)
 
+</details>
 
 수학
 ----
+
+<details close> <summary> 접기 / 펼치기 </summary>
 
 | 번호 | 문제                                                           | 코드                         | 번호 | 문제                                                            | 코드                         |
 |:----:|:--------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------------:|:----------------------------:|
@@ -162,9 +179,14 @@
 |51|[네 번째 점](https://www.acmicpc.net/problem/3009)|[java](acmicpc.net/math/B3009.java)|52|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|[java](https://www.acmicpc.net/problem/B9020.java)
 |  53  |       [초콜릿 자르기](https://www.acmicpc.net/problem/2163)       | [java](acmicpc.net/math/B2163.java) |/B11966.java) |
 
+</details>
+
 
 문자열 처리, 정렬, 탐색, 해싱
 -----------------------------
+
+
+<details close> <summary> 접기 / 펼치기 </summary>
 
 | 번호 | 문제                                                      | 코드                         | 번호 | 문제                                                             | 코드                         |
 |:----:|:---------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
@@ -189,10 +211,12 @@
 |  37  |   [수 정렬하기3](https://www.acmicpc.net/problem/10989)   | [java](acmicpc.net/string_handling/B10989.java) |  38 | [소트인사이드](https://www.acmicpc.net/problem/1427) | [java](acmicpc.net/string_handling/B1427.java)|
 |  39  |   [통계학](https://www.acmicpc.net/problem/2108)          | [java](acmicpc.net/string_handling/B2108.java)  | 40 | [보물](https://www.acmicpc.net/problem/1026) | [java](acmicpc.net/string_handling/B1026.java)|
 
-
+</details>
 
 Dynamic Programming
 -------------------
+
+<details close> <summary> 접기 / 펼치기 </summary>
 
 | 번호 | 문제                                                                 | 코드                         | 번호 | 문제                                                                | 코드                         |
 |:----:|:--------------------------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------------------------:|:----------------------------:|
@@ -201,19 +225,26 @@ Dynamic Programming
 |  5   |          [동물원](https://www.acmicpc.net/problem/1309)          | [java](acmicpc.net/dp/B1309.java)  |   6   |        [이동하기](https://www.acmicpc.net/problem/11048)        | [java](acmicpc.net/dp/B11048.java)  |
 |  7   |          [개근상](https://www.acmicpc.net/problem/1563)          | [java](acmicpc.net/dp/B1563.java)  |  
 
-
+</details>
 
 
 BFS, DFS, 플로이드 와샬, 그래프 이론, MST
 -----------------------------------------
 
+<details close> <summary> 접기 / 펼치기 </summary>
+
+
 | 번호 | 문제                                                             | 코드                         | 번호 | 문제                                                      | 코드                         |
 |:----:|:----------------------------------------------------------------:|:----------------------------:|:----:|:---------------------------------------------------------:|:----------------------------:|
 |  1   |        [DFS와 BFS](https://www.acmicpc.net/problem/1260)         | [java](acmicpc.net/BFS_DFS/B1260.java)  |  2   | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)  | [java](acmicpc.net/BFS_DFS/B1260.java)  |
 
+</details>
+
 
 Greedy Algorithm
 ----------------
+
+<details close> <summary> 접기 / 펼치기 </summary>
 
 | 번호 | 문제                                                 | 코드                         | 번호 | 문제                                                  | 코드                         |
 |:----:|:----------------------------------------------------:|:----------------------------:|:----:|:-----------------------------------------------------:|:----------------------------:|
@@ -224,8 +255,13 @@ Greedy Algorithm
 |  9  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [java](acmicpc.net/greedy/B1541.java)  |  10  | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  | [java](acmicpc.net/greedy/B1138.java)  |
 |  11  |    [문자열](https://www.acmicpc.net/problem/1120)    | [java](acmicpc.net/greedy/B1120.java) |  12  |  [폴리오미노](https://www.acmicpc.net/problem/1343)  | [java](acmicpc.net/greedy/B1343.java)  |      
 
+</details>
+
+
 자료구조
 --------
+
+<details close> <summary> 접기 / 펼치기 </summary>
 
 | 번호 | 문제                                                     | 코드                         | 번호 | 문제                                                                | 코드                         |
 |:----:|:--------------------------------------------------------:|:----------------------------:|:----:|:-------------------------------------------------------------------:|:----------------------------:|
@@ -235,9 +271,15 @@ Greedy Algorithm
 |  7   |    [스택 수열](https://www.acmicpc.net/problem/1874)     | [java](acmicpc.net/data_structure/B1874.java)  |  8   |         [후위 표기식](https://www.acmicpc.net/problem/1918)         | [java](acmicpc.net/data_structure/B1918.java)  |
 |  9  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [java](acmicpc.net/data_structure/B1620.java)  |  10 | [제로](https://www.acmicpc.net/problem/10773) | [java](acmicpc.net/data_structure/B10773.java)
 
+</details>
+
 
 대회
 ============
+
+<details close> <summary> 접기 / 펼치기 </summary>
+
+
 
 Coder's High 2014 예비소집
 -------
@@ -247,3 +289,5 @@ Coder's High 2014 예비소집
 |  1   |            [Maximum Subarray](https://www.acmicpc.net/problem/10211)            | [java](acmicpc.net/CodersHigh2014/B10211.java)  
 |  2   |            [Mystery](https://www.acmicpc.net/problem/10212)            | [java](acmicpc.net/CodersHigh2014/B10212.java)  
 |  3   |            [XH Company](https://www.acmicpc.net/problem/10213)            |  
+
+</details>
