@@ -2,12 +2,12 @@
 -----------------------------------------
 
 
-### Level 1
+### Hash
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
 | 번호 | 문제                                                                                        | 코드                   | 번호 | 문제                                                                                       | 코드                   |
 |:----:|:-------------------------------------------------------------------------------------------:|:----------------------:|:----:|:------------------------------------------------------------------------------------------:|:----------------------:|
-|  1   |            [2016년](https://www.welcomekakao.com/learn/courses/30/lessons/12901)            | [cpp](source/1-1.cpp)  |  2   |    [가운데 글자 가져오기](https://www.welcomekakao.com/learn/courses/30/lessons/12903)     | [cpp](source/1-2.cpp)  |
+|  1   |            [완주하지못한선수(hash_ver)](https://programmers.co.kr/learn/courses/30/lessons/42576)            | [java](src/hash/완주하지못한선수_hash.java)  |  2   |    [완주하지못한선수(sort_ver)](https://programmers.co.kr/learn/courses/30/lessons/42576)     | [java](src/hash/완주하지못한선수_sort.java)  |
 
 </details>
