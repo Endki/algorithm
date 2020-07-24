@@ -2,7 +2,7 @@ package hash;
 
 import java.util.Arrays;
 
-public class ¿ÏÁÖÇÏÁö¸øÇÑ¼±¼ö_sort {
+public class ì™„ì£¼í•˜ì§€ëª»í•œì„ ìˆ˜_sort {
 
 	public static void main(String[] args) {
 

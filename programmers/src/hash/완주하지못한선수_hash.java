@@ -2,7 +2,7 @@ package hash;
 
 import java.util.HashMap;
 
-public class ¿ÏÁÖÇÏÁö¸øÇÑ¼±¼ö_hash {
+public class ì™„ì£¼í•˜ì§€ëª»í•œì„ ìˆ˜_hash {
 
 	public static void main(String[] args) {
 
