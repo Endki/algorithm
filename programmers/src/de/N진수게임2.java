@@ -19,10 +19,6 @@ public class N진수게임2 {
         for(int i=0;i<t;i++) {
         	output.append(sb.charAt(i*m+p-1));
         }
-        
-        
-        
-        
         return output.toString();
 	  }
 
