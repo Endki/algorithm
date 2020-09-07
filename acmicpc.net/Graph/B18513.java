@@ -19,38 +19,46 @@ public class B18513 {
 		int K = Integer.parseInt(stz.nextToken());
 
 		HashSet<Integer> set = new HashSet<Integer>();
-		Queue<Integer> qu = new LinkedList<Integer>();
+		Queue<Integer[]> qu = new LinkedList<Integer[]>();
+
 		stz = new StringTokenizer(br.readLine());
 
 		for (int i = 0; i < N; i++) {
 			int k = Integer.parseInt(stz.nextToken());
-			qu.offer(k);
+			qu.offer(new Integer[] {k,k});
 			set.add(k); // boolean 대신 사용 치킨집 위치 지정
 		}
 
-		int result = 0;
+		long result = 0;
 
 		while (!qu.isEmpty()) {
 
-			int x = qu.poll();
+			int size = qu.size();
 
-			for (int i = 0; i < 2; i++) {
-				int rdx = x + dx[i];
+			for (int i = 0; i < size; i++) {
+				Integer[] arr=qu.poll();
+				int x=arr[0];
+				int base=arr[1];
 
-				if (rdx > 10000000 || rdx < -100000000 || set.contains(rdx)) {
-					continue;
+				for (int j = 0; j < 2; j++) {
+					int rdx = x + dx[j];
+
+					if (rdx > 10000000 || rdx < -100000000 || set.contains(rdx)) {
+						continue;
+					}
+
+					result += Math.abs(rdx - base);
+//					System.out.println(rdx+" "+x);
+//					System.out.println(result);
+					K--;
+					if (K == 0) {
+//						System.out.println(set.toString());
+						System.out.println(result);
+						return ;
+					}
+					set.add(rdx);
+					qu.offer(new Integer[] {rdx,base});
 				}
-
-				result += Math.abs(rdx - x);
-				K--;
-				if (K == 0) {
-					break;
-				}
-				set.add(rdx);
-			}
-
-			if (K == 0) {
-				break;
 			}
 		}
 
