@@ -19,8 +19,8 @@ public class B15650 {
 
 	}
 
-	public static void solve(int count,int M,int N,int[] arr,boolean[] visit,int num) {
-		if(count==M) {
+	public static void solve(int depth,int M,int N,int[] arr,boolean[] visit,int num) {
+		if(depth==M) {
 			for(int i=0;i<M;i++) {
 				System.out.print(arr[i]+" ");
 			}
@@ -30,8 +30,8 @@ public class B15650 {
 		for(int i=num;i<=N;i++) {
 			if(!visit[i]) {
 				visit[i]=true;
-				arr[count]=i;
-				solve(count+1,M,N,arr,visit,i+1);
+				arr[depth]=i;
+				solve(depth+1,M,N,arr,visit,i+1);
 				visit[i]=false;
 			}
 			
