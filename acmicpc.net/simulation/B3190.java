@@ -90,7 +90,7 @@ public class B3190 {
 				//꼬리 위치 false 변경
 				visited[tailX][tailY] = false;
 			}else {
-				map[rdx][rdy]=0;  //분노의 라인 ... 이거때문에 40분을..
+				map[rdx][rdy]=0;  //분노의 라인 ... 이거때문에 20분을..
 			}
 			
 			//꼬리의 정보를 가진 qu에 현재 방향의 좌표값을 넣어줌
