@@ -6,7 +6,7 @@ public class 순위 {
 		
 		
 		System.out.println(solution(5, new int[][] {{4, 3}, {4, 2}, {3, 2}, {1, 2}, {2, 5}}));
-		System.out.println(solution(3, new int[][] {{1, 2}, {1, 3},{2,3}}));
+//		System.out.println(solution(3, new int[][] {{1, 2}, {1, 3},{2,3}}));
 	}
     static public int solution(int n, int[][] results) {
         int answer = 0;
@@ -28,6 +28,8 @@ public class 순위 {
         }
         //null은 0이다.
         
+//        printA(n,opgg);
+        
         for(int i=1;i<=n;i++) {
         	for(int j=1;j<=n;j++) {
         		//패배 전적이 있다면
@@ -38,63 +40,12 @@ public class 순위 {
         					
         					//전적을 남겨줌
         					opgg[k][j]=-1;
+        					opgg[j][k]=1;
         				}
         			}
         		}
         	}
         }
-     
-        
-        for(int i=1;i<=n;i++) {
-        	for(int j=1;j<=n;j++) {
-        		//승리 전적이 있다면
-        		if(opgg[i][j]==1) {
-        			for(int k=1;k<=n;k++) {
-        				//내가 진 친구를 찾아 
-        				if(opgg[i][k]==-1) {
-        					
-        					//전적을 남겨줌
-        					opgg[k][j]=1;
-        				}
-        			}
-        		}
-        	}
-        }
-        
-        //때려맞춘 부분
-        for(int i=1;i<=n;i++) {
-        	for(int j=1;j<=n;j++) {
-        		//패배 전적이 있다면
-        		if(opgg[i][j]==-1) {
-        			for(int k=1;k<=n;k++) {
-        				//내가 이긴 친구를 찾아 
-        				if(opgg[i][k]==1) {
-        					
-        					//전적을 남겨줌
-        					opgg[k][j]=-1;
-        				}
-        			}
-        		}
-        	}
-        }
-        
-        
-        for(int i=1;i<=n;i++) {
-        	for(int j=1;j<=n;j++) {
-        		//승리 전적이 있다면
-        		if(opgg[i][j]==1) {
-        			for(int k=1;k<=n;k++) {
-        				//내가 진 친구를 찾아 
-        				if(opgg[i][k]==-1) {
-        					
-        					//전적을 남겨줌
-        					opgg[k][j]=1;
-        				}
-        			}
-        		}
-        	}
-        }
-        
 //        printA(n,opgg);
         
         
