@@ -4,7 +4,7 @@ public class 신규아이디추천 {
 	public static void main(String[] args){
 		
 		System.out.println(Sol("...!@BaT#*..y.abcdefghijklm"));
-		System.out.println(Sol("abcdefghijklmn.p"));
+//		System.out.println(Sol("abcdefghijklmn.p"));
 	}
 	
 	public static String Sol(String new_id) {
@@ -14,7 +14,8 @@ public class 신규아이디추천 {
 		
 		//2단계
 		output=output.replaceAll("[^a-z0-9-_.]", "");
-		
+//		output=output.replaceAll("[^qwertyuiopasdfghjklzxcvbnm1234567890/-/_.]", "");
+//		System.out.println(output);
 		//3단계
 		while(output.contains("..")) {
 			output=output.replace("..", ".");
