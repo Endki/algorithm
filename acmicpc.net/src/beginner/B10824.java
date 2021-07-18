@@ -17,8 +17,7 @@ public class B10824 {
 		
 		long A=Long.parseLong(AB);
 		long B=Long.parseLong(CD);
-		
-		
+				
 		long sum=A+B;
 		System.out.println(sum);
 	}
