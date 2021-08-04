@@ -19,9 +19,17 @@ public class B5032 {
 		
 		int answer=0;
 		
+		e+=f;
+		
 		while(!(e<c)) {
+			answer+=e/c;
 			
+			int temp=0;
+			temp=e/c;
+			e%=c;
+			e+=temp;
 		}
+		System.out.println(answer);
 
 	}
 
