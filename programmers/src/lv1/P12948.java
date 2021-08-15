@@ -1,6 +1,6 @@
 package lv1;
 
-public class B12948 {
+public class P12948 {
 
 	public static void main(String[] args) {
 
