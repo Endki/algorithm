@@ -9,7 +9,6 @@ public class P12933 {
 
 	}
     public static long solution(long n) {
-        long answer = 0;
         String input=String.valueOf(n);
         int[] arr=new int[input.length()];
         
