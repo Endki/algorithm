@@ -10,49 +10,67 @@ public class P42583_ver1 {
 		System.out.println(solution(100, 100, truck_weights));
 
 	}
+	
+	static class Truck{
+		int weight;
+		int move;
+		
+		public Truck(int weight) {
+			this.weight = weight;
+			this.move = 1;
+		}
+		
+		public void moving() {
+			move++;
+		}
+		
+	}
+	
     public static int solution(int bridge_length, int weight, int[] truck_weights) {
         int answer = 0;
         
-        Queue<Integer> middle=new LinkedList<Integer>();
-        Queue<Integer> end=new LinkedList<Integer>();
+        Queue<Truck> wait=new LinkedList<Truck>();
+        Queue<Truck> move=new LinkedList<Truck>();
         
-        for(int i=0;i<bridge_length;i++) {
-        	middle.add(0);
+        for(int i=0;i<truck_weights.length;i++) {
+        	wait.add(new Truck(truck_weights[i]));
         }
         
         
         int realWeight=0;
-        int index=0;
         
-        while(end.size()!=truck_weights.length) {
-        	
-        	//1초가 지나면 맨앞의 트럭을 제외함
-        	if(middle.peek()!=0) {
-        		realWeight-=middle.peek();
-        		end.add(middle.poll());
-        	}else {
-        		middle.poll();
-        	}
-        	
-        	//다리에 오르는 과정 
-        	//다리가 견딜수 있는 무게 , 대기 트럭이 남아있으면  다리에 트럭을 올린다.
-        	if(index<truck_weights.length && realWeight+truck_weights[index]<=weight) {
-        		middle.add(truck_weights[index]);
-        		realWeight+=truck_weights[index];
-        		index+=1;
-        	}
-        	//아니면 0을 올림 
-        	else {
-        		middle.add(0);
-        	}
-        	
+        //대기 트럭이 있거나 다리위에 트럭이 있으면 계속 돔
+        while(!wait.isEmpty() || !move.isEmpty()) {
         	answer++;
+        	
+        	//다리위가 비어있으면
+        	if(move.isEmpty()) {
+        		//대기 트럭에서 하나 뺌
+        		Truck t= wait.poll();
+        		realWeight+=t.weight;
+        		move.add(t);
+        		continue;
+        	}
+        	
+        	//모든 트럭의 이동 위치를 +1 해준다. - linkedList기 때문에 모든 인덱스 접근이 가능
+        	for(Truck t: move) {
+        		t.moving();
+        	}
+        	
+        	//제일 앞의 트럭의 인덱스가 다리의 길이를 벗어나면 = 도착지에 도착하면
+        	if(move.peek().move>bridge_length) {
+        		Truck t=move.poll();
+        		realWeight-=t.weight;
+        	}
+        	
+        	//대기트럭이 비어있지 않고, 현재 무게 + 다음트럭의 무게가 다리가 지탱할 수 있는 무게 일 경우에 
+        	if(!wait.isEmpty() && realWeight + wait.peek().weight<=weight) {
+        		Truck t=wait.poll();
+        		realWeight+=t.weight;
+        		move.add(t);
+        		
+        	}
         }
-        
-        
-        
-        
-        
         return answer;
     }
 }
