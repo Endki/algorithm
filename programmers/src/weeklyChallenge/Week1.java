@@ -2,7 +2,7 @@ package weeklyChallenge;
 
 import java.io.IOException;
 
-public class week1 {
+public class Week1 {
 
 	public static void main(String[] args) throws IOException{
 		System.out.println(solution(2500, 20, 2500));
