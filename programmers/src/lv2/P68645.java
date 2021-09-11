@@ -8,6 +8,9 @@ public class P68645 {
 	}
     public int[] solution(int n) {
 //    	https://minhamina.tistory.com/58
+    	//n까지 순서대로 좌표를 변경 시켜서 넣어주는 방식!
+    	//좌표를 순서대로 숫자를 넣어주는 방식은 없을까?
+    	
     	
         int[] answer = new int[(n*(n+1))/2];
         int[][] matrix = new int[n][n];
