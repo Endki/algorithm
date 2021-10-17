@@ -1,5 +1,7 @@
 package arrays101;
 
+import java.util.ArrayList;
+
 public class RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {
         boolean[] list=new boolean[201];
