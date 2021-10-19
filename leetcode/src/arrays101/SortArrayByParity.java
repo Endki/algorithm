@@ -1,5 +1,7 @@
 package arrays101;
 
+import java.util.ArrayList;
+
 public class SortArrayByParity {
     public int[] sortArrayByParity(int[] nums) {
         ArrayList<Integer> odd=new ArrayList<Integer>();
