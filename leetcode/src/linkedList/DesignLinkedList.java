@@ -12,7 +12,7 @@ public class DesignLinkedList {
     private Node head;
     private int size;
     
-    public MyLinkedList() {
+    public  DesignLinkedList() {
         
     }
     
