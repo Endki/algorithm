@@ -32,11 +32,11 @@ public class DesignLinkedList {
     }
     
     public void addAtHead(int val) {
-        
+        addAtIndex(0,val);
     }
     
     public void addAtTail(int val) {
-        
+        addAtIndex(size,val);
     }
     
     public void addAtIndex(int index, int val) {
@@ -63,6 +63,21 @@ public class DesignLinkedList {
     }
     
     public void deleteAtIndex(int index) {
+        if(index>=size || index<0){
+            return;
+        }
+        size--;
         
+        if(index==0){
+            head=head.next;
+            return;
+        }
+        
+        Node curr=head;
+        for(int i=0;i<index-1;i++){
+            curr=curr.next;
+        }
+        
+        curr.next=curr.next.next;
     }
 }
