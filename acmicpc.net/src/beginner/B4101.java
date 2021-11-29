@@ -20,9 +20,9 @@ public class B4101 {
 			
 			
 			if(b<a) {
-				System.out.println("YES");
+				System.out.println("Yes");
 			}else {
-				System.out.println("NO");
+				System.out.println("No");
 			}
 		}
 
