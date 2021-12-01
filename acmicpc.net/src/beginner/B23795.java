@@ -19,6 +19,7 @@ public class B23795 {
 			sum+=input;
 		}
 		System.out.println(sum);
+		
 	}
 
 }
