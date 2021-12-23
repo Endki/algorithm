@@ -60,8 +60,8 @@ public class B2583 {
 		//check count
 		Queue<node> qu=new LinkedList<node>();
 		int count=0;
-		printMap(map);
-		System.out.println("=-------------------=");
+//		printMap(map);
+//		System.out.println("=-------------------=");
 		for(int i=0;i<M;i++) {
 			for(int j=0;j<N;j++) {
 				if(map[i][j]==0) {
@@ -94,7 +94,7 @@ public class B2583 {
 			}
 		}
 		
-		printMap(map);
+//		printMap(map);
 		
 		int[] arr=new int[count+1];
 		for(int i=0;i<M;i++) {
