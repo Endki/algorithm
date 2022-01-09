@@ -25,5 +25,4 @@ public class B11931 {
 		System.out.println(sb.toString());
 
 	}
-
-}
+}	
