@@ -1,4 +1,4 @@
-package lv2;
+package lv3;
 
 public class P43162 {
 	  public int solution(int n, int[][] computers) {
