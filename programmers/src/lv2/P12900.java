@@ -1,3 +1,4 @@
+package lv2;
 
 public class P12900 {
     public int solution(int n) {
