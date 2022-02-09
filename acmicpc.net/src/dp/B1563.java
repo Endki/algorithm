@@ -32,7 +32,7 @@ public class B1563 {
 		//-1이 아니면 = 초기상태가 아니면
 		if(dp[len][late][absent] != -1) {
 			
-			//다시 돌림
+			//값 리턴
 			return dp[len][late][absent];
 		}
 		
