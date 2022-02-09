@@ -1,89 +1,59 @@
 package dp;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 
 public class B1563 {
-	public static int mod = 1000000;
 
-	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
+	static int n;
+	static int dp[][][];
+	static int DIV = 1_000_000;
+	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int n = Integer.parseInt(br.readLine());
-
-		int[][][][][] D = new int[1001][3][3][3][2];
-
-		for (int now = 0; now < 3; now++) {
-			for (int prev = 0; prev < 3; prev++) {
-				for (int prev2 = 0; prev2 < 3; prev2++) {
-
-					// �Ἦ ����3���� ��
-					if (now == 1 && prev == 1 && prev2 == 1) {
-						continue;
-					}
-
-					// ���� 2���� �ȵ�
-					if ((now == 2 && prev == 2) || (now == 2 && prev2 == 2) || (prev == 2 && prev2 == 2)) {
-						continue;
-					}
-
-					if (now == 2 || prev == 2 || prev2 == 2) {
-						D[3][now][prev][prev2][1] = 1;
-					} else {
-
-						D[3][now][prev][prev2][0] = 1;
-
-					}
-
-				}
+		
+		n = Integer.parseInt(br.readLine());
+		dp = new int[n+1][3][4];
+		
+		
+		//dp map을 -1 로 초기화
+		for(int i=0; i<n+1; i++) {
+			for(int j=0; j<3; j++) {
+				Arrays.fill(dp[i][j], -1);
 			}
 		}
-
-		for (int i = 4; i <= n; i++) {
-			for (int prev = 0; prev < 3; prev++) {
-				for (int prev2 = 0; prev2 < 3; prev2++) {
-					for (int prev3 = 0; prev3 < 3; prev3++) {
-
-						// �⼮����
-						D[i][0][prev][prev2][0] += D[i - 1][prev][prev2][prev3][0];
-						D[i][0][prev][prev2][0] %= mod;
-						D[i][0][prev][prev2][1] += D[i - 1][prev][prev2][prev3][1];
-						D[i][0][prev][prev2][1] %= mod;
-
-						// �Ἦ
-
-						if (prev == 1 && prev2 == 1) {
-
-						} else {
-
-							D[i][1][prev][prev2][0] += D[i - 1][prev][prev2][prev3][0];
-							D[i][1][prev][prev2][0] %= mod;
-							D[i][1][prev][prev2][1] += D[i - 1][prev][prev2][prev3][1];
-							D[i][1][prev][prev2][1] %= mod;
-
-						}
-
-						D[i][2][prev][prev2][1] += D[i - 1][prev][prev2][prev3][0];
-						D[i][2][prev][prev2][1] %= mod;
-
-					}
-				}
-			}
+		
+		System.out.println(solve(0, 0, 0));
+	}
+	
+	//출석, 지각횟수, 결석횟수
+	static int solve(int len, int late, int absent) {
+		
+		//-1이 아니면 = 초기상태가 아니면
+		if(dp[len][late][absent] != -1) {
+			
+			//다시 돌림
+			return dp[len][late][absent];
 		}
-		int ans = 0;
-		for (int i = 0; i < 3; i++) {
-			for (int j = 0; j < 3; j++) {
-				for (int k = 0; k < 3; k++) {
-					for (int l = 0; l < 2; l++) {
-						ans += D[n][i][j][k][l];
-						ans %= mod;
-					}
-				}
-			}
+		
+		//지각이 2회연속, 결석이 3회연속이면
+		if(late > 1 || absent == 3) {
+			return 0;
 		}
-
-		System.out.println(ans);
-
+	
+		if(len > n-1) {
+			return 1;
+		}
+		
+		//초기화 
+		dp[len][late][absent] = 0;
+		
+		
+		dp[len][late][absent] = solve(len+1, late, 0) //기본 출석 +1
+				+ solve(len+1, late, absent+1) // 결석+1
+				+ solve(len+1, late+1, 0); // 지각 +1
+		
+		return dp[len][late][absent] % DIV;
+		
 	}
 }
